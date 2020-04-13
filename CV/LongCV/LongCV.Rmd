@@ -1,0 +1,65 @@
+---
+name: Sarah
+surname: Gaichas
+position: "Research Fishery Biologist"
+address: "NOAA NMFS Northeast Fisheries Science Center"
+phone: +1 508 495 2016
+email: "Sarah.Gaichas@noaa.gov"
+github: sgaichas
+date: "`r format(Sys.time(), '%B %Y')`"
+output:
+  vitae::moderncv:
+    keep_tex: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+library(vitae)
+```
+
+# Education
+
+```{r}
+library(tibble)
+
+orcid_data <- do.call("rbind",
+    rorcid::orcid_educations("0000-0002-5788-3073")$`0000-0002-5788-3073`$`affiliation-group`$summaries
+)
+
+orcid_data %>%
+  detailed_entries(
+    what = `education-summary.role-title`,
+    when = glue::glue("{`education-summary.start-date.year.value`} - {`education-summary.end-date.year.value`}"),
+    with = `education-summary.organization.name`,
+    where = `education-summary.organization.address.city`
+  )
+
+# tribble(
+#   ~ Degree, ~ Year, ~ Institution, ~ Where,
+#   "Informal studies", "1889-91", "Flying University", "Warsaw, Poland",
+#   "Master of Physics", "1893", "Sorbonne Université", "Paris, France",
+#   "Master of Mathematics", "1894", "Sorbonne Université", "Paris, France"
+# ) %>% 
+#   detailed_entries(Degree, Year, Institution, Where)
+
+```
+
+# Publications
+
+```{r}
+
+if(!file.exists("gaichas.bib")){
+scholar::get_publications("C_gOAZ4AAAAJ&hl") %>% 
+  filter(year > 2014) %>% 
+  arrange(desc(year)) %>%
+  distinct(title, .keep_all = TRUE) %>%
+  transmute(bibtype = "Article", author = as.character(author),
+            title = as.character(title),
+            journaltitle = as.character(journal), year, key = row_number()) %>% 
+  RefManageR::as.BibEntry() %>% 
+  RefManageR::WriteBib("gaichas.bib")
+}
+
+bibliography_entries("gaichas.bib")
+```
+
