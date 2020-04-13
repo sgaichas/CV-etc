@@ -1,0 +1,85 @@
+---
+title: 
+csl: plos.csl
+fontsize: 10pt
+output:
+  pdf_document:
+    includes:
+      in_header: latex/midyr-header.tex
+    keep_tex: yes
+  html_document:
+    df_print: paged
+link-citations: yes
+geometry: left=2cm, right=2cm, top=2cm, bottom=3cm, footskip = .5cm
+subparagraph: yes
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(magrittr)
+library(scholar)
+library(RefManageR)
+```
+
+## Element 1: Research (35) 
+
+### Objective: Support the development of ecosystem approaches to fishery management/Integrated Ecosystem Assessment (IEA) and Management Strategy Evaluation (MSE) for the U.S. Northeast Continental Shelf
+
+1. Conduct research on approaches to for conducting and implementing ecosystem approaches and IEAs.
+
+1. Contribute to the development and implementation of multispecies and ecosystem MSE operating models.
+
+1. Communicate research results through peer-reviewed manuscripts, reports, and oral/poster presentations at scientific meetings
+
+```{r}
+
+if(!file.exists("gaichas.bib")){
+  
+scholar::get_publications("C_gOAZ4AAAAJ&hl") %>% 
+  filter(year > 2018) %>% 
+  arrange(desc(year)) %>%
+  distinct(title, .keep_all = TRUE) %>%
+  transmute(bibtype = "Article", author = as.character(author),
+            title = as.character(title),
+            journaltitle = as.character(journal), year, key = row_number()) %>% 
+  RefManageR::as.BibEntry() %>% 
+  RefManageR::WriteBib("gaichas.bib")
+  
+}
+
+bibliography_entries("gaichas.bib")
+```
+
+
+1. Review scientific manuscripts, research proposals, and job completion reports as requested.
+
+
+
+## Element 2: Program support (15) 
+
+### Objective: Provide analytical support for EDAB and MSE research initiatives
+
+1.  Provide analytical support for Ecosystem Approaches 
+
+1.  Provide analytical support for Management Strategy Evaluation
+
+1. Serve as mentor for Center staff, graduate students, and post-doctoral researchers as appropriate.
+
+
+## ELement 3: Products and Services (30) 
+
+### Objective: Provide accurate and timely information in support of Ecosystem Approaches to Management/Integrated Ecosystem Assessments and Management Strategy Evaluation
+
+1. Ecosystem Approaches and IEA Products and Services 
+
+1. Management Strategy Evaluation Products and Services
+
+## Element 4: Planning and evaluation (20) for Ecosystem Approaches and MSE
+
+1. Serve on committees, steering groups and task forces 
+
+1. Actively promote interactions between the Ecosystem Assessment Program with other Center Divisions, the Center Directorate, and the interested public. Actively promote interdisciplinary MSE within and beyond the Center
+
+1. Interact with stakeholders to disseminate knowledge via courses, seminars, lectures and workshops as appropriate
+
+
