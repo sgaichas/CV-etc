@@ -40,3 +40,10 @@ vignettes/*.pdf
 
 # Mac stuff
 .DS_Store
+
+# interim files
+*.upa
+*.upb
+*.log
+*.tex
+

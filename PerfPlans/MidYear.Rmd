@@ -16,70 +16,172 @@ subparagraph: yes
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
-library(magrittr)
-library(scholar)
-library(RefManageR)
+# library(magrittr)
+# library(scholar)
+# library(RefManageR)
+# library(vitae)
+
 ```
 
-## Element 1: Research (35) 
+## Element 1: Research (30) 
 
 ### Objective: Support the development of ecosystem approaches to fishery management/Integrated Ecosystem Assessment (IEA) and Management Strategy Evaluation (MSE) for the U.S. Northeast Continental Shelf
 
-1. Conduct research on approaches to for conducting and implementing ecosystem approaches and IEAs.
+*1. Conduct research on approaches to for conducting and implementing ecosystem approaches and IEAs.*
 
-1. Contribute to the development and implementation of multispecies and ecosystem MSE operating models.
+*2. Contribute to the development and implementation of multispecies and ecosystem MSE operating models.*
 
-1. Communicate research results through peer-reviewed manuscripts, reports, and oral/poster presentations at scientific meetings
+*	Continued research using Atlantis models as operating models to test stock assessment model assumptions under climate change scenarios with Lynch and Kaplan: “Fragile ecosystems, robust assessments? Performance testing stock assessments for the California Current and Nordic and Barents Seas under climate change”
+    + Developed functions to extract assessment data from atlantis, Jan 2020
+    + Ongoing work on full age structured data from atlantis for assessment model ensemble comparisons in collaboration with Norway IMR, Bergen, March 2020
+    
+*	Developed model key run review criteria for use in ICES WGSAM multispecies model review
+* Compiled ICES Science Report with WGSAM multispecies model reviews, Baltic Sea
+    + review criteria: https://ices-eg.github.io/wg_WGSAM/ReviewCriteria.html
+    + ICES report: 
 
-```{r}
+*	Organize and lead monthly ecosystem/multispecies modeling meetings to coordinate modeling projects, progress
+    +	Initial ecosystem/multispecies model workplan with current status and development needs in progress
+    + Organizing multispecies model key run for Georges Bank to be reviewed by WGSAM in 2021
 
-if(!file.exists("gaichas.bib")){
-  
-scholar::get_publications("C_gOAZ4AAAAJ&hl") %>% 
-  filter(year > 2018) %>% 
-  arrange(desc(year)) %>%
-  distinct(title, .keep_all = TRUE) %>%
-  transmute(bibtype = "Article", author = as.character(author),
-            title = as.character(title),
-            journaltitle = as.character(journal), year, key = row_number()) %>% 
-  RefManageR::as.BibEntry() %>% 
-  RefManageR::WriteBib("gaichas.bib")
-  
-}
+*3. Communicate research results through peer-reviewed manuscripts, reports, and oral/poster presentations at scientific meetings*
 
-bibliography_entries("gaichas.bib")
-```
+* Published
 
+Link, J. S., Huse, G., **Gaichas, S**., and Marshak, A. R. **2020**. Changing how we approach fisheries: A first attempt at an operational framework for ecosystem approaches to fisheries management. Fish and Fisheries, 21: 393–434.
 
-1. Review scientific manuscripts, research proposals, and job completion reports as requested.
+Weiskopf, S. R., Rubenstein, M. A., Crozier, L. G., **Gaichas, S.**, Griffis, R., Halofsky, J. E., Hyde, K. J. W., et al. **2020**. Climate change effects on biodiversity, ecosystems, ecosystem services, and natural resource management in the United States. Science of The Total Environment: 137782.
 
+Townsend, H., Harvey, C. J., deReynier, Y., Davis, D., Zador, S. G., **Gaichas, S.**, Weijerman, M., et al. **2019**. Progress on Implementing Ecosystem-Based Fisheries Management in the United States Through the Use of Ecosystem Models and Analysis. Frontiers in Marine Science, 6. https://www.frontiersin.org/articles/10.3389/fmars.2019.00641/full (Accessed 19 November 2019).
 
+* Accepted
 
-## Element 2: Program support (15) 
+Lucey, S. M., **Gaichas, S.**, and Aydin, K. **Accepted**. Conducting reproducible ecosystem modeling using the open source mass balance model Rpath. Ecological Modelling.
+
+* Submitted
+
+Staudinger, M., Lynch, A., **Gaichas, S.**, Fox, M., Gibson-Reinemer, D., Langan, J., Teffer, A., Thackeray, S., and Winfield, I. **Submitted April 2020**. How does climate change affect emergent properties of aquatic ecosystems? Fisheries
+
+Muffley, B., **Gaichas, S.**, DePiper, G., Seagraves, R., and Lucey, S. **Submitted January 2020**. There is no I in EAFM: Adapting Integrated Ecosystem Assessment for Mid-Atlantic Fisheries Management. 
+
+Bastille, K., Hardison, S., DeWitt, L., Brown, J., Samhouri, J., **Gaichas, S.**, Lucey, S., Kearney, K., Best, B., Cross, S.,  Large, S., Spooner, E. **Submitted January 2020**. Improving the IEA approach using principles of open data science.
+
+* In Prep
+
+Kaplan, I., **Gaichas, S.**, Stawicz, C., Lynch, P., Marshall, K., Deroba, J., Masi, M., Brodziak, J., Aydin, K.,  Holsman, K., Townsend, H., Tommasi, D., Smith, J.,  Koenigstein,  S., Weijerman, M., Lucey, S., Link, J.  Management Strategy Evaluation: Allowing the Light on the Hill to Illuminate More than One Species.
+
+* Scientific meeting presentations, Sept 2019-April 2020
+
+SK Gaichas, GK DePiper, R Seagraves, B Muffley, S Lucey. There is no I in EAFM: adapting Integrated Ecosystem Assessment for Mid-Atlantic Fisheries Management. 2019 CERF Biennial Conference. Presented by Sean Lucey
+
+SB Hardison, SK Gaichas, S Lucey, S Large. An open-science approach to ecosystem reporting for IEA in the Northeast US. 2019 CERF Biennial Conference. Presented by Sean Hardison
+
+I Kaplan, S Gaichas, P Lynch, C Stawitz, C Hansen. Fragile ecosystems, robust assessments? Performance testing stock assessments for the California Current and Nordic and Barents Seas under climate change. 2019 PICES Annual Meeting. Presented by Isaac Kaplan
+
+R Wildermuth, G Fay, S Gaichas, G DePiper. A Bayesian decision network model for ecosystem-based management of the Georges Bank social-ecological system. 2019 PICES Annual Meeting. Presented by Robert Wildermuth
+
+M Fogarty, A Beet, S Gaichas. Fishery Functional Group Management. American Fisheries Society & The Wildlife Society 2019 Joint Annual Conference. Presented by Mike Fogarty
+
+RJ Gamble, J Tam, G DePiper, SK Gaichas, SM Lucey, PM Clay, G Fay, .... Integrating Conceptual and Qualitative Models in Integrated Ecosystem Assessments–a Case Study in the Northeast United States Large Marine Ecosystem. American Fisheries Society & The Wildlife Society 2019 Joint Annual Conference. Presented by Robert Gamble
+
+*4. Review scientific manuscripts, research proposals, and job completion reports as requested.*
+
+* Chaired Baltic Sea multispecies model key run reviews for ICES WGSAM, October 2019.
+* Invited peer reviewer for ASMFC Atlantic menhaden stock assessment and ecological reference points, week long panel in November 2019.
+* Completed 2 internal reviews (one book chapter for S&T, one article for AFSC). 
+* 1 review in progress for ICES JMS.
+
+## Element 2: Program support (10) 
 
 ### Objective: Provide analytical support for EDAB and MSE research initiatives
 
-1.  Provide analytical support for Ecosystem Approaches 
+*1.  Provide analytical support for Ecosystem Approaches* 
 
-1.  Provide analytical support for Management Strategy Evaluation
+*2.  Play lead role in Management Strategy Evaluation for EDAB and coordinate with other Center scientists working on MSE*
 
-1. Serve as mentor for Center staff, graduate students, and post-doctoral researchers as appropriate.
+*3.  Serve as mentor for Center staff, graduate students, and post-doctoral researchers as appropriate.*
 
 
 ## ELement 3: Products and Services (30) 
 
 ### Objective: Provide accurate and timely information in support of Ecosystem Approaches to Management/Integrated Ecosystem Assessments and Management Strategy Evaluation
 
-1. Ecosystem Approaches and IEA Products and Services 
+*1. Contribute to the development of Ecosystem Approaches and IEA Products and Services on the Northeast US Shelf* 
 
-1. Management Strategy Evaluation Products and Services
+* Co-lead, Mid-Atlantic EAFM conceptual modeling
 
-## Element 4: Planning and evaluation (20) for Ecosystem Approaches and MSE
+* Lead editor, State of the Ecosystem Report
+    +  supported regular check-in meetings, Sept-December 2019
+    +  collaborated on strawman synthesis, participated in synthesis workshop Jan 2020
+    +  provided draft document for collaborative editing Jan 2020
+    +  transferred to rmarkdown for pdf production, edited, and submitted to interal review Feb 2020
+    +  wrote new "response memo" detailing all 2019 requests and resulting SOE changes
+    +  completed internal review edits and submitted to Council SSCs for review
+    +  developed presentations and presented to both SSCs, March 2020
+    +  revised documents based on SSC feedback and submitted to Councils, March 2020
+    +  developed presentation and presented to Mid-Atlantic Council, April 2020
+  
+* Lead editor, Mid Atlantic EAFM Risk Assessment
 
-1. Serve on committees, steering groups and task forces 
+*2. Contribute to the development of Management Strategy Evaluation Products and Services on the Northeast US Shelf*
 
-1. Actively promote interactions between the Ecosystem Assessment Program with other Center Divisions, the Center Directorate, and the interested public. Actively promote interdisciplinary MSE within and beyond the Center
+* atlantisom R package development
 
-1. Interact with stakeholders to disseminate knowledge via courses, seminars, lectures and workshops as appropriate
+* MAFMC summer flounder recreational discards MSE
 
 
+
+
+## Element 4: Planning and evaluation (20) 
+
+### Objective: Planning and Evaluation for Ecosystem Approaches and Management Strategy Evaluation
+
+*1. Serve on committees, steering groups and task forces* 
+
+*2. Actively promote interactions between the Ecosystem Assessment Program with other Center Divisions, the Center Directorate, and the interested public. Actively promote interdisciplinary MSE within and beyond the Center*
+
+*3. Interact with stakeholders to disseminate knowledge via courses, seminars, lectures and workshops as appropriate*
+
+* NEFSC seminar Oct 2019
+* SMAST seminar Oct 2019
+* AFSC groundfish/One NOAA seminar Nov 2019
+* Canada-US Ecosystem Science (CAUSES) workshop participant Nov 2019
+* National Ecosystem Modeling Workshop (NEMoW)
+    +  NEFSC overview presentation (presented by Scott Large)
+    +  atlantisom tool demonstration (presented by Christine Stawitz)
+* EBFM seminar January 2020
+* MREP EBFM course section February 2020
+* Maine Fishermen's Forum MSE simulated stakeholder workshop March 2020
+* SIAM visiting lecture (virtual!) at WPI scheduled for April 28 2020
+
+## Element 5: Corporate Responsibility, Training, and Professionalism (10)
+
+### Objective: support a safe, secure, and productive workplace; follow required policies and procedures; enhance professional knowledge and skills in support of organizational performance; and promote positive interactions with coworkers, partners, and the public
+
+*1. Safety and Security.  Foster a safe and secure work environment, including complying with agency safety and security, environmental compliance, and IT security policies, plans, and requirements.  Keep work areas free of known hazards and comply with all occupational safety requirements.  Promptly report all known and suspected safety problems to supervisor. * 
+
+* Complied with agency safety and security policies.
+* Complied with IT security policies, and upgraded security on github account to comply with possibly forthcoming policy.
+* Work areas are free of known hazards. No safety problems to report yet this year.
+
+*2. Policies.  Adhere to DOC, NOAA, NMFS, and SF policies and procedures (e.g., Records Management, T&A, and Telework) and complete required training by established deadlines.  Maintain accountability of assigned government property and report lost property promptly.  Follow NOAA IT policies including directives in “Appropriate Use of Government Equipment.” Comply with travel regulations and policies, including proper use of the government travel cards.  Ensure sensitive Personally Identifiable Information and Business Identifiable Information, both physical and electronic, is protected from unauthorized release, alteration, loss and deletion, and complies with security and privacy policies regarding access to computerized and paper files.*
+
+* Completed required training well before deadlines. 
+* Reported all government property upon request. 
+* Followed IT equipment and ravel policies. 
+* Followed all PII and BII procedures (I rarely work with this type of data).
+
+*3.  Professional Development.  In coordination with supervisor, complete identified opportunities for training and professional development beyond mandatory training requirements to maintain and/or develop professional knowledge and skills.  Provide appropriate documentation of completion of training to supervisor and complete training-related reporting requirements.  Discuss outcomes with supervisor and, as appropriate, share knowledge learned with colleagues.*
+
+* I'm trying to incorporate more automation and open science principles into my daily workflow. This involves trying new R packages for interactive presentations and document writing as well as data wrangling and analysis. 
+* I'm also trying to learn more formal project management methods (unfortunately scheduled training conflicted with previously scheduled meetings for me). 
+* Seaside chats are providing many opportunites for professional development. 
+
+*4.  Teamwork and Cooperation.  Foster a respectful and inclusive workplace and contribute positively to the office and the agency.   Respond in an appropriate and timely manner to changes in work priorities.  Participate constructively in teams and cross-cutting efforts in support of the office or agency.  Foster teamwork and cooperation by sharing information and expertise.*
+
+* I'm finding google chat helpful to work with our team remotely. I prioritize group meetings and team projects such as the SOE and our website transition and try to give timely input.
+* I work on IEA and MSE teams across branches and divisions within NEFSC, and co-chair the national MSE working group (see Element 4, point 2).
+
+*5.  Professional Conduct.  Follow agency professional conduct, diversity, ethics, and EEO policies.   Exhibit competency, integrity, good judgment, and courtesy when interacting with colleagues and the public.*
+
+* I stink at being professional, but I'll try to do better.
