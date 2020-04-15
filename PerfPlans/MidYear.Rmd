@@ -38,11 +38,12 @@ knitr::opts_chunk$set(echo = TRUE)
 *	Developed model key run review criteria for use in ICES WGSAM multispecies model review
 * Compiled ICES Science Report with WGSAM multispecies model reviews, Baltic Sea
     + review criteria: https://ices-eg.github.io/wg_WGSAM/ReviewCriteria.html
-    + ICES report: 
+    + IICES. 2019. Working Group on Multispecies Assessment Methods (WGSAM).
+ICES Scientific Reports. 1:91. 320 pp. http://doi.org/10.17895/ices.pub.5758 
 
 *	Organize and lead monthly ecosystem/multispecies modeling meetings to coordinate modeling projects, progress
-    +	Initial ecosystem/multispecies model workplan with current status and development needs in progress
-    + Organizing multispecies model key run for Georges Bank to be reviewed by WGSAM in 2021
+    +	Listed ecosystem/multispecies model workplan with current status and development needs in progress
+    + Initial project planning for multispecies model key run for Georges Bank to be reviewed by WGSAM in 2021
 
 *3. Communicate research results through peer-reviewed manuscripts, reports, and oral/poster presentations at scientific meetings*
 
