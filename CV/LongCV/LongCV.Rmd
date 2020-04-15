@@ -50,7 +50,7 @@ orcid_data %>%
 
 if(!file.exists("gaichas.bib")){
 scholar::get_publications("C_gOAZ4AAAAJ&hl") %>% 
-  filter(year > 2014) %>% 
+  #filter(year > 2014) %>% 
   arrange(desc(year)) %>%
   distinct(title, .keep_all = TRUE) %>%
   transmute(bibtype = "Article", author = as.character(author),
