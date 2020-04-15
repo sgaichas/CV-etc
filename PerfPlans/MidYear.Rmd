@@ -27,49 +27,67 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### Objective: Support the development of ecosystem approaches to fishery management/Integrated Ecosystem Assessment (IEA) and Management Strategy Evaluation (MSE) for the U.S. Northeast Continental Shelf
 
-*1. Conduct research on approaches to for conducting and implementing ecosystem approaches and IEAs.*
+*1. Conduct research on implementing ecosystem approaches and IEAs.*
+
+* Continued work with interdisciplinary working groups supporting Integrated Ecosystem Assessments (IEAs). In collaboration with NEFSC EDAB, SSB, PSB, and other staff, October 2019-April 2020:
+    +	Supported working group developing EAFM conceptual model for Mid-Atlantic summer flounder
+    +	Developed interactive conceptual model visualizations for Mid-Atlantic summer flounder with DePiper and Muffley: https://gdepiper.github.io/Summer_Flounder_Conceptual_Models/sfconsmod_riskfactors_subplots.html.
+    +	Developed and refined proposed management questions based on the conceptual model to form the basis of MSE
+*	Continued research related to State of the Ecosystem reporting to improve management relevance by including ecosystem conceptual models, aligning indicators with general US IEA objectives, and synthesizing results across indicators.
+    + Produced final conceptual model from workshop draft outlining links between SOE indicators from environment through fish condition to human dimensions
+    + Will support research linking conceptual model components, continue with open science principles using seaside chats
+
 
 *2. Contribute to the development and implementation of multispecies and ecosystem MSE operating models.*
 
 *	Continued research using Atlantis models as operating models to test stock assessment model assumptions under climate change scenarios with Lynch and Kaplan: “Fragile ecosystems, robust assessments? Performance testing stock assessments for the California Current and Nordic and Barents Seas under climate change”
-    + Developed functions to extract assessment data from atlantis, Jan 2020
-    + Ongoing work on full age structured data from atlantis for assessment model ensemble comparisons in collaboration with Norway IMR, Bergen, March 2020
+    + Ran stock synthesis model with Atlantis "data" input, Oct 2020
+    + Developed wrapper functions to extract assessment data from Atlantis, Jan 2020
+    + Ongoing work extracting full age structured data from Atlantis for assessment model ensemble comparisons in collaboration with Norway IMR, Bergen, March 2020
+    + Visualizations: https://sgaichas.github.io/poseidon-dev/
     
 *	Developed model key run review criteria for use in ICES WGSAM multispecies model review
 * Compiled ICES Science Report with WGSAM multispecies model reviews, Baltic Sea
-    + review criteria: https://ices-eg.github.io/wg_WGSAM/ReviewCriteria.html
-    + IICES. 2019. Working Group on Multispecies Assessment Methods (WGSAM).
+    + Review criteria: https://ices-eg.github.io/wg_WGSAM/ReviewCriteria.html
+    + ICES. 2019. Working Group on Multispecies Assessment Methods (WGSAM).
 ICES Scientific Reports. 1:91. 320 pp. http://doi.org/10.17895/ices.pub.5758 
+
+* Initial development of diagnostic scripts for NEUS Atlantis
+    + Objective: automatically test whether model meets Atlantis review criteria
+    + Progress: https://github.com/NOAA-EDAB/neus-atlantis/tree/master/diagnostics
+    + Visualization: https://noaa-edab.github.io/neus-atlantis/DiagnosticsDoc.html
 
 *	Organize and lead monthly ecosystem/multispecies modeling meetings to coordinate modeling projects, progress
     +	Listed ecosystem/multispecies model workplan with current status and development needs in progress
-    + Initial project planning for multispecies model key run for Georges Bank to be reviewed by WGSAM in 2021
+    + Established objectives and began project planning for multispecies model key run for Georges Bank to be reviewed by WGSAM in 2021
 
 *3. Communicate research results through peer-reviewed manuscripts, reports, and oral/poster presentations at scientific meetings*
 
 * Published
 
-Link, J. S., Huse, G., **Gaichas, S**., and Marshak, A. R. **2020**. Changing how we approach fisheries: A first attempt at an operational framework for ecosystem approaches to fisheries management. Fish and Fisheries, 21: 393–434.
+Link, J. S., Huse, G.,  Gaichas, S., and Marshak, A. R.  2020 . Changing how we approach fisheries: A first attempt at an operational framework for ecosystem approaches to fisheries management. Fish and Fisheries, 21: 393–434.
 
-Weiskopf, S. R., Rubenstein, M. A., Crozier, L. G., **Gaichas, S.**, Griffis, R., Halofsky, J. E., Hyde, K. J. W., et al. **2020**. Climate change effects on biodiversity, ecosystems, ecosystem services, and natural resource management in the United States. Science of The Total Environment: 137782.
+Weiskopf, S. R., Rubenstein, M. A., Crozier, L. G.,  Gaichas, S., Griffis, R., Halofsky, J. E., Hyde, K. J. W., et al.  2020 . Climate change effects on biodiversity, ecosystems, ecosystem services, and natural resource management in the United States. Science of The Total Environment: 137782.
 
-Townsend, H., Harvey, C. J., deReynier, Y., Davis, D., Zador, S. G., **Gaichas, S.**, Weijerman, M., et al. **2019**. Progress on Implementing Ecosystem-Based Fisheries Management in the United States Through the Use of Ecosystem Models and Analysis. Frontiers in Marine Science, 6. https://www.frontiersin.org/articles/10.3389/fmars.2019.00641/full (Accessed 19 November 2019).
+Townsend, H., Harvey, C. J., deReynier, Y., Davis, D., Zador, S. G.,  Gaichas, S., Weijerman, M., et al.  2019 . Progress on Implementing Ecosystem-Based Fisheries Management in the United States Through the Use of Ecosystem Models and Analysis. Frontiers in Marine Science, 6. https://www.frontiersin.org/articles/10.3389/fmars.2019.00641/full (Accessed 19 November 2019).
 
 * Accepted
 
-Lucey, S. M., **Gaichas, S.**, and Aydin, K. **Accepted**. Conducting reproducible ecosystem modeling using the open source mass balance model Rpath. Ecological Modelling.
+Lucey, S. M.,  Gaichas, S., and Aydin, K.  Accepted . Conducting reproducible ecosystem modeling using the open source mass balance model Rpath. Ecological Modelling.
 
 * Submitted
 
-Staudinger, M., Lynch, A., **Gaichas, S.**, Fox, M., Gibson-Reinemer, D., Langan, J., Teffer, A., Thackeray, S., and Winfield, I. **Submitted April 2020**. How does climate change affect emergent properties of aquatic ecosystems? Fisheries
+Staudinger, M., Lynch, A.,  Gaichas, S., Fox, M., Gibson-Reinemer, D., Langan, J., Teffer, A., Thackeray, S., and Winfield, I.  Submitted April 2020 . How does climate change affect emergent properties of aquatic ecosystems? Fisheries
 
-Muffley, B., **Gaichas, S.**, DePiper, G., Seagraves, R., and Lucey, S. **Submitted January 2020**. There is no I in EAFM: Adapting Integrated Ecosystem Assessment for Mid-Atlantic Fisheries Management. 
+Muffley, B.,  Gaichas, S., DePiper, G., Seagraves, R., and Lucey, S.  Submitted January 2020 . There is no I in EAFM: Adapting Integrated Ecosystem Assessment for Mid-Atlantic Fisheries Management. 
 
-Bastille, K., Hardison, S., DeWitt, L., Brown, J., Samhouri, J., **Gaichas, S.**, Lucey, S., Kearney, K., Best, B., Cross, S.,  Large, S., Spooner, E. **Submitted January 2020**. Improving the IEA approach using principles of open data science.
+Bastille, K., Hardison, S., DeWitt, L., Brown, J., Samhouri, J.,  Gaichas, S., Lucey, S., Kearney, K., Best, B., Cross, S.,  Large, S., Spooner, E.  Submitted January 2020 . Improving the IEA approach using principles of open data science.
 
 * In Prep
 
-Kaplan, I., **Gaichas, S.**, Stawicz, C., Lynch, P., Marshall, K., Deroba, J., Masi, M., Brodziak, J., Aydin, K.,  Holsman, K., Townsend, H., Tommasi, D., Smith, J.,  Koenigstein,  S., Weijerman, M., Lucey, S., Link, J.  Management Strategy Evaluation: Allowing the Light on the Hill to Illuminate More than One Species.
+Kaplan, I.,  Gaichas, S., Stawicz, C., Lynch, P., Marshall, K., Deroba, J., Masi, M., Brodziak, J., Aydin, K.,  Holsman, K., Townsend, H., Tommasi, D., Smith, J.,  Koenigstein,  S., Weijerman, M., Lucey, S., Link, J.  Management Strategy Evaluation: Allowing the Light on the Hill to Illuminate More than One Species.
+
+Kempf, A., Lehuta, S., Spence, M.,  Gaichas, S. , .... Skill assessment of models relevant for the implementation of an ecosystem approach to fisheries management.
 
 * Scientific meeting presentations, Sept 2019-April 2020
 
@@ -98,35 +116,54 @@ RJ Gamble, J Tam, G DePiper, SK Gaichas, SM Lucey, PM Clay, G Fay, .... Integrat
 
 *1.  Provide analytical support for Ecosystem Approaches* 
 
+*	Led State of Ecosystem 2020 report production for Mid-Atlantic and New England Councils
+*	Supported megafauna, visualization subgroups for SOE
+* Successful grant proposal with K. Curti (PDB) for internal NRAP/EBFM funding to support multispecies model development and comparison (also applies to MSE)
+
 *2.  Play lead role in Management Strategy Evaluation for EDAB and coordinate with other Center scientists working on MSE*
+
+* Successful grant proposal with G. DePiper (SSB) for MSA funding to support MAFMC MSE analyst in SSB
+* Coordinating internal MSE working group for MAFMC summer flounder MSE
+* Co-chair of National MSE working group; organized March 2020 meeting, collaborating on national MSE use and prioritization guidelines 
 
 *3.  Serve as mentor for Center staff, graduate students, and post-doctoral researchers as appropriate.*
 
+*	Serve on 2 PhD committees: Robert Wildermuth (SMAST), Jim Gartland (VIMS). 
+    +	NMFS mentor for Robert Wildermuth 2018 PopDy Fellowship (awarded!) + two other fellowships
+* "Opponent" for University of Iceland Doctoral Candidate Paul Frater, defense scheduled for 5 June 2020
+* Post-doc co-advisor (with V. Saba), Joe Caracappa
+* Post-doc co-advisor (with J. Deroba, D. Lyons), Lauren Scopel
 
-## ELement 3: Products and Services (30) 
+
+## Element 3: Products and Services (30) 
 
 ### Objective: Provide accurate and timely information in support of Ecosystem Approaches to Management/Integrated Ecosystem Assessments and Management Strategy Evaluation
 
 *1. Contribute to the development of Ecosystem Approaches and IEA Products and Services on the Northeast US Shelf* 
 
 * Co-lead, Mid-Atlantic EAFM conceptual modeling
+    + Developed visualizations and presented to MAFMC, December 2019
+    + Presentation with management questions: https://gdepiper.github.io/Summer_Flounder_Conceptual_Models/sfconsmod_final_2col.html
 
 * Lead editor, State of the Ecosystem Report
-    +  supported regular check-in meetings, Sept-December 2019
-    +  collaborated on strawman synthesis, participated in synthesis workshop Jan 2020
-    +  provided draft document for collaborative editing Jan 2020
-    +  transferred to rmarkdown for pdf production, edited, and submitted to interal review Feb 2020
-    +  wrote new "response memo" detailing all 2019 requests and resulting SOE changes
-    +  completed internal review edits and submitted to Council SSCs for review
-    +  developed presentations and presented to both SSCs, March 2020
-    +  revised documents based on SSC feedback and submitted to Councils, March 2020
-    +  developed presentation and presented to Mid-Atlantic Council, April 2020
+    +  Supported regular check-in meetings, Sept-December 2019
+    +  Collaborated on strawman synthesis, participated in synthesis workshop Jan 2020
+    +  Provided draft document for collaborative editing Jan 2020
+    +  Transferred to rmarkdown for pdf production, edited
+    +  Finalized text and alt-text for 2 page summary
+    +  Submitted to internal review Feb 2020
+    +  Wrote new "response memo" detailing all 2019 requests and resulting SOE changes
+    +  Completed internal review edits and submitted to Council SSCs for review
+    +  Collaborated on SOE web story and website resource wrapper
+    +  Developed presentations and presented to both SSCs, March 2020
+    +  Revised documents based on SSC feedback and submitted to Councils, March 2020
+    +  Developed presentation and presented to Mid-Atlantic Council, April 2020
   
 * Lead editor, Mid Atlantic EAFM Risk Assessment
 
 *2. Contribute to the development of Management Strategy Evaluation Products and Services on the Northeast US Shelf*
 
-* atlantisom R package development
+* `atlantisom` R package development
 
 * MAFMC summer flounder recreational discards MSE
 
@@ -139,7 +176,16 @@ RJ Gamble, J Tam, G DePiper, SK Gaichas, SM Lucey, PM Clay, G Fay, .... Integrat
 
 *1. Serve on committees, steering groups and task forces* 
 
+* SSC
+* Illex WG
+* ICES WGSAM co-chair
+* ICES WGNARS
+
+
+
 *2. Actively promote interactions between the Ecosystem Assessment Program with other Center Divisions, the Center Directorate, and the interested public. Actively promote interdisciplinary MSE within and beyond the Center*
+
+* Day trip on F/V Darana with Jimmy Rhule out of Pt Judith RI, October 2019
 
 *3. Interact with stakeholders to disseminate knowledge via courses, seminars, lectures and workshops as appropriate*
 
@@ -147,12 +193,14 @@ RJ Gamble, J Tam, G DePiper, SK Gaichas, SM Lucey, PM Clay, G Fay, .... Integrat
 * SMAST seminar Oct 2019
 * AFSC groundfish/One NOAA seminar Nov 2019
 * Canada-US Ecosystem Science (CAUSES) workshop participant Nov 2019
+* *Illex* summit, fishing industry sponsored science workshop Nov 2019
 * National Ecosystem Modeling Workshop (NEMoW)
     +  NEFSC overview presentation (presented by Scott Large)
     +  atlantisom tool demonstration (presented by Christine Stawitz)
 * EBFM seminar January 2020
 * MREP EBFM course section February 2020
 * Maine Fishermen's Forum MSE simulated stakeholder workshop March 2020
+* SSC and Council presentations in element 3 above, Dec 2019 and March-April 2020
 * SIAM visiting lecture (virtual!) at WPI scheduled for April 28 2020
 
 ## Element 5: Corporate Responsibility, Training, and Professionalism (10)
