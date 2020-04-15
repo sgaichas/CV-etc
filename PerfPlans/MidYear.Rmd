@@ -32,7 +32,7 @@ knitr::opts_chunk$set(echo = TRUE)
 * Continued work with interdisciplinary working groups supporting Integrated Ecosystem Assessments (IEAs). In collaboration with NEFSC EDAB, SSB, PSB, and other staff, October 2019-April 2020:
     +	Supported working group developing EAFM conceptual model for Mid-Atlantic summer flounder
     +	Developed interactive conceptual model visualizations for Mid-Atlantic summer flounder with DePiper and Muffley: https://gdepiper.github.io/Summer_Flounder_Conceptual_Models/sfconsmod_riskfactors_subplots.html.
-    +	Developed and refined proposed management questions based on the conceptual model to form the basis of MSE
+    +	Developed and refined proposed management questions based on the conceptual model
 *	Continued research related to State of the Ecosystem reporting to improve management relevance by including ecosystem conceptual models, aligning indicators with general US IEA objectives, and synthesizing results across indicators.
     + Produced final conceptual model from workshop draft outlining links between SOE indicators from environment through fish condition to human dimensions
     + Will support research linking conceptual model components, continue with open science principles using seaside chats
@@ -60,6 +60,10 @@ ICES Scientific Reports. 1:91. 320 pp. http://doi.org/10.17895/ices.pub.5758
 *	Organize and lead monthly ecosystem/multispecies modeling meetings to coordinate modeling projects, progress
     +	Listed ecosystem/multispecies model workplan with current status and development needs in progress
     + Established objectives and began project planning for multispecies model key run for Georges Bank to be reviewed by WGSAM in 2021
+    
+* Multispecies model comparisons, length structured vs age structured
+    + Joint research with K. Curti, PDB; internal funds from NERAP/EBFM 
+    + `atlantisom` R package will be used to generate data for the multispecies model comparison project and performance testing for 2021 key run review
 
 *3. Communicate research results through peer-reviewed manuscripts, reports, and oral/poster presentations at scientific meetings*
 
@@ -119,17 +123,21 @@ RJ Gamble, J Tam, G DePiper, SK Gaichas, SM Lucey, PM Clay, G Fay, .... Integrat
 *	Led State of Ecosystem 2020 report production for Mid-Atlantic and New England Councils
 *	Supported megafauna, visualization subgroups for SOE
 * Successful grant proposal with K. Curti (PDB) for internal NRAP/EBFM funding to support multispecies model development and comparison (also applies to MSE)
+* Collaborating on CINAR funding mechanism with K. Hyde, A. Mercer to get postdocs
 
 *2.  Play lead role in Management Strategy Evaluation for EDAB and coordinate with other Center scientists working on MSE*
 
+* Setting up project management for 2021 model key runs
 * Successful grant proposal with G. DePiper (SSB) for MSA funding to support MAFMC MSE analyst in SSB
 * Coordinating internal MSE working group for MAFMC summer flounder MSE
+* Outlined potential workplans for IEA funded MSE contract labor
 * Co-chair of National MSE working group; organized March 2020 meeting, collaborating on national MSE use and prioritization guidelines 
 
 *3.  Serve as mentor for Center staff, graduate students, and post-doctoral researchers as appropriate.*
 
 *	Serve on 2 PhD committees: Robert Wildermuth (SMAST), Jim Gartland (VIMS). 
-    +	NMFS mentor for Robert Wildermuth 2018 PopDy Fellowship (awarded!) + two other fellowships
+    +	NMFS mentor for Robert Wildermuth 2018 PopDy Fellowship
+    + recommended Robert Wildermuth for 2020 Berkely Conservation fellowship
 * "Opponent" for University of Iceland Doctoral Candidate Paul Frater, defense scheduled for 5 June 2020
 * Post-doc co-advisor (with V. Saba), Joe Caracappa
 * Post-doc co-advisor (with J. Deroba, D. Lyons), Lauren Scopel
@@ -144,8 +152,9 @@ RJ Gamble, J Tam, G DePiper, SK Gaichas, SM Lucey, PM Clay, G Fay, .... Integrat
 * Co-lead, Mid-Atlantic EAFM conceptual modeling
     + Developed visualizations and presented to MAFMC, December 2019
     + Presentation with management questions: https://gdepiper.github.io/Summer_Flounder_Conceptual_Models/sfconsmod_final_2col.html
+    + Council selected management question and agreed to move forward with EAFM MSE
 
-* Lead editor, State of the Ecosystem Report
+* Lead editor, State of the Ecosystem Reports (Mid-Atlantic and New England)
     +  Supported regular check-in meetings, Sept-December 2019
     +  Collaborated on strawman synthesis, participated in synthesis workshop Jan 2020
     +  Provided draft document for collaborative editing Jan 2020
@@ -160,14 +169,21 @@ RJ Gamble, J Tam, G DePiper, SK Gaichas, SM Lucey, PM Clay, G Fay, .... Integrat
     +  Developed presentation and presented to Mid-Atlantic Council, April 2020
   
 * Lead editor, Mid Atlantic EAFM Risk Assessment
+    +  Updated portions of the risk assessment based on SOE 2020 indicators
+    +  Incorporated updated management indicators from Council staff
+    +  Suggested additional indicators and considerations for MAFMC
+    +  Developed presentation and presented Mid-Atlantic Council, April 2020
 
 *2. Contribute to the development of Management Strategy Evaluation Products and Services on the Northeast US Shelf*
 
-* `atlantisom` R package development
+* `atlantisom` R package development: create assessment model performance testing datasets from Atlantis model output, now providing input to SS3 stock assessment model with S&T and NWFSC colleagues, SAM model input in progress with IMR colleagues
+    +	Package: https://github.com/r4atlantis/atlantisom (testing branch annage)
+    +	Development notes: https://github.com/sgaichas/poseidon-dev
 
 * MAFMC summer flounder recreational discards MSE
-
-
+    + Coordinating planning with SSB, PDB, MAFMC staff
+    + Developing "this is MSE" presentation, remote stakeholder engagement plans
+    + To start May 2021
 
 
 ## Element 4: Planning and evaluation (20) 
@@ -176,32 +192,65 @@ RJ Gamble, J Tam, G DePiper, SK Gaichas, SM Lucey, PM Clay, G Fay, .... Integrat
 
 *1. Serve on committees, steering groups and task forces* 
 
-* SSC
-* Illex WG
-* ICES WGSAM co-chair
-* ICES WGNARS
-
-
+* MAFMC Scientific and Statistical Committee: establishes Acceptable Biological Catches for managed Mid-Atlantic fisheries. Next (virtual) meeting scheduled for May 2020. Providing meeting summary reports to NEFSC leadership, Assigned lead: blueline tilefish; on committee developing approach to estimating level of scientific uncertainty in overfishing limits (OFL CV subcommittee). 
+*	MAFMC’s Ecosystem Approach to Fisheries Management Working Group; see above for contributions.
+* MAFMC *Illex* Working Group: develop scientific products based on fishery catch per unit effort and ecosystem indicators to base annual catch recommendations on the best available scientific information. 
+*	National MSE working group co-chair:  see above for responsibilities. 
+*	Steering committee member, PAradigm for New Dynamic Ocean Resource Assessments and exploitation (PANDORA), EU project
+* 2019 National Ecosystem Modeling Workshop (NEMoW) steering committee; unable to attend due to conflict with MAFMC EAFM Conceptual Model presentation in December
+    +  Developed NEFSC overview presentation (presented by Scott Large)
+    +  Developed `atlantisom` tool demonstration (presented by Christine Stawitz)
 
 *2. Actively promote interactions between the Ecosystem Assessment Program with other Center Divisions, the Center Directorate, and the interested public. Actively promote interdisciplinary MSE within and beyond the Center*
 
-* Day trip on F/V Darana with Jimmy Rhule out of Pt Judith RI, October 2019
+*Scientist interactions*  
+
+*	Member and current co-chair of ICES WGSAM (member 2011-present, co chair since 2016), which reviews and contributes to multispecies and ecosystem modeling progress across the ICES regions (the North Sea, Baltic Sea, Bay of Biscay, Mediterranean, Iceland, Barents/Norwegian Seas, and eastern USA). 
+    + Developed agenda and co-chaired October 2019 meeting in Rome, Italy
+    + Provided US updates collected from around the nation
+    + Finalized 2019 report (model reviews) on schedule for delivery to WKIRISH
+*	Member and past co-chair of ICES WGNARS (2012-present), developing ecosystem indicators and integrated ecosystem assessments for Canadian and U.S. marine ecosystems.
+    + ICES WGNARS presentations on SOE and Council updates recorded April 2020
+    + 2020 meeting rescheduled to one day virtual meeting, 8 May, due to COVID-19
+*	See multiple national and regional ecosystem and MSE working group responsibilities above.
+* Provide briefings to Center Directorate on Council agenda items as requested
+*	Active ongoing collaborations between NEFSC EDAB and SSB, PSB, OCB for IEA work 
+*	Affiliate Faculty at SMAST, April 2016-present
+*	Continuing collaboration with AFSC on development of food web models in R. 
+*	Continuing collaboration on COCA MSE project with GMRI/SMAST 
+    +	Consulting on multiple groundfish models 
+    + Facilitating collaboration between COCA postdocs and NEFSC scientists including Min-Yang Lee (SSB) and Anna Birkenbach (U. Delaware).
+*	Continuing collaboration on seabirds/fishery management postdoc project with Gemma Clucas at Cornell
+* Peer review panelist, ASMFC Atlantic Menhaden stock assessment and ecological reference points, Nov 2019
+* Previously scheduled meetings/presentations now postponed due to COVID-19:
+    + NMFS Atlantic Coast Science Coordination Workshop, Raleigh-Durham NC, April
+    + NOAA Science Advisory Board Ecosystem Sciences and Management Working Group, Boulder CO, May
+    + Multispecies Modeling in Support of Fishery Management Workshop, SMAST, June
+    + Rutgers Undergraduate Fisheries Course (EBFM and MSE), Rutgers NJ, June
+
+*Fishermen/Industry interactions* 
+
+* Day trip on F/V Darana with Capt. Jimmy Rhule out of Pt Judith RI, October 2019
+* ASMFC Atlantic Menhaden peer review panel, November 2019
+* MAFMC meeting, December 2019
+* MREP EBFM presentation, February 2020
+* Maine Fishermen's Forum, March 2020
+
 
 *3. Interact with stakeholders to disseminate knowledge via courses, seminars, lectures and workshops as appropriate*
 
-* NEFSC seminar Oct 2019
-* SMAST seminar Oct 2019
+* [NEFSC seminar](https://noaa-edab.github.io/presentations/20191002_NEFSC_Gaichas.html) Oct 2019
+* [SMAST seminar](https://noaa-edab.github.io/presentations/20191009_SMAST_Gaichas.html) Oct 2019
 * AFSC groundfish/One NOAA seminar Nov 2019
-* Canada-US Ecosystem Science (CAUSES) workshop participant Nov 2019
-* *Illex* summit, fishing industry sponsored science workshop Nov 2019
-* National Ecosystem Modeling Workshop (NEMoW)
-    +  NEFSC overview presentation (presented by Scott Large)
-    +  atlantisom tool demonstration (presented by Christine Stawitz)
-* EBFM seminar January 2020
-* MREP EBFM course section February 2020
+* [Canada-US Ecosystem Science (CAUSES)](https://noaa-edab.github.io/presentations/20191120_CAUSES_Gaichas.html) workshop participant Nov 2019
+* *Illex* summit participant, fishing industry sponsored science workshop Nov 2019
+* [EBFM seminar](https://noaa-edab.github.io/presentations/20200108_EBFM_Gaichas.html) January 2020
+* [MREP EBFM course section](https://noaa-edab.github.io/presentations/20200226_EBFM_MREP_Gaichas.html) February 2020
 * Maine Fishermen's Forum MSE simulated stakeholder workshop March 2020
-* SSC and Council presentations in element 3 above, Dec 2019 and March-April 2020
+* [MAFMC SOE Council presentation](https://noaa-edab.github.io/presentations/20200407_MAFMC_Gaichas.html) in element 3 above, April 2020
 * SIAM visiting lecture (virtual!) at WPI scheduled for April 28 2020
+* Shoals Marine Lab IEA course scheduled for July 2020--might happen?
+
 
 ## Element 5: Corporate Responsibility, Training, and Professionalism (10)
 
@@ -233,4 +282,4 @@ RJ Gamble, J Tam, G DePiper, SK Gaichas, SM Lucey, PM Clay, G Fay, .... Integrat
 
 *5.  Professional Conduct.  Follow agency professional conduct, diversity, ethics, and EEO policies.   Exhibit competency, integrity, good judgment, and courtesy when interacting with colleagues and the public.*
 
-* I stink at being professional, but I'll try to do better.
+* Trying my best.
