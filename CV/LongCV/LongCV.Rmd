@@ -46,7 +46,7 @@ orcid_data %>%
 
 # Publications
 
-```{r}
+```{r bib, warning=FALSE, results='asis'}
 
 if(!file.exists("gaichas.bib")){
 scholar::get_publications("C_gOAZ4AAAAJ&hl") %>% 
@@ -60,6 +60,21 @@ scholar::get_publications("C_gOAZ4AAAAJ&hl") %>%
   RefManageR::WriteBib("gaichas.bib")
 }
 
-bibliography_entries("gaichas.bib")
+# this bib from zotero; google scholar brought in conference papers, etc
+bib <- RefManageR::ReadBib("gaichas.bib")
+#sort(bib, sorting = "ydnt")
+RefManageR::BibOptions(sorting = "ydnt", 
+                       bib.style = "authoryear", 
+                       max.names = 50,
+                       style = "markdown",
+                       no.print.fields = c("abstract", "copyright", "issn", "url", "language","urldate","month","file", "shorttitle", "note", "keywords"))
+RefManageR::NoCite(bib)
+
+newline <- list(rep("  \n", length(bib)))
+RefManageR::BibEntry()
+#bib <- mapply(append, RefManageR::BibEntry(bibtype = "doi"), newline, SIMPLIFY = FALSE)
+RefManageR::PrintBibliography(bib)
+
+#bibliography_entries("gaichas.bib")
 ```
 
