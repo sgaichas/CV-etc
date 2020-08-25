@@ -1,0 +1,249 @@
+---
+title: 
+csl: plos.csl
+fontsize: 10pt
+output:
+  pdf_document:
+    includes:
+      in_header: latex/endyr-header.tex
+    keep_tex: yes
+  html_document:
+    df_print: paged
+link-citations: yes
+geometry: left=2cm, right=2cm, top=2cm, bottom=3cm, footskip = .5cm
+subparagraph: yes
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+# library(magrittr)
+# library(scholar)
+# library(RefManageR)
+# library(vitae)
+
+```
+
+## Element 1: Research (30) 
+
+### Objective: Support the development of ecosystem approaches to fishery management/Integrated Ecosystem Assessment (IEA) and Management Strategy Evaluation (MSE) for the U.S. Northeast Continental Shelf
+
+*1. Conduct research on implementing ecosystem approaches and IEAs.*
+
+* Continued work with interdisciplinary working groups supporting Integrated Ecosystem Assessments (IEAs). In collaboration with NEFSC EDAB, SSB, PSB, and other staff, April-September 2020:
+    + Co-authored MAFMC EAFM approach paper led by B. Muffley, highlighting best practices for operational IEA (See 3. below; Accepted) 
+    +	Co-authored MAFMC conceptual model paper led by G. DePiper, highlighting open science in conceptual modeling (See 3. below; In Internal Review) 
+    + Contributed management context to wind energy lease/habitat overlap paper led by K. Friedland (See 3. below; Submitted)  
+*	Continued research related to State of the Ecosystem reporting to improve management relevance by including ecosystem conceptual models, aligning indicators with general US IEA objectives, and synthesizing results across indicators.
+    + Produced final conceptual model from workshop draft outlining links between SOE indicators from environment through fish condition to human dimensions
+    + Supporting research linking conceptual model components using open science principles. Presented FAIR data approach in two Seaside Chats:  
+        + https://noaa-edab.github.io/presentations/20200601_seasideFAIRdata_Gaichas.html
+        + https://noaa-edab.github.io/presentations/20200803_seasideFAIRdata_Gaichas.html
+
+
+*2. Contribute to the development and implementation of multispecies and ecosystem MSE operating models.*
+
+*	Continued research using Atlantis models as operating models to test stock assessment model assumptions under climate change scenarios with Lynch and Kaplan: “Fragile ecosystems, robust assessments? Performance testing stock assessments for the California Current and Nordic and Barents Seas under climate change”
+    + Completed full age structure functions and example dataset extraction for Norwegian cod, April-June 2020
+    + Update wrapper functions to extract fully age structured assessment data from Atlantis, June 2020
+    + Ongoing work developing capability to extract data for multiple survey configurations in collaboration with Norway IMR, Bergen, August-September 2020
+    + Visualizations: https://sgaichas.github.io/poseidon-dev/
+
+*	Organize and lead monthly ecosystem/multispecies modeling meetings to coordinate modeling projects, progress
+    + Established objectives and began project planning for multispecies model key run for Georges Bank to be reviewed by WGSAM in 2021
+    + Working through data epic and stories at https://www.fisheries.noaa.gov/jira/secure/RapidBoard.jspa?rapidView=384&projectKey=KEYRUN&view=planning.nodetail&selectedIssue=KEYRUN-27&epics=visible&issueLimit=100&selectedEpic=KEYRUN-4
+        + Conducted two surveys of users to outline data needs and reach consensus decisions
+        + Summarized results: https://noaa-edab.github.io/ms-keyrun/
+    + Ongoing work extracting diet data from Atlantis for US multispecies keyrun project, August-September 2020
+
+* Multispecies model comparisons, length structured vs age structured
+    + Joint research with K. Curti, PDB; internal funds from NERAP/EBFM, wrapped into multispecies-keyrun project above
+    + `atlantisom` R package in use to generate data for the multispecies model comparison project and performance testing for 2021 key run review
+    + Postdoc announcement (CINAR-UMass Dartmouth with G. Fay) is live as of August 2020
+
+*3. Communicate research results through peer-reviewed manuscripts, reports, and oral/poster presentations at scientific meetings*
+
+* Published
+
+Lucey, S. M.,  Gaichas, S., and Aydin, K. 2020. Conducting reproducible ecosystem modeling using the open source mass balance model Rpath. Ecological Modelling.
+
+* Accepted
+
+Muffley, B.,  Gaichas, S., DePiper, G., Seagraves, R., and Lucey, S.  Accepted August 2020. There is no I in EAFM: Adapting Integrated Ecosystem Assessment for Mid-Atlantic Fisheries Management. Coastal Management.
+
+* In Revision
+
+Staudinger, M., Lynch, A.,  Gaichas, S., Fox, M., Gibson-Reinemer, D., Langan, J., Teffer, A., Thackeray, S., and Winfield, I.  For re-submission September 2020. How does climate change affect emergent properties of aquatic ecosystems? Fisheries
+
+Bastille, K., Hardison, S., DeWitt, L., Brown, J., Samhouri, J.,  Gaichas, S., Lucey, S., Kearney, K., Best, B., Cross, S.,  Large, S., Spooner, E.  Submitted January 2020. Improving the IEA approach using principles of open data science.
+
+* Submitted
+
+Kevin's wind paper? Ecologial Applications
+
+* In Internal Review
+
+DePiper, G.,  Gaichas, S.,  Muffley, B., Ardini, G.,  Brust, J., Coakley, J.,  Dancy, K., Elliott, G.W., Leaning, D.C.,  Lipton, D.,  McNamee, J., Palmer, D., Perretti, C.,  Rootes-Murdy, K.,  Wilberg, M. Learning by doing: Collaborative conceptual modeling as a path forward in Ecosystem-based Management. 
+
+* In Prep
+
+Kaplan, I.,  Gaichas, S., Stawicz, C., Lynch, P., Marshall, K., Deroba, J., Masi, M., Brodziak, J., Aydin, K.,  Holsman, K., Townsend, H., Tommasi, D., Smith, J.,  Koenigstein,  S., Weijerman, M., Lucey, S., Link, J.  Management Strategy Evaluation: Allowing the Light on the Hill to Illuminate More than One Species.
+
+Kempf, A., Lehuta, S., Spence, M.,  Gaichas, S. , .... Skill assessment of models relevant for the implementation of an ecosystem approach to fisheries management.
+
+Jon Reum's ensemble paper
+
+* Scientific presentations, April-September 2020
+
+"Climate and Fisheries" for National Academy of Sciences Ocean Studies Board panel, May 22, 2020: https://noaa-edab.github.io/presentations/20200522_NASOSB_Gaichas.html 
+
+"Deep Uncertainty and MSE" for NOAA Science Advisory Board’s Ecosystem Sciences and Management Working Group, July 16, 2020:  https://noaa-edab.github.io/presentations/20200716_MSEUncertainty_Gaichas.html
+
+
+*4. Review scientific manuscripts, research proposals, and job completion reports as requested.*
+
+* April-August 2020 Completed 4 journal reviews: ICES JMS, Conservation Biology, CJFAS, Frontiers in Marine Science
+
+## Element 2: Program support (10) 
+
+### Objective: Provide analytical support for EDAB and MSE research initiatives
+
+*1.  Provide analytical support for Ecosystem Approaches* 
+
+*	Supporting all (humans, megafauna, LTL/habitat, synthesis, rollout) subgroups for 2021 SOE
+* FAIR data concepts for 2 projects: condition, ms-keyrun working towards R data packages
+* Collaborated on CINAR funding mechanism with UMass Dartmouth, K. Hyde, and A. Mercer to get postdocs
+
+*2.  Play lead role in Management Strategy Evaluation for EDAB and coordinate with other Center scientists working on MSE*
+
+* Jira project management operational for 2021 multispecies model key runs: https://www.fisheries.noaa.gov/jira/secure/RapidBoard.jspa?rapidView=384&projectKey=KEYRUN 
+* Coordinating internal MSE working group for MAFMC summer flounder MSE (see Element 3: Products and Services)
+* Co-chair of National MSE working group 
+    + organized June 2020 meeting
+    + collaborating on national MSE use and prioritization guidelines 
+    + collaborating with national toolbox working group on MSE toolbox
+
+*3.  Serve as mentor for Center staff, graduate students, and post-doctoral researchers as appropriate.*
+
+*	Serve on 2 PhD committees: Robert Wildermuth (SMAST), Jim Gartland (VIMS). 
+    +	NMFS mentor for Robert Wildermuth 2018 PopDy Fellowship
+    + recommended Robert Wildermuth for 2020 Berkely Conservation fellowship
+* "Opponent" for University of Iceland Doctoral Candidate Paul Frater, defended 5 June 2020
+* Post-doc co-advisor (with V. Saba), Joe Caracappa
+* Post-doc co-advisor (with J. Deroba, D. Lyons), Lauren Scopel
+* Post-doc advertised (with G. Fay, K. Curti), TBD hoping to fill by end September 2020
+
+
+## Element 3: Products and Services (30) 
+
+### Objective: Provide accurate and timely information in support of Ecosystem Approaches to Management/Integrated Ecosystem Assessments and Management Strategy Evaluation
+
+*1. Contribute to the development of Ecosystem Approaches and IEA Products and Services on the Northeast US Shelf* 
+
+* Lead editor, State of the Ecosystem Report (Mid-Atlantic)
+    +  Supported 2020 debrief meeting, May 2020
+    +  Collaboration with Habitat Climate Vulnerability Assessment team
+    +  Supported SOE 2021 initial workshop, August 2020
+    +  Participant in all subgroup meetings (prior to and during workshop) to foster communication between subgroups
+    +  Initial drafts, objectives-ecosystem services mapping and plain language synopsis of ecosystem themes to facilitate synthesis
+    +  Presenting synthesis themes, condition project to MAFMC SSC to shape 2021 report to be more useful to management, September 9
+
+*2. Contribute to the development of Management Strategy Evaluation Products and Services on the Northeast US Shelf*
+
+* Steering group and technical group, Mid-Atlantic EAFM summer flounder recreational discards MSE
+    + Supporting MAFMC initial planning for MSE, the next step in EAFM process based on the conceptual model for Mid-Atlantic summer flounder, April-September 2020
+        + Planning with Muffley, DePiper, Deroba to assemble technical working group
+        + Planning with full technical group for stakeholder workshops
+    +	Developed introductory presentation on MAFMC EAFM (IEA) approach for MSE technical working group, to be used at initial stakeholder meeting in September 2020: https://noaa-edab.github.io/presentations/20200504_MAFMC_EAFM_Intro_Gaichas.html.
+    + Planning for interactive remote stakeholder kickoff meeting with simulated stakeholder workshop (September 22, 2020)
+    + Coordinating internal NEFSC planning with SSB, PDB, MAFMC staff
+
+* `atlantisom` R package development: create assessment model performance testing datasets from Atlantis model output, now providing input to SS3 stock assessment model with S&T and NWFSC colleagues, SAM model input in progress with IMR colleagues
+    +	Package: https://github.com/r4atlantis/atlantisom (testing branch annage)
+    +	Development notes: https://github.com/sgaichas/poseidon-dev
+    + April-September focus maintenance and bug fixes for single species functionality, and testing/developing multispecies dataset capabilities, including diet functions
+
+
+## Element 4: Planning and evaluation (20) 
+
+### Objective: Planning and Evaluation for Ecosystem Approaches and Management Strategy Evaluation
+
+*1. Serve on committees, steering groups and task forces* 
+
+* MAFMC Scientific and Statistical Committee: establishes Acceptable Biological Catches for managed Mid-Atlantic fisheries. Next (virtual) meeting scheduled for May 2020. Providing meeting summary reports to NEFSC leadership, Assigned lead: blueline tilefish; ecosystems; on committee developing approach to estimating level of scientific uncertainty in overfishing limits (OFL CV subcommittee), on new committee developing social and economic actions and advice. 
+*	MAFMC’s Ecosystem Approach to Fisheries Management Working Group; current contributions focus on summer flounder MSE steering and technical committees.
+* MAFMC *Illex* Working Group: develop scientific products based on fishery catch per unit effort and ecosystem indicators to base annual catch recommendations on the best available scientific information. 
+*	National MSE working group co-chair:  see above for responsibilities. 
+*	Steering committee member, PAradigm for New Dynamic Ocean Resource Assessments and exploitation (PANDORA), EU project
+
+*2. Actively promote interactions between the Ecosystem Assessment Program with other Center Divisions, the Center Directorate, and the interested public. Actively promote interdisciplinary MSE within and beyond the Center*
+
+*Scientist interactions*  
+
+*	Member and current co-chair of ICES WGSAM (member 2011-present, co chair since 2016), which reviews and contributes to multispecies and ecosystem modeling progress across the ICES regions (the North Sea, Baltic Sea, Bay of Biscay, Mediterranean, Iceland, Barents/Norwegian Seas, and eastern USA). 
+    + Developimg agenda and planning for online meeting in October 2020
+    + Organizing US updates collected from around the nation
+    + Organizing US multispecies model keyruns planned for WGSAM review in October 2021
+*	Member and past co-chair of ICES WGNARS (2012-present), developing ecosystem indicators and integrated ecosystem assessments for Canadian and U.S. marine ecosystems.
+    + ICES WGNARS presentations on SOE and Council updates recorded April 2020
+    + 2020 virtual meeting 8 May
+*	See multiple national and regional ecosystem and MSE working group responsibilities above.
+* Provide briefings to Center Directorate on MAFMC SSC meetings and Council agenda items as requested
+*	Active ongoing collaborations between NEFSC EDAB and SSB, PSB, OCB for IEA work 
+*	Affiliate Faculty at SMAST, April 2016-present
+*	Continuing collaboration with AFSC on development of food web models in R. 
+*	Continuing collaboration on COCA MSE project with GMRI/SMAST 
+*	Continuing collaboration on seabirds/fishery management postdoc project with Gemma Clucas at Cornell
+
+* Presented to National Academy of Sciences 
+* Presented to NOAA Science Advisory Board Ecosystem Sciences and Management Working Group, July (See Element 1; Scientific Presentations)
+
+* Previously scheduled meetings/presentations postponed due to COVID-19:
+    + NMFS Atlantic Coast Science Coordination Workshop, Raleigh-Durham NC, April 2020
+    + Multispecies Modeling in Support of Fishery Management Workshop, SMAST, June 2020
+    + Rutgers Undergraduate Fisheries Course (EBFM and MSE), Rutgers NJ, June 2020
+    + National SSC meeting, Sitka AK, August 2020
+
+*Fishermen/Industry interactions* 
+
+* Limited to online Council and SSC meetings April-September 2020 due to COVID-19
+
+*3. Interact with stakeholders to disseminate knowledge via courses, seminars, lectures and workshops as appropriate*
+
+* SIAM (virtual) visiting lecture at WPI,  April 28 2020
+* Women's Equality Day panel, August 26 2020
+
+* Previously scheduled but postponed due to COVID-19:
+    +  Shoals Marine Lab IEA course scheduled for July 2020
+
+
+## Element 5: Corporate Responsibility, Training, and Professionalism (10)
+
+### Objective: support a safe, secure, and productive workplace; follow required policies and procedures; enhance professional knowledge and skills in support of organizational performance; and promote positive interactions with coworkers, partners, and the public
+
+*1. Safety and Security.  Foster a safe and secure work environment, including complying with agency safety and security, environmental compliance, and IT security policies, plans, and requirements.  Keep work areas free of known hazards and comply with all occupational safety requirements.  Promptly report all known and suspected safety problems to supervisor. * 
+
+* Complied with agency safety and security policies.
+* Complied with IT security policies, and upgraded security on github account to comply with possibly forthcoming policy.
+* Work areas are free of known hazards. No safety problems to report yet this year.
+
+*2. Policies.  Adhere to DOC, NOAA, NMFS, and SF policies and procedures (e.g., Records Management, T&A, and Telework) and complete required training by established deadlines.  Maintain accountability of assigned government property and report lost property promptly.  Follow NOAA IT policies including directives in “Appropriate Use of Government Equipment.” Comply with travel regulations and policies, including proper use of the government travel cards.  Ensure sensitive Personally Identifiable Information and Business Identifiable Information, both physical and electronic, is protected from unauthorized release, alteration, loss and deletion, and complies with security and privacy policies regarding access to computerized and paper files.*
+
+* Completed required training well before deadlines. 
+* Reported all government property upon request. 
+* Followed IT equipment and ravel policies. 
+* Followed all PII and BII procedures (I rarely work with this type of data).
+
+*3.  Professional Development.  In coordination with supervisor, complete identified opportunities for training and professional development beyond mandatory training requirements to maintain and/or develop professional knowledge and skills.  Provide appropriate documentation of completion of training to supervisor and complete training-related reporting requirements.  Discuss outcomes with supervisor and, as appropriate, share knowledge learned with colleagues.*
+
+* I'm trying to incorporate more automation and open science principles into my daily workflow. This involves trying new R packages for interactive presentations and document writing as well as data wrangling and analysis. 
+* I'm also learning more formal project management methods using Jira and associated free training webinars.
+* Seaside chats are providing many opportunites for professional development; and I learned about FAIR data initiatives and information to lead a Seaside chat on that topic. 
+
+*4.  Teamwork and Cooperation.  Foster a respectful and inclusive workplace and contribute positively to the office and the agency.   Respond in an appropriate and timely manner to changes in work priorities.  Participate constructively in teams and cross-cutting efforts in support of the office or agency.  Foster teamwork and cooperation by sharing information and expertise.*
+
+* I'm finding google chat helpful to work with our team remotely. I prioritize group meetings and team projects such as the SOE and our website transition and try to give timely input.
+* I work on IEA and MSE teams across branches and divisions within NEFSC, and co-chair the national MSE working group (see Element 4, point 2).
+
+*5.  Professional Conduct.  Follow agency professional conduct, diversity, ethics, and EEO policies.   Exhibit competency, integrity, good judgment, and courtesy when interacting with colleagues and the public.*
+
+* Participated in multiple diversity and inclusion chats and webinars; striving to learn, listen, and make our workplace more welcoming for all.
