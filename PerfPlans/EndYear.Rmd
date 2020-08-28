@@ -1,8 +1,9 @@
 ---
-title: 
-csl: plos.csl
+title: "null"
 fontsize: 10pt
+geometry: left=2cm, right=2cm, top=2cm, bottom=3cm, footskip = .5cm
 output:
+  word_document: default
   pdf_document:
     includes:
       in_header: latex/endyr-header.tex
@@ -10,8 +11,8 @@ output:
   html_document:
     df_print: paged
 link-citations: yes
-geometry: left=2cm, right=2cm, top=2cm, bottom=3cm, footskip = .5cm
 subparagraph: yes
+csl: plos.csl
 ---
 
 ```{r setup, include=FALSE}
@@ -73,6 +74,8 @@ Muffley, B.,  Gaichas, S., DePiper, G., Seagraves, R., and Lucey, S.  Accepted A
 
 Staudinger, M., Lynch, A.,  Gaichas, S., Fox, M., Gibson-Reinemer, D., Langan, J., Teffer, A., Thackeray, S., and Winfield, I.  For re-submission September 2020. How does climate change affect emergent properties of aquatic ecosystems? Fisheries
 
+Lucey, S., Aydin, K., Gaichas, S., Cadrin, S. Fay, G., Fogarty, M., Punt, A. Evaluating fishery management strategies using an ecosystem model as an operating model. Fisheries Research
+
 * Submitted
 
 Friedland, K.D., Methratta, E.T., Gill, A., Gaichas, S.K., Curtis, T.H., Adams, E.M.,  Morano, J.L., Crear, D.P., McManus, M.C., Brady, D.C. Resource Occurrence and Productivity in Existing and Proposed Wind Energy Lease Areas on the US Northeast Shelf. Ecologial Applications
@@ -89,7 +92,7 @@ Kaplan, I.,  Gaichas, S., Stawicz, C., Lynch, P., Marshall, K., Deroba, J., Masi
 
 Kempf, A., Lehuta, S., Spence, M.,  Gaichas, S. , .... Skill assessment of models relevant for the implementation of an ecosystem approach to fisheries management.
 
-Reum, J., Townsend, H., Sagarese, S., Kaplan, I., Gaichas, S. It’s not the destination, it’s the journey: multispecies model ensembles for ecosystem approaches to fisheries management 
+Reum, J., Townsend, H., Sagarese, S., Kaplan, I., Gaichas, S. It’s not the destination, it’s the journey: multispecies model ensembles for ecosystem approaches to fisheries management. 
 
 
 * Scientific Presentations, April-September 2020
