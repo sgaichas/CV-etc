@@ -4,22 +4,31 @@ author:
 - Research Fishery Biologist
 - Ecosystem Dynamics and Assessment Branch
 - Northeast Fisheries Science Center
-opening: Dear Drs. Tommassi and Hill,
+opening: Dear Drs. Tommasi and Hill,
 closing: Sincerely,
 address:
 - Southwest Fisheries Science Center
-- 1234 Roady McRoad
-- City, State, 00000
+- 8901 La Jolla Shores Drive
+- La Jolla, CA, 92037-1508
 
 letterhead: letterhead/NEFSCletterhead.pdf
+signature: signature/gaichas.pdf
+signature-before: -8ex
 
 output: linl::linl
 ---
 
-This is the text of the memo!
+I am delighted to submit a recommendation in support of Robert Wildermuth’s application for the FutureSeas management strategy evaluation (MSE) postdoc position. I have known Robert since early 2015 when he started his PhD program at University of Massachusetts Dartmouth. He became an active member of the International Council for the Exploration of the Seas (ICES) Working Group on the Northwest Atlantic Regional Seas (WGNARS) during our March working group meeting in 2015, when I was a co-chair of the working group. The working group is composed of oceanographers, ecologists, fishery scientists, social scientists, and fishery and ocean managers from the US and Canada. We are both still working group members, and I am now a member of Robert’s PhD advisory committee. 
 
-```{r, echo=FALSE}
-#remotes::install_github("gadenbuie/lorem")
-```
+Robert’s research is highly relevant to MSE, as well as extremely timely and relevant as NOAA Fisheries works towards operationalizing marine ecosystem-based management.  In particular, it is critical to evaluate models that can be used for Integrated Ecosystem Assessment (IEA) linking environmental drivers, ecological interactions, and human dimensions relevant to marine resource management. Robert’s work evaluating management strategies and ecological outcomes using multiple models is directly applicable to ongoing efforts to provide a “worked example” of operational IEA for the Northeast US large marine ecosystem, which informs ecosystem-based fishery management.  Developing MSE capability is a high priority across NOAA Fisheries and in the Northeast Region, and ecosystem-level MSE is of significant interest to fishery managers here. Similarly, characterizing the uncertainty in models and data sources used in assessments—whether single stock, multispecies, or full ecosystem—is considered a best practice for management of living marine resources, but is in its infancy for complex social-ecosystem models. Robert’s work will contribute considerably to better understanding the performance of these tools. Further, the comparison of a highly structured and quantitative tool such as Atlantis with the Bayesian decision network that can accommodate more qualitative inputs opens the door to include information from multiple sources that has previously been underutilized in MSE. Understanding the performance of more qualitative models will benefit both data-poor regions and regions with substantial but unbalanced data resources in developing meaningful ecological assessments addressing a wide range of management objectives. 
+ 
+Robert’s academic qualifications display the diversity as well as the achievement necessary to succeed at MSE. However, Robert’s interest goes well beyond academics. In my experience, Robert has gone out of his way to engage with both agency scientists and resource managers to ensure that interdisciplinary ecosystem science is useful and accessible. This is an essential skill for engaging stakeholders in MSE. Because fishery and ocean managers are only beginning to consider integrated management, providing them with illustrative examples can be a useful way to begin discussions of how to move forward with ecosystem-based management considering the tradeoffs between social, economic, and conservation objectives. Robert’s work has taken the relatively simple Georges Bank ecosystem conceptual model and asks the kind of “what if” questions managers find useful. In particular, his work with model complexity illustrates the importance of including details of the social and economic system (which managers deal with regularly) as well as the ecological system that marine  scientists often focus on. 
 
-`r lorem::ipsum(paragraphs = 2)`
+Visualizations are especially important for engaging managers and the general public to solve real-world problems. I find Robert’s visualizations of social-ecological networks to be outstanding communication tools; he manages to include the diversity of interacting entities without overwhelming his audience. His work, both on visualization and qualitative loop analysis, contributes directly to the ongoing development of ecosystem-based fishery management protocols in the Northeast. Further, the Bayesian network modeling takes a very practical approach to incorporate available data on important social-ecological system components and will ground truth the model against a more complex model. Robert understands that real-world applications demand the level of rigor that he has built into all of his analyses. 
+
+Given Robert’s current contributions, I have no doubt that his future contributions will continue to advance the field of MSE. Robert’s Bayesian belief network analysis uses a cutting edge method for integrating the diverse information types we have available for ecological, social, and economic components of the Georges Bank system. This field does not have established methods, and Robert’s leadership in analysis of linked social-ecological networks is already paving the way for applying similar approaches in other systems where ecology and human dimensions have yet to be integrated.
+
+To summarize, I have known Robert for only a few years and know only a portion of Robert’s work, so I am sure there is even more that is relevant to this position than I can comment on here. I feel fortunate to be working with him. Robert stands out to me as a clear thinker and communicator with a strong commitment to leading us all towards more and better interdisciplinary science for marine conservation. His dedication to bridging the ecological and human dimensions in modeling and analysis is somewhat rare, and also essential to achieving MSE and ecosystem-based management that works for the real world. I think he is an excellent fit for the FurtureSeas MSE postdoc position.
+
+Please do not hesitate to contact me with any questions.
+
