@@ -29,7 +29,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 *1. Conduct research on implementing ecosystem approaches and IEAs.*
 
-* Continued work with interdisciplinary working groups supporting Integrated Ecosystem Assessments (IEAs). In collaboration with NEFSC EDAB, SSB, PSB, and other staff, October 2019-April 2020:
+* Continued work with interdisciplinary working groups supporting Integrated Ecosystem Assessments (IEAs). In collaboration with NEFSC EDAB, SSB, PSB, and other staff, October 2020-April 2021:
     +	Supported working group developing EAFM conceptual model for Mid-Atlantic summer flounder
     +	Developed interactive conceptual model visualizations for Mid-Atlantic summer flounder with DePiper and Muffley: https://gdepiper.github.io/Summer_Flounder_Conceptual_Models/sfconsmod_riskfactors_subplots.html.
     +	Developed and refined proposed management questions based on the conceptual model
@@ -69,48 +69,45 @@ ICES Scientific Reports. 1:91. 320 pp. http://doi.org/10.17895/ices.pub.5758
 
 * Published
 
-Link, J. S., Huse, G.,  Gaichas, S., and Marshak, A. R.  2020 . Changing how we approach fisheries: A first attempt at an operational framework for ecosystem approaches to fisheries management. Fish and Fisheries, 21: 393–434.
+Geret DePiper, Sarah Gaichas, Brandon Muffley, Greg Ardini, Jeffrey Brust, Jessica Coakley, Kiley Dancy, G Warren Elliott, Dustin C Leaning, Douglas Lipton, Jason McNamee, Charles Perretti, Kirby Rootes-Murdy, Michael J Wilberg, Learning by doing: collaborative conceptual modelling as a path forward in ecosystem-based management, ICES Journal of Marine Science, 2021;, fsab054, https://doi.org/10.1093/icesjms/fsab054 
 
-Weiskopf, S. R., Rubenstein, M. A., Crozier, L. G.,  Gaichas, S., Griffis, R., Halofsky, J. E., Hyde, K. J. W., et al.  2020 . Climate change effects on biodiversity, ecosystems, ecosystem services, and natural resource management in the United States. Science of The Total Environment: 137782.
+Muffley, B.,  Gaichas, S., DePiper, G., Seagraves, R., and Lucey, S. 2021. There is no I in EAFM: Adapting Integrated Ecosystem Assessment for Mid-Atlantic Fisheries Management. Coastal Management, 49:1, 90-106, DOI: 10.1080/08920753.2021.1846156
 
-Townsend, H., Harvey, C. J., deReynier, Y., Davis, D., Zador, S. G.,  Gaichas, S., Weijerman, M., et al.  2019 . Progress on Implementing Ecosystem-Based Fisheries Management in the United States Through the Use of Ecosystem Models and Analysis. Frontiers in Marine Science, 6. https://www.frontiersin.org/articles/10.3389/fmars.2019.00641/full (Accessed 19 November 2019).
+Bastille, K., Hardison, S., DeWitt, L., Brown, J., Samhouri, J.,  Gaichas, S., Lucey, S., Kearney, K., Best, B., Cross, S.,  Large, S., Spooner, E.  2021. Improving the IEA Approach Using Principles of Open Data Science, Coastal Management, 49:1, 72-89, DOI: 10.1080/08920753.2021.1846155
+
+Reum, J., Townsend, H., Gaichas, S., Sagarese, S., Kaplan, I., Grüss, A. 2021. It’s Not the Destination, It’s the Journey: Multispecies Model Ensembles for Ecosystem Approaches to Fisheries Management. Frontiers in Marine Science 8, 75. 26 February 2021. DOI: 10.3389/fmars.2021.631839 
 
 * Accepted
 
-Lucey, S. M.,  Gaichas, S., and Aydin, K.  Accepted . Conducting reproducible ecosystem modeling using the open source mass balance model Rpath. Ecological Modelling.
+Kevin's
 
-* Submitted
+
+* In Revision
 
 Staudinger, M., Lynch, A.,  Gaichas, S., Fox, M., Gibson-Reinemer, D., Langan, J., Teffer, A., Thackeray, S., and Winfield, I.  Submitted April 2020 . How does climate change affect emergent properties of aquatic ecosystems? Fisheries
 
-Muffley, B.,  Gaichas, S., DePiper, G., Seagraves, R., and Lucey, S.  Submitted January 2020 . There is no I in EAFM: Adapting Integrated Ecosystem Assessment for Mid-Atlantic Fisheries Management. 
+Kaplan, I.,  Gaichas, S., Stawicz, C., Lynch, P., Marshall, K., Deroba, J., Masi, M., Brodziak, J., Aydin, K.,  Holsman, K., Townsend, H., Tommasi, D., Smith, J.,  Koenigstein,  S., Weijerman, M., Lucey, S., Link, J.  Management Strategy Evaluation: Allowing the Light on the Hill to Illuminate More than One Species.
+
+
+* Submitted
+
+
+
+Muffley, B.,  Gaichas, S., DePiper, G., Seagraves, R., and Lucey, S.  Submitted January 2020 . There is no I in EAFM: Adapting Integrated Ecosystem Assessment for Mid-Atlantic Fisheries Management. Coastal Management 49 (1), 90-106
 
 Bastille, K., Hardison, S., DeWitt, L., Brown, J., Samhouri, J.,  Gaichas, S., Lucey, S., Kearney, K., Best, B., Cross, S.,  Large, S., Spooner, E.  Submitted January 2020 . Improving the IEA approach using principles of open data science.
 
 * In Prep
 
-Kaplan, I.,  Gaichas, S., Stawicz, C., Lynch, P., Marshall, K., Deroba, J., Masi, M., Brodziak, J., Aydin, K.,  Holsman, K., Townsend, H., Tommasi, D., Smith, J.,  Koenigstein,  S., Weijerman, M., Lucey, S., Link, J.  Management Strategy Evaluation: Allowing the Light on the Hill to Illuminate More than One Species.
 
 Kempf, A., Lehuta, S., Spence, M.,  Gaichas, S. , .... Skill assessment of models relevant for the implementation of an ecosystem approach to fisheries management.
 
 * Scientific meeting presentations, Sept 2019-April 2020
 
-SK Gaichas, GK DePiper, R Seagraves, B Muffley, S Lucey. There is no I in EAFM: adapting Integrated Ecosystem Assessment for Mid-Atlantic Fisheries Management. 2019 CERF Biennial Conference. Presented by Sean Lucey
-
-SB Hardison, SK Gaichas, S Lucey, S Large. An open-science approach to ecosystem reporting for IEA in the Northeast US. 2019 CERF Biennial Conference. Presented by Sean Hardison
-
-I Kaplan, S Gaichas, P Lynch, C Stawitz, C Hansen. Fragile ecosystems, robust assessments? Performance testing stock assessments for the California Current and Nordic and Barents Seas under climate change. 2019 PICES Annual Meeting. Presented by Isaac Kaplan
-
-R Wildermuth, G Fay, S Gaichas, G DePiper. A Bayesian decision network model for ecosystem-based management of the Georges Bank social-ecological system. 2019 PICES Annual Meeting. Presented by Robert Wildermuth
-
-M Fogarty, A Beet, S Gaichas. Fishery Functional Group Management. American Fisheries Society & The Wildlife Society 2019 Joint Annual Conference. Presented by Mike Fogarty
-
-RJ Gamble, J Tam, G DePiper, SK Gaichas, SM Lucey, PM Clay, G Fay, .... Integrating Conceptual and Qualitative Models in Integrated Ecosystem Assessments–a Case Study in the Northeast United States Large Marine Ecosystem. American Fisheries Society & The Wildlife Society 2019 Joint Annual Conference. Presented by Robert Gamble
 
 *4. Review scientific manuscripts, research proposals, and job completion reports as requested.*
 
-* Chaired Baltic Sea multispecies model key run reviews for ICES WGSAM, October 2019.
-* Invited peer reviewer for ASMFC Atlantic menhaden stock assessment and ecological reference points, week long panel in November 2019.
+* C0-chaired North Sea multispecies model key run reviews for ICES WGSAM, October 2020.
 * Completed 2 internal reviews (one book chapter for S&T, one article for AFSC). 
 * 1 review in progress for ICES JMS.
 
@@ -120,18 +117,17 @@ RJ Gamble, J Tam, G DePiper, SK Gaichas, SM Lucey, PM Clay, G Fay, .... Integrat
 
 *1.  Provide analytical support for Ecosystem Approaches* 
 
-*	Led State of Ecosystem 2020 report production for Mid-Atlantic and New England Councils
+*	Led State of Ecosystem 2021 report production for Mid-Atlantic Council
 *	Supported megafauna, visualization subgroups for SOE
-* Successful grant proposal with K. Curti (PDB) for internal NRAP/EBFM funding to support multispecies model development and comparison (also applies to MSE)
-* Collaborating on CINAR funding mechanism with K. Hyde, A. Mercer to get postdocs
+* Interviewed candidates with K. Curti (PDB) and Gavin Fay (UMass Dartmouth) supported internal NRAP/EBFM funding to support multispecies model development and comparison (also applies to MSE)
+
 
 *2.  Play lead role in Management Strategy Evaluation for EDAB and coordinate with other Center scientists working on MSE*
 
-* Setting up project management for 2021 model key runs
-* Successful grant proposal with G. DePiper (SSB) for MSA funding to support MAFMC MSE analyst in SSB
+* Leading project management for 2021 model key runs ([Jira board]())
+* Leading simulated dataset development for 2021 model keyruns
 * Coordinating internal MSE working group for MAFMC summer flounder MSE
-* Outlined potential workplans for IEA funded MSE contract labor
-* Co-chair of National MSE working group; organized March 2020 meeting, collaborating on national MSE use and prioritization guidelines 
+* Co-chair of National MSE working group; organized December 2020 meeting, collaborating on national MSE use and prioritization guidelines 
 
 *3.  Serve as mentor for Center staff, graduate students, and post-doctoral researchers as appropriate.*
 
