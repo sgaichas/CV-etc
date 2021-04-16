@@ -1,0 +1,809 @@
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+% Awesome CV LaTeX Template for CV/Resume
+%
+% This template has been downloaded from:
+% https://github.com/posquit0/Awesome-CV
+%
+% Author:
+% Claud D. Park <posquit0.bj@gmail.com>
+% http://www.posquit0.com
+%
+%
+% Adapted to be an Rmarkdown template by Mitchell O'Hara-Wild
+% 23 November 2018
+%
+% Template license:
+% CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+%
+%-------------------------------------------------------------------------------
+% CONFIGURATIONS
+%-------------------------------------------------------------------------------
+% A4 paper size by default, use 'letterpaper' for US letter
+\documentclass[11pt, a4paper]{awesome-cv}
+
+% Configure page margins with geometry
+\geometry{left=1.4cm, top=.8cm, right=1.4cm, bottom=1.8cm, footskip=.5cm}
+
+% Specify the location of the included fonts
+\fontdir[fonts/]
+
+% Color for highlights
+% Awesome Colors: awesome-emerald, awesome-skyblue, awesome-red, awesome-pink, awesome-orange
+%                 awesome-nephritis, awesome-concrete, awesome-darknight
+
+\colorlet{awesome}{awesome-red}
+
+% Colors for text
+% Uncomment if you would like to specify your own color
+% \definecolor{darktext}{HTML}{414141}
+% \definecolor{text}{HTML}{333333}
+% \definecolor{graytext}{HTML}{5D5D5D}
+% \definecolor{lighttext}{HTML}{999999}
+
+% Set false if you don't want to highlight section with awesome color
+\setbool{acvSectionColorHighlight}{true}
+
+% If you would like to change the social information separator from a pipe (|) to something else
+\renewcommand{\acvHeaderSocialSep}{\quad\textbar\quad}
+
+\def\endfirstpage{\newpage}
+
+%-------------------------------------------------------------------------------
+%	PERSONAL INFORMATION
+%	Comment any of the lines below if they are not required
+%-------------------------------------------------------------------------------
+% Available options: circle|rectangle,edge/noedge,left/right
+
+\name{Sarah}{Gaichas}
+
+\position{Research Fishery Biologist ZP-IV}
+\address{NOAA NMFS Northeast Fisheries Science Center 166 Water Street,
+Woods Hole, MA 02543}
+
+\mobile{+1 508 495 2016}
+\email{\href{mailto:Sarah.Gaichas@noaa.gov}{\nolinkurl{Sarah.Gaichas@noaa.gov}}}
+\github{sgaichas}
+
+% \gitlab{gitlab-id}
+% \stackoverflow{SO-id}{SO-name}
+% \skype{skype-id}
+% \reddit{reddit-id}
+
+
+\usepackage{booktabs}
+
+\providecommand{\tightlist}{%
+	\setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+%------------------------------------------------------------------------------
+
+
+
+% Pandoc CSL macros
+\newlength{\cslhangindent}
+\setlength{\cslhangindent}{1.5em}
+\newlength{\csllabelwidth}
+\setlength{\csllabelwidth}{3em}
+\newenvironment{CSLReferences}[3] % #1 hanging-ident, #2 entry spacing
+ {% don't indent paragraphs
+  \setlength{\parindent}{0pt}
+  % turn on hanging indent if param 1 is 1
+  \ifodd #1 \everypar{\setlength{\hangindent}{\cslhangindent}}\ignorespaces\fi
+  % set entry spacing
+  \ifnum #2 > 0
+  \setlength{\parskip}{#2\baselineskip}
+  \fi
+ }%
+ {}
+\usepackage{calc}
+\newcommand{\CSLBlock}[1]{#1\hfill\break}
+\newcommand{\CSLLeftMargin}[1]{\parbox[t]{\csllabelwidth}{#1}}
+\newcommand{\CSLRightInline}[1]{\parbox[t]{\linewidth - \csllabelwidth}{#1}}
+\newcommand{\CSLIndent}[1]{\hspace{\cslhangindent}#1}
+
+\begin{document}
+
+% Print the header with above personal informations
+% Give optional argument to change alignment(C: center, L: left, R: right)
+\makecvheader
+
+% Print the footer with 3 arguments(<left>, <center>, <right>)
+% Leave any of these blank if they are not needed
+% 2019-02-14 Chris Umphlett - add flexibility to the document name in footer, rather than have it be static Curriculum Vitae
+\makecvfooter
+  {April 2021}
+    {Sarah Gaichas~~~·~~~Curriculum Vitae}
+  {\thepage}
+
+
+%-------------------------------------------------------------------------------
+%	CV/RESUME CONTENT
+%	Each section is imported separately, open each file in turn to modify content
+%------------------------------------------------------------------------------
+
+
+
+\hypertarget{educational-history}{%
+\section{Educational History}\label{educational-history}}
+
+\begin{cventries}
+    \cventry{PhD}{University of Washington}{Seattle,WA}{2000 - 2006}{}\vspace{-4.0mm}
+    \cventry{M.S.}{College of William and Mary, School of Marine Science}{Gloucester Point,VA}{1994 - 1997}{}\vspace{-4.0mm}
+    \cventry{B.A.}{Swarthmore College}{Swarthmore,PA}{1986 - 1991}{}\vspace{-4.0mm}
+\end{cventries}
+
+\hypertarget{professional-history}{%
+\section{Professional History}\label{professional-history}}
+
+\textbf{Research Fishery Biologist} \emph{NOAA/NMFS Northeast Fisheries
+Sci. Center, Woods Hole, MA}
+
+\begin{verbatim}
+Ecosystem Assessment, MSE       September 2011 - present
+\end{verbatim}
+
+Contribute to integrated ecosystem assessments and management strategy
+evaluations (MSEs) for the Northeast U.S. continental shelf by analyzing
+research survey, fishery, oceanographic, and economic data, and by
+developing and testing multispecies assessment models and ecosystem
+indicators. Conduct research on ecosystem based management reference
+points balancing multiple objectives. Chair National and Northeast MSE
+working groups to build capacity and coordinate work plans. Lead editor,
+State of the Ecosystem reports. Provide results in peer-reviewed
+literature and to the New England and Mid-Atlantic Fishery Management
+Councils.
+
+\textbf{Research Fishery Biologist} \emph{NOAA/NMFS Alaska Fisheries
+Science Center, Seattle, WA}
+
+\begin{verbatim}
+Ecosystem Modeling          June 2006 – September 2011
+\end{verbatim}
+
+Analyzed food web, fishery, and research survey data and developed
+ecosystem models to evaluate the cumulative effects of fishing, climate
+change, and other factors on the marine ecosystem.
+
+\begin{verbatim}
+Stock Assessment            November 1998 – June 2006
+\end{verbatim}
+
+Assessed the condition of commercially exploited fish stocks through
+analysis of fishery and research survey data combined with population
+dynamics modeling.
+
+\begin{verbatim}
+Observer Program            March 1997 – October 1999
+\end{verbatim}
+
+Conducted statistical analyses of fishery observer data, evaluated
+present and proposed data collection methods through directed research,
+and examined uses of observer data in multiple applications.
+
+\hypertarget{awards}{%
+\section{Awards}\label{awards}}
+
+AFSC Employee of the Year 2010
+
+VIMS
+
+\hypertarget{publications}{%
+\section{Publications}\label{publications}}
+
+\hypertarget{papers-published-in-peer-reviewed-journals}{%
+\subsection{Papers published in peer-reviewed
+journals}\label{papers-published-in-peer-reviewed-journals}}
+
+\protect\hyperlink{cite-bastille_improving_2021}{Bastille, K., S.
+Hardison, L. deWitt, J. Brown, J. Samhouri, S. Gaichas, S. Lucey, K.
+Kearney, B. Best, S. Cross, S. Large, and E. Spooner} (2021).
+``Improving the IEA Approach Using Principles of Open Data Science.''
+In: \emph{Coastal Management} 49.1, pp.~72-89. DOI:
+\href{https://doi.org/10.1080\%2F08920753.2021.1846155}{10.1080/08920753.2021.1846155}.
+
+\protect\hyperlink{cite-depiper_learning_2021}{DePiper, G., S. Gaichas,
+B. Muffley, G. Ardini, J. Brust, J. Coakley, K. Dancy, G. W. Elliott, D.
+C. Leaning, D. Lipton, J. McNamee, C. Perretti, K. Rootes-Murdy, and M.
+J. Wilberg} (2021). ``Learning by doing: collaborative conceptual
+modelling as a path forward in ecosystem-based management.'' In:
+\emph{ICES Journal of Marine Science}. DOI:
+\href{https://doi.org/10.1093\%2Ficesjms\%2Ffsab054}{10.1093/icesjms/fsab054}.
+
+\protect\hyperlink{cite-lucey_evaluating_2021}{Lucey, S. M., K. Y.
+Aydin, S. K. Gaichas, S. X. Cadrin, G. Fay, M. J. Fogarty, and A. Punt}
+(2021). ``Evaluating fishery management strategies using an ecosystem
+model as an operating model.'' In: \emph{Fisheries Research} 234,
+p.~105780. DOI:
+\href{https://doi.org/10.1016\%2Fj.fishres.2020.105780}{10.1016/j.fishres.2020.105780}.
+
+\protect\hyperlink{cite-muffley_there_2021}{Muffley, B., S. Gaichas, G.
+DePiper, R. Seagraves, and S. Lucey} (2021). ``There Is no I in EAFM
+Adapting Integrated Ecosystem Assessment for Mid-Atlantic Fisheries
+Management.'' In: \emph{Coastal Management} 49.1, pp. 90-106. DOI:
+\href{https://doi.org/10.1080\%2F08920753.2021.1846156}{10.1080/08920753.2021.1846156}.
+
+\protect\hyperlink{cite-reum_its_2021}{Reum, J. C. P., H. Townsend, S.
+Gaichas, S. Sagarese, I. C. Kaplan, and A. Grüss} (2021). ``It's Not the
+Destination, It's the Journey: Multispecies Model Ensembles for
+Ecosystem Approaches to Fisheries Management.'' In: \emph{Frontiers in
+Marine Science} 8. DOI:
+\href{https://doi.org/10.3389\%2Ffmars.2021.631839}{10.3389/fmars.2021.631839}.
+
+\protect\hyperlink{cite-link_changing_2020}{Link, J. S., G. Huse, S.
+Gaichas, and A. R. Marshak} (2020). ``Changing how we approach
+fisheries: A first attempt at an operational framework for ecosystem
+approaches to fisheries management.'' In: \emph{Fish and Fisheries}
+21.2, pp.~393-434. DOI:
+\href{https://doi.org/10.1111\%2Ffaf.12438}{10.1111/faf.12438}.
+
+\protect\hyperlink{cite-lucey_conducting_2020}{Lucey, S. M., S. K.
+Gaichas, and K. Y. Aydin} (2020). ``Conducting reproducible ecosystem
+modeling using the open source mass balance model Rpath.'' In:
+\emph{Ecological Modelling} 427, p.~109057. DOI:
+\href{https://doi.org/10.1016\%2Fj.ecolmodel.2020.109057}{10.1016/j.ecolmodel.2020.109057}.
+
+\protect\hyperlink{cite-weiskopf_climate_2020}{Weiskopf, S. R., M. A.
+Rubenstein, L. G. Crozier, S. Gaichas, R. Griffis, J. E. Halofsky, K. J.
+W. Hyde, T. L. Morelli, J. T. Morisette, R. C. Muñoz, A. J. Pershing, D.
+L. Peterson, R. Poudel, M. D. Staudinger, A. E. Sutton-Grier, L.
+Thompson, J. Vose, J. F. Weltzin, and K. P. Whyte} (2020). ``Climate
+change effects on biodiversity, ecosystems, ecosystem services, and
+natural resource management in the United States.'' In: \emph{Science of
+The Total Environment}, p.~137782. DOI:
+\href{https://doi.org/10.1016\%2Fj.scitotenv.2020.137782}{10.1016/j.scitotenv.2020.137782}.
+
+\protect\hyperlink{cite-goethel_recent_2019}{Goethel, D. R., S. M.
+Lucey, A. M. Berger, S. K. Gaichas, M. A. Karp, P. D. Lynch, and J. F.
+Walter} (2019). ``Recent advances in management strategy evaluation:
+introduction to the special issue ``Under pressure: addressing fisheries
+challenges with Management Strategy Evaluation''". In: \emph{Canadian
+Journal of Fisheries and Aquatic Sciences} 76.10, pp.~1689-1696. DOI:
+\href{https://doi.org/10.1139\%2Fcjfas-2019-0084}{10.1139/cjfas-2019-0084}.
+
+\protect\hyperlink{cite-karp_accounting_2019}{Karp, M. A., J. O.
+Peterson, P. D. Lynch, R. B. Griffis, C. F. Adams, W. S. Arnold, L. A.
+K. Barnett, Y. deReynier, J. DiCosimo, K. H. Fenske, S. K. Gaichas, A.
+Hollowed, K. Holsman, M. Karnauskas, D. Kobayashi, A. Leising, J. P.
+Manderson, M. McClure, W. E. Morrison, E. Schnettler, A. Thompson, J. T.
+Thorson, J. F. Walter, A. J. Yau, R. D. Methot, and J. S. Link} (2019).
+``Accounting for shifting distributions and changing productivity in the
+development of scientific advice for fishery management.'' In:
+\emph{ICES Journal of Marine Science} 76.5, pp.~1305-1315. DOI:
+\href{https://doi.org/10.1093\%2Ficesjms\%2Ffsz048}{10.1093/icesjms/fsz048}.
+
+\protect\hyperlink{cite-townsend_progress_2019}{Townsend, H., C. J.
+Harvey, Y. deReynier, D. Davis, S. G. Zador, S. Gaichas, M. Weijerman,
+E. L. Hazen, and I. C. Kaplan} (2019). ``Progress on Implementing
+Ecosystem-Based Fisheries Management in the United States Through the
+Use of Ecosystem Models and Analysis.'' In: \emph{Frontiers in Marine
+Science} 6. DOI:
+\href{https://doi.org/10.3389\%2Ffmars.2019.00641}{10.3389/fmars.2019.00641}.
+
+\protect\hyperlink{cite-deroba_dream_2018}{Deroba, J. J., S. K. Gaichas,
+M. Lee, R. G. Feeney, D. V. Boelke, and B. J. Irwin} (2018). ``The dream
+and the reality: meeting decision-making time frames while incorporating
+ecosystem and economic models into management strategy evaluation.'' In:
+\emph{Canadian Journal of Fisheries and Aquatic Sciences}. DOI:
+\href{https://doi.org/10.1139\%2Fcjfas-2018-0128}{10.1139/cjfas-2018-0128}.
+
+\protect\hyperlink{cite-feeney_integrating_2018}{Feeney, R. G., D. V.
+Boelke, J. J. Deroba, S. K. Gaichas, B. J. Irwin, and M. Lee} (2018).
+``Integrating Management Strategy Evaluation into fisheries management:
+advancing best practices for stakeholder inclusion based on an MSE for
+Northeast U.S. Atlantic herring.'' In: \emph{Canadian Journal of
+Fisheries and Aquatic Sciences}. DOI:
+\href{https://doi.org/10.1139\%2Fcjfas-2018-0125}{10.1139/cjfas-2018-0125}.
+
+\protect\hyperlink{cite-gaichas_implementing_2018}{Gaichas, S. K., G. S.
+DePiper, R. J. Seagraves, B. W. Muffley, M. Sabo, L. L. Colburn, and A.
+L. Loftus} (2018). ``Implementing Ecosystem Approaches to Fishery
+Management: Risk Assessment in the US Mid-Atlantic.'' In:
+\emph{Frontiers in Marine Science} 5. DOI:
+\href{https://doi.org/10.3389\%2Ffmars.2018.00442}{10.3389/fmars.2018.00442}.
+
+\protect\hyperlink{cite-goethel_closing_2018}{Goethel, D. R., S. M.
+Lucey, A. M. Berger, S. K. Gaichas, M. A. Karp, P. D. Lynch, J. F.
+Walter III, J. J. Deroba, S. K. Miller, and M. J. Wilberg} (2018).
+``Closing the Feedback Loop: On Stakeholder Participation in Management
+Strategy Evaluation.'' In: \emph{Canadian Journal of Fisheries and
+Aquatic Sciences}. DOI:
+\href{https://doi.org/10.1139\%2Fcjfas-2018-0162}{10.1139/cjfas-2018-0162}.
+
+\protect\hyperlink{cite-lipton_ecosystems_2018}{Lipton, D., M. A.
+Rubenstein, S. R. Weiskopf, S. L. Carter, J. Peterson, L. Crozier, M.
+Fogarty, S. Gaichas, K. J. W. Hyde, T. L. Morelli, J. Morisette, H.
+Moustahfid, R. Munoz, R. Poudel, M. D. Staudinger, C. Stock, L.
+Thompson, R. S. Waples, and J. F. Weltzin} (2018). \emph{Ecosystems,
+Ecosystem Services, and Biodiversity}. Other Government Series. U.S.
+Global Change Research Program, p.~268321. DOI:
+\href{https://doi.org/10.7930\%2FNCA4.2018.CH7}{10.7930/NCA4.2018.CH7}.
+
+\protect\hyperlink{cite-olsen_ocean_2018}{Olsen, E., I. C. Kaplan, C.
+Ainsworth, G. Fay, S. Gaichas, R. Gamble, R. Girardin, C. H. Eide, T. F.
+Ihde, H. N. Morzaria-Luna, K. F. Johnson, M. Savina-Rolland, H.
+Townsend, M. Weijerman, E. A. Fulton, and J. S. Link} (2018). ``Ocean
+Futures Under Ocean Acidification, Marine Protection, and Changing
+Fishing Pressures Explored Using a Worldwide Suite of Ecosystem
+Models.'' In: \emph{Frontiers in Marine Science} 5. DOI:
+\href{https://doi.org/10.3389\%2Ffmars.2018.00064}{10.3389/fmars.2018.00064}.
+
+\protect\hyperlink{cite-depiper_operationalizing_2017}{DePiper, G. S.,
+S. K. Gaichas, S. M. Lucey, P. Pinto da Silva, M. R. Anderson, H.
+Breeze, A. Bundy, P. M. Clay, G. Fay, R. J. Gamble, R. S. Gregory, P. S.
+Fratantoni, C. L. Johnson, M. Koen-Alonso, K. M. Kleisner, J. Olson, C.
+T. Perretti, P. Pepin, F. Phelan, V. S. Saba, L. A. Smith, J. C. Tam, N.
+D. Templeman, and R. P. Wildermuth} (2017). ``Operationalizing
+integrated ecosystem assessments within a multidisciplinary team:
+lessons learned from a worked example.'' In: \emph{ICES Journal of
+Marine Science} 74.8, pp.~2076-2086. DOI:
+\href{https://doi.org/10.1093\%2Ficesjms\%2Ffsx038}{10.1093/icesjms/fsx038}.
+
+\protect\hyperlink{cite-gaichas_combining_2017}{Gaichas, S. K., M.
+Fogarty, G. Fay, R. Gamble, S. Lucey, and L. Smith} (2017). ``Combining
+stock, multispecies, and ecosystem level fishery objectives within an
+operational management procedure: simulations to start the
+conversation.'' In: \emph{ICES Journal of Marine Science} 74.2, pp.
+552-565. DOI:
+\href{https://doi.org/10.1093\%2Ficesjms\%2Ffsw119}{10.1093/icesjms/fsw119}.
+
+\protect\hyperlink{cite-holsman_ecosystem-based_2017}{Holsman, K., J.
+Samhouri, G. Cook, E. Hazen, E. Olsen, M. Dillard, S. Kasperski, S.
+Gaichas, C. R. Kelble, M. Fogarty, and K. Andrews} (2017). ``An
+ecosystem-based approach to marine risk assessment.'' In:
+\emph{Ecosystem Health and Sustainability} 3.1, p.~e01256. DOI:
+\href{https://doi.org/10.1002\%2Fehs2.1256}{10.1002/ehs2.1256}.
+
+\protect\hyperlink{cite-tommasi_managing_2017}{Tommasi, D., C. A. Stock,
+A. J. Hobday, R. Methot, I. C. Kaplan, J. P. Eveson, K. Holsman, T. J.
+Miller, S. Gaichas, M. Gehlen, A. Pershing, G. A. Vecchi, R. Msadek, T.
+Delworth, C. M. Eakin, M. A. Haltuch, R. Séférian, C. M. Spillman, J. R.
+Hartog, S. Siedlecki, J. F. Samhouri, B. Muhling, R. G. Asch, M. L.
+Pinsky, V. S. Saba, S. B. Kapnick, C. F. Gaitan, R. R. Rykaczewski, M.
+A. Alexander, Y. Xue, K. V. Pegion, P. Lynch, M. R. Payne, T.
+Kristiansen, P. Lehodey, and F. E. Werner} (2017). ``Managing living
+marine resources in a dynamic environment: The role of seasonal to
+decadal climate forecasts.'' In: \emph{Progress in Oceanography} 152,
+pp.~15-49. DOI:
+\href{https://doi.org/10.1016\%2Fj.pocean.2016.12.011}{10.1016/j.pocean.2016.12.011}.
+
+\protect\hyperlink{cite-wildermuth_structural_2017}{Wildermuth, R. P.,
+G. Fay, and S. Gaichas} (2017). ``Structural uncertainty in qualitative
+models for ecosystem-based management of Georges Bank.'' In:
+\emph{Canadian Journal of Fisheries and Aquatic Sciences} 75.10,
+pp.~1635-1643. DOI:
+\href{https://doi.org/10.1139\%2Fcjfas-2017-0149}{10.1139/cjfas-2017-0149}.
+
+\protect\hyperlink{cite-zador_linking_2017}{Zador, S. G., S. K. Gaichas,
+S. Kasperski, C. L. Ward, R. E. Blake, N. C. Ban, A. Himes-Cornell, and
+J. Z. Koehn} (2017). ``Linking ecosystem processes to communities of
+practice through commercially fished species in the Gulf of Alaska.''
+In: \emph{ICES Journal of Marine Science} 74.7, pp.~2024-2033. DOI:
+\href{https://doi.org/10.1093\%2Ficesjms\%2Ffsx054}{10.1093/icesjms/fsx054}.
+
+\protect\hyperlink{cite-gaichas_framework_2016}{Gaichas, S. K., R. J.
+Seagraves, J. M. Coakley, G. S. DePiper, V. G. Guida, J. A. Hare, P. J.
+Rago, and M. J. Wilberg} (2016). ``A Framework for Incorporating
+Species, Fleet, Habitat, and Climate Interactions into Fishery
+Management.'' In: \emph{Frontiers in Marine Science} 3. DOI:
+\href{https://doi.org/10.3389\%2Ffmars.2016.00105}{10.3389/fmars.2016.00105}.
+
+\protect\hyperlink{cite-olsen_ecosystem_2016}{Olsen, E., G. Fay, S.
+Gaichas, R. Gamble, S. Lucey, and J. S. Link} (2016). ``Ecosystem Model
+Skill Assessment. Yes We Can!'' In: \emph{PLOS ONE} 11.1. Ed. by C. N.
+Bianchi, p.~e0146467. DOI:
+\href{https://doi.org/10.1371\%2Fjournal.pone.0146467}{10.1371/journal.pone.0146467}.
+
+\protect\hyperlink{cite-weijerman_atlantis_2016}{Weijerman, M., J. Link,
+E. Fulton, E. Olsen, H. Townsend, S. Gaichas, C. Hansen, M.
+Skern-Mauritzen, I. Kaplan, R. Gamble, G. Fay, M. Savina, C. Ainsworth,
+I. van Putten, R. Gorton, R. Brainard, K. Larsen, and T. Hutton} (2016).
+``Atlantis Ecosystem Model Summit: Report from a workshop.'' In:
+\emph{Ecological Modelling} 335, pp.~35-38. DOI:
+\href{https://doi.org/10.1016\%2Fj.ecolmodel.2016.05.007}{10.1016/j.ecolmodel.2016.05.007}.
+
+\protect\hyperlink{cite-zador_ecosystem_2016}{Zador, S. G., K. K.
+Holsman, K. Y. Aydin, and S. K. Gaichas} (2016). ``Ecosystem
+considerations in Alaska: the value of qualitative assessments.'' In:
+\emph{ICES Journal of Marine Science: Journal du Conseil}, p.~fsw144.
+DOI:
+\href{https://doi.org/10.1093\%2Ficesjms\%2Ffsw144}{10.1093/icesjms/fsw144}.
+
+\protect\hyperlink{cite-gaichas_wasp_2015}{Gaichas, S., K. Aydin, and R.
+C. Francis} (2015). ``Wasp waist or beer belly? Modeling food web
+structure and energetic control in Alaskan marine ecosystems, with
+implications for fishing and environmental forcing.'' In: \emph{Progress
+in Oceanography} 138, Part A, pp.~1-17. DOI:
+\href{https://doi.org/10.1016\%2Fj.pocean.2015.09.010}{10.1016/j.pocean.2015.09.010}.
+
+\protect\hyperlink{cite-smith_simulations_2015}{Smith, L., R. Gamble, S.
+Gaichas, and J. Link} (2015). ``Simulations to evaluate management
+trade-offs among marine mammal consumption needs, commercial fishing
+fleets and finfish biomass.'' In: \emph{Marine Ecology Progress Series}
+523, pp.~215-232. DOI:
+\href{https://doi.org/10.3354\%2Fmeps11129}{10.3354/meps11129}.
+
+\protect\hyperlink{cite-gaichas_risk-based_2014}{Gaichas, S. K., J. S.
+Link, and J. A. Hare} (2014). ``A risk-based approach to evaluating
+northeast US fish community vulnerability to climate change.'' In:
+\emph{ICES Journal of Marine Science} 71.8, pp. 2323-2342. DOI:
+\href{https://doi.org/10.1093\%2Ficesjms\%2Ffsu048}{10.1093/icesjms/fsu048}.
+
+\protect\hyperlink{cite-ruzicka_dividing_2013}{Ruzicka, J. J., J. H.
+Steele, T. Ballerini, S. K. Gaichas, and D. G. Ainley} (2013).
+``Dividing up the pie: Whales, fish, and humans as competitors.'' In:
+\emph{Progress in Oceanography} 116, pp.~207-219. DOI:
+\href{https://doi.org/10.1016\%2Fj.pocean.2013.07.009}{10.1016/j.pocean.2013.07.009}.
+
+\protect\hyperlink{cite-ruzicka_analysis_2013}{Ruzicka, J., J. Steele,
+S. Gaichas, T. Ballerini, D. Gifford, R. Brodeur, and E. Hofmann}
+(2013). ``Analysis of Energy Flow in US GLOBEC Ecosystems Using
+End-to-End Models.'' In: \emph{Oceanography} 26.4, pp.~82-97. DOI:
+\href{https://doi.org/10.5670\%2Foceanog.2013.77}{10.5670/oceanog.2013.77}.
+
+\protect\hyperlink{cite-fu_relative_2012}{Fu, C., S. Gaichas, J. Link,
+A. Bundy, J. Boldt, A. Cook, R. Gamble, K. Rong Utne, H. Liu, and K.
+Friedland} (2012). ``Relative importance of fisheries, trophodynamic and
+environmental drivers in a series of marine ecosystems.'' In:
+\emph{Marine Ecology Progress Series} 459, pp. 169-184. DOI:
+\href{https://doi.org/10.3354\%2Fmeps09805}{10.3354/meps09805}.
+
+\protect\hyperlink{cite-gaichas_beyond_2012}{Gaichas, S. K., G. Odell,
+K. Y. Aydin, and R. C. Francis} (2012). ``Beyond the defaults:
+functional response parameter space and ecosystem-level fishing
+thresholds in dynamic food web model simulations.'' In: \emph{Canadian
+Journal of Fisheries and Aquatic Sciences} 69, pp.~2077-2094. DOI:
+\href{https://doi.org/10.1139\%2FF2012-099}{10.1139/F2012-099}.
+
+\protect\hyperlink{cite-gaichas_what_2012}{Gaichas, S., A. Bundy, T.
+Miller, E. Moksness, and K. Stergiou} (2012). ``What drives marine
+fisheries production?'' In: \emph{Marine Ecology Progress Series} 459,
+pp.~159-163. DOI:
+\href{https://doi.org/10.3354\%2Fmeps09841}{10.3354/meps09841}.
+
+\protect\hyperlink{cite-gaichas_assembly_2012}{Gaichas, S., R. Gamble,
+M. J. Fogarty, H. Benoit, T. Essington, C. Fu, M. Koen-Alonso, and J.
+Link} (2012). ``Assembly Rules for Aggregate-Species Production Models:
+Simulations in Support of Management Strategy Evaluation.'' In:
+\emph{Marine Ecology Progress Series} 459, pp.~275-292.
+
+\protect\hyperlink{cite-link_synthesizing_2012}{Link, J., S. Gaichas, T.
+Miller, T. Essington, A. Bundy, J. Boldt, K. Drinkwater, and E.
+Moksness} (2012). ``Synthesizing Lessons Learned from Comparing
+Fisheries Production in 13 Northern Hemisphere Ecosystems: Emergent
+Fundamental Features.'' In: \emph{Marine Ecology Progress Series} 459,
+pp.~293-302.
+
+\protect\hyperlink{cite-link_dealing_2012}{Link, J., T. Ihde, C. Harvey,
+S. Gaichas, J. Field, J. Brodziak, H. Townsend, and R. Peterman} (2012).
+``Dealing with uncertainty in ecosystem models: The paradox of use for
+living marine resource management.'' In: \emph{Progress in Oceanography}
+102, pp.~102-114. DOI:
+\href{https://doi.org/10.1016\%2Fj.pocean.2012.03.008}{10.1016/j.pocean.2012.03.008}.
+
+\protect\hyperlink{cite-moksness_bernard_2012}{Moksness, E., J. Link, K.
+Drinkwater, and S. Gaichas} (2012). ``Bernard Megrey: pioneer of
+Comparative Marine Ecosystem analyses.'' In: \emph{Marine Ecology
+Progress Series} 459, pp.~165-167. DOI:
+\href{https://doi.org/10.3354\%2Fmeps09582}{10.3354/meps09582}.
+
+\protect\hyperlink{cite-pranovi_trophic-level_2012}{Pranovi, F., J.
+Link, C. Fu, A. Cook, H. Liu, S. Gaichas, K. Friedland, K. Rong Utne,
+and H. Benoît} (2012). ``Trophic-level determinants of biomass
+accumulation in marine ecosystems.'' In: \emph{Marine Ecology Progress
+Series} 459, pp.~185-201. DOI:
+\href{https://doi.org/10.3354\%2Fmeps09738}{10.3354/meps09738}.
+
+\protect\hyperlink{cite-gaichas_what_2011}{Gaichas, S. K., K. Y. Aydin,
+and R. C. Francis} (2011). ``What drives dynamics in the Gulf of Alaska?
+Integrating hypotheses of species, fishing, and climate relationships
+using ecosystem modeling.'' In: \emph{Canadian Journal of Fisheries and
+Aquatic Sciences} 68, pp.~1553-1578.
+
+\protect\hyperlink{cite-hunsicker_functional_2011}{Hunsicker, M. E., L.
+Ciannelli, K. M. Bailey, J. A. Buckel, J. W. White, J. S. Link, T. E.
+Essington, S. Gaichas, T. W. Anderson, R. D. Brodeur, K. Chan, K. Chen,
+G. Englund, K. T. Frank, V. Freitas, M. A. Hixon, T. Hurst, D. W.
+Johnson, J. F. Kitchell, D. Reese, G. A. Rose, H. Sjodin, W. J. Sydeman,
+H. W. v. d.~Veer, K. Vollset, and S. Zador} (2011). ``Functional
+responses and scaling in predator--prey interactions of marine fishes:
+contemporary issues and emerging concepts.'' In: \emph{Ecology Letters}
+14.12, pp.~1288-1299. DOI:
+\href{https://doi.org/10.1111\%2Fj.1461-0248.2011.01696.x\%4010.1111\%2F\%28ISSN\%291461-0248.anthropogenic-change}{10.1111/j.1461-0248.2011.01696.x@10.1111/(ISSN)1461-0248.anthropogenic-change}.
+
+\protect\hyperlink{cite-salomon_bridging_2011}{Salomon, A. K., S. K.
+Gaichas, O. P. Jensen, V. N. Agostini, N. Sloan, J. Rice, T. R.
+McClanahan, M. H. Ruckelshaus, P. S. Levin, N. K. Dulvy, and E. A.
+Babcock} (2011). ``Bridging the Divide Between Fisheries and Marine
+Conservation Science.'' In: \emph{Bulletin of Marine Science} 87.2,
+pp.~251-274. DOI:
+\href{https://doi.org/10.5343\%2Fbms.2010.1089}{10.5343/bms.2010.1089}.
+
+\protect\hyperlink{cite-gaichas_using_2010}{Gaichas, S. K., K. Y. Aydin,
+and R. C. Francis} (2010). ``Using food web model results to inform
+stock assessment estimates of mortality and production for
+ecosystem-based fisheries management.'' In: \emph{Canadian Journal of
+Fisheries and Aquatic Sciences} 67, pp.~1493-1506.
+
+\protect\hyperlink{cite-reuter_managing_2010}{Reuter, R. F., M. E.
+Conners, J. Dicosimo, S. Gaichas, O. Ormseth, and T. T. Tenbrink}
+(2010). ``Managing non-target, data-poor species using catch limits:
+lessons from the Alaskan groundfish fishery.'' In: \emph{Fisheries
+Management and Ecology} 17.4, pp. 323-335. DOI:
+\href{https://doi.org/10.1111\%2Fj.1365-2400.2009.00726.x}{10.1111/j.1365-2400.2009.00726.x}.
+
+\protect\hyperlink{cite-salomon_key_2010}{Salomon, A. K., S. K. Gaichas,
+N. T. Shears, J. E. Smith, E. M. P. Madin, and S. D. Gaines} (2010).
+``Key Features and Context-Dependence of Fishery-Induced Trophic
+Cascades.'' In: \emph{Conservation Biology} 24.2, pp.~382-394. DOI:
+\href{https://doi.org/10.1111\%2Fj.1523-1739.2009.01436.x}{10.1111/j.1523-1739.2009.01436.x}.
+
+\protect\hyperlink{cite-gaichas_comparison_2009}{Gaichas, S., G. Skaret,
+J. Falk-Petersen, J. S. Link, W. Overholtz, B. A. Megrey, H. Gjøsæter,
+W. T. Stockhausen, A. Dommasnes, K. D. Friedland, and K. Aydin} (2009).
+``A comparison of community and trophic structure in five marine
+ecosystems based on energy budgets and system metrics.'' In:
+\emph{Progress in Oceanography} 81.1-4, pp.~47-62. DOI:
+\href{https://doi.org/10.1016\%2Fj.pocean.2009.04.005}{10.1016/j.pocean.2009.04.005}.
+
+\protect\hyperlink{cite-link_comparison_2009}{Link, J. S., W. T.
+Stockhausen, G. Skaret, W. Overholtz, B. A. Megrey, H. Gjøsæter, S.
+Gaichas, A. Dommasnes, J. Falk-Petersen, J. Kane, F. J. Mueter, K. D.
+Friedland, and J. A. Hare} (2009). ``A comparison of biological trends
+from four marine ecosystems: Synchronies, differences, and
+commonalities.'' In: \emph{Progress in Oceanography}. Comparative Marine
+Ecosystem Structure and Function: Descriptors and Characteristics 81.1,
+pp.~29-46. DOI:
+\href{https://doi.org/10.1016\%2Fj.pocean.2009.04.004}{10.1016/j.pocean.2009.04.004}.
+
+\protect\hyperlink{cite-megrey_cross-ecosystem_2009}{Megrey, B. A., J.
+A. Hare, W. T. Stockhausen, A. Dommasnes, H. Gjøsæter, W. Overholtz, S.
+Gaichas, G. Skaret, J. Falk-Petersen, J. S. Link, and K. D. Friedland}
+(2009). ``A cross-ecosystem comparison of spatial and temporal patterns
+of covariation in the recruitment of functionally analogous fish
+stocks.'' In: \emph{Progress in Oceanography}. Comparative Marine
+Ecosystem Structure and Function: Descriptors and Characteristics 81.1,
+pp.~63-92. DOI:
+\href{https://doi.org/10.1016\%2Fj.pocean.2009.04.006}{10.1016/j.pocean.2009.04.006}.
+
+\protect\hyperlink{cite-gaichas_context_2008}{Gaichas, S.} (2008). ``A
+context for ecosystem-based fishery management: Developing concepts of
+ecosystems and sustainability.'' In: \emph{Marine Policy} 32,
+pp.~393-401.
+
+\protect\hyperlink{cite-gaichas_network_2008}{Gaichas, S. K. and R. C.
+Francis} (2008). ``Network models for ecosystem-based fishery analysis:
+A review of concepts and application to the Gulf of Alaska marine food
+web.'' In: \emph{Canadian Journal of Fisheries and Aquatic Sciences} 65,
+pp.~1965-1982.
+
+\protect\hyperlink{cite-aydin_comparison_2007}{Aydin, K. Y., S. Gaichas,
+I. Ortiz, D. Kinzey, and N. Friday} (2007). \emph{A comparison of the
+Bering Sea, Gulf of Alaska, and Aleutian Islands large marine ecosystems
+through food web modeling}. U.S. Department of Commerce, NOAA Tech.
+Memo. NMFS-AFSC-178, p.~298.
+
+\protect\hyperlink{cite-gburski_age_2007}{Gburski, C. M., S. K. Gaichas,
+and D. K. Kimura} (2007). ``Age and growth of big skate (Raja
+binoculata) and longnose skate (R. rhina) in the Gulf of Alaska.'' In:
+\emph{Environmental Biology of Fishes} 80.2-3, pp.~337-349. DOI:
+\href{https://doi.org/10.1007\%2Fs10641-007-9231-8}{10.1007/s10641-007-9231-8}.
+
+\protect\hyperlink{cite-gaichas_development_2006}{Gaichas, S.} (2006).
+``Development and application of ecosystem models to support fishery
+sustainability: A case study for the Gulf of Alaska - ProQuest.''
+Seattle, WA.
+
+\protect\hyperlink{cite-spies_dna-based_2006}{Spies, I. B., S. Gaichas,
+D. E. Stevenson, J. W. Orr, and M. F. Canino} (2006). ``DNA-based
+identification of Alaska skates (Amblyraja, Bathyraja and Raja: Rajidae)
+using cytochrome c oxidase subunit I (coI) variation.'' In:
+\emph{Journal of Fish Biology} 69.sb, pp.~283-292. DOI:
+\href{https://doi.org/10.1111\%2Fj.1095-8649.2006.01286.x}{10.1111/j.1095-8649.2006.01286.x}.
+
+\protect\hyperlink{cite-barbeaux_evaluation_2005}{Barbeaux, S. J., S.
+Gaichas, J. N. Ianelli, and M. W. Dorn} (2005). ``Evaluation of
+Biological Sampling Protocols for At-Sea Groundfish Observers in
+Alaska.'' In: \emph{Alaska Fishery Research Bulletin} 11.2, p. 25.
+
+\protect\hyperlink{cite-karp_government-industry_2001}{Karp, W. A., C.
+S. Rose, J. R. Gauvin, S. K. Gaichas, M. W. Dorn, and G. D. Stauffer}
+(2001). ``Government-Industry Cooperative Fisheries Research in the
+North Pacific under the MSFCMA.'' In: \emph{Marine Fisheries Review}
+63.1, pp. 40-46.
+
+\protect\hyperlink{cite-dorn_measuring_1999}{Dorn, M. W., S. K. Gaichas,
+S. M. Fitzgerald, and S. A. Bibb} (1999). ``Measuring Total Catch at
+Sea: Use of a Motion-Compensated Flow Scale to Evaluate Observer
+Volumetric Methods.'' In: \emph{North American Journal of Fisheries
+Management} 19.4, pp.~999-1016. DOI:
+\href{https://doi.org/10.1577\%2F1548-8675\%281999\%29019\%3C0999\%3AMTCASU\%3E2.0.CO\%3B2}{10.1577/1548-8675(1999)019\textless0999:MTCASU\textgreater2.0.CO;2}.
+
+\protect\hyperlink{cite-gaichas_age_1997}{Gaichas, S.} (1997). ``Age And
+Growth Of Spanish Mackerel, Scomberomorus Maculatus, In The Chesapeake
+Bay Region.'' In: \emph{Master's Thesis}. DOI:
+\href{https://doi.org/10.25773\%2FV5-TWBW-6T04}{10.25773/V5-TWBW-6T04}.
+
+\hypertarget{papers-submitted-to-peer-reviewed-journals}{%
+\subsection{Papers submitted to peer-reviewed
+journals}\label{papers-submitted-to-peer-reviewed-journals}}
+
+\hypertarget{other-papers-non-peer-reviewed-journals-book-chapters-symposium-volumes}{%
+\subsection{Other papers (non peer-reviewed journals, book chapters,
+symposium
+volumes)}\label{other-papers-non-peer-reviewed-journals-book-chapters-symposium-volumes}}
+
+\hypertarget{books}{%
+\subsection{Books}\label{books}}
+
+\hypertarget{reports}{%
+\subsection{Reports}\label{reports}}
+
+State of the Ecosystem
+
+Risk assessments
+
+ICES WGSAM
+
+ICES WGNARS
+
+Ecosystem Considerations (AK)
+
+Stock assessments (AK)
+
+\hypertarget{others}{%
+\subsection{Others}\label{others}}
+
+\hypertarget{presentations}{%
+\section{Presentations}\label{presentations}}
+
+Speaker, moderator, and symposium organizer at regional to international
+professional meetings (AFS, ASLO, Conservation Biology, ESA, GLOBEC,
+IMCC, World Fisheries Congress) 1995-present. Invited speaker for public
+lecture series, teacher workshops, and university courses and
+departmental seminars.
+
+\hypertarget{talks-presented-at-professional-meetings}{%
+\subsection{Talks presented at professional
+meetings}\label{talks-presented-at-professional-meetings}}
+
+Invited: * 2021 AFS - connecting the dots climate informed management
+symposium - ecological forecasting symposium
+
+OMG too many
+
+\hypertarget{posters-presented-at-professional-meetings}{%
+\subsection{Posters presented at professional
+meetings}\label{posters-presented-at-professional-meetings}}
+
+Fewer
+
+\hypertarget{other-seminarspresentations}{%
+\subsection{Other
+seminars/presentations}\label{other-seminarspresentations}}
+
+Fishery Management Councils: SOE
+
+Fishery Management Councils Management stategy evaluation stakeholder
+workshops
+
+Marine Resource Education Program
+
+OneNOAA EBFM series
+
+AFSC Groundfish series
+
+NEFSC seminar series
+
+UMass seminar series
+
+IMR/NOAA bilateral meetings
+
+Invited * Using ecosystem info in management for DFO Ecosystem WG * MSE
+and DMDU for Ecosystem WG NOAA SAB
+
+\hypertarget{funded-research}{%
+\section{Funded research}\label{funded-research}}
+
+Internal grants International fellowship COCA
+
+\hypertarget{professional-affiliationsactivitiesservice}{%
+\section{Professional
+Affiliations/Activities/Service}\label{professional-affiliationsactivitiesservice}}
+
+\begin{itemize}
+\tightlist
+\item
+  Mid-Atlantic FMC Scientific and Statistical Committee, (2014-present);
+  determining Allowable Biological Catch (ABC) advice for fishery
+  management and other scientific support.
+\item
+  Member and past co-chair of the ICES Working Group on North Atlantic
+  Regional Seas; developing ecosystem indicators and integrated
+  ecosystem assessments for Canadian and U.S. waters.
+\item
+  Co-Chair of the ICES Working Group on Multispecies Assessment Methods:
+  reviewing and contributing to multispecies and ecosystem modeling
+  progress across ICES regions.
+\item
+  Advisory partner in the European Commission's PANDORA project
+  (2018-2022), which is designing toolsets for new dynamic ocean
+  resource assessments and exploitation.
+\end{itemize}
+
+\hypertarget{professional-societies}{%
+\subsection{Professional societies}\label{professional-societies}}
+
+AFS AIFRB
+
+\hypertarget{editorial-positions}{%
+\subsection{Editorial positions}\label{editorial-positions}}
+
+\hypertarget{membership-on-panels}{%
+\subsection{Membership on panels}\label{membership-on-panels}}
+
+\hypertarget{advisory-services}{%
+\subsection{Advisory services}\label{advisory-services}}
+
+All the Council stuff
+
+ICES WKs
+
+\hypertarget{workshops-organizedchaired-sessions-organizedchaired-at-professional-meetings}{%
+\subsection{Workshops organized/chaired; sessions organized/chaired at
+professional
+meetings}\label{workshops-organizedchaired-sessions-organizedchaired-at-professional-meetings}}
+
+ICES/PICES 2022 Small Pelagics
+
+WFC 2021 Climate and Ecosystem section of Horn of Plenty
+
+AFS 2018 ecosystem emergent properties Atlantic City
+
+AFS 2017 MSE Tampa
+
+\hypertarget{teaching-and-mentoring}{%
+\subsection{Teaching and mentoring}\label{teaching-and-mentoring}}
+
+\textbf{Adjunct professor} \emph{University of Massachusetts, Dartmouth}
+
+One current UMassD PhD student committee (April 2021 Exam)\\
+One current College of William and Mary (Virginia Institute of Marine
+Science) PhD student committee\\
+One current UNH PhD student committee
+
+2020 External examiner for a PhD student at University of Iceland\\
+2019 (Exam) PhD student committee at the University of Massachusetts,
+Dartmouth\\
+2019 External examiner for a PhD student at Dalhousie University\\
+2016 External examiner for a PhD student at the University of Cape
+Town\\
+2016 (Exam) PhD student committee at the University of Washington\\
+2015 (Exam) PhD student committee at Oregon State University
+
+WPI REU program Invited speaker for college courses
+
+\hypertarget{agency-service}{%
+\section{Agency Service}\label{agency-service}}
+
+\hypertarget{committees}{%
+\subsection{Committees}\label{committees}}
+
+National MSE WG Chair
+
+MAFMC SSC (here or advisory?)
+
+\hypertarget{other}{%
+\subsection{Other}\label{other}}
+
+\hypertarget{other-relevant-information}{%
+\section{Other relevant information}\label{other-relevant-information}}
+
+March 2020 - present: considerable time was needed for dependent care
+(elementary age kids and elder care). I often used the excused absence
+for dependent care.
+
+\hypertarget{references}{%
+\section{References}\label{references}}
+
+\end{document}

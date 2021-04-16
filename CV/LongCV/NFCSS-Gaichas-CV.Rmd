@@ -1,0 +1,252 @@
+---
+address: |
+  NOAA NMFS Northeast Fisheries Science Center
+  166 Water Street, Woods Hole, MA 02543
+date: "`r format(Sys.time(), '%B %Y')`"
+email: Sarah.Gaichas@noaa.gov
+github: sgaichas
+name: Sarah
+output:
+  vitae::awesomecv:
+    keep_tex: yes
+  vitae::moderncv: default
+phone: +1 508 495 2016
+position: Research Fishery Biologist ZP-IV
+surname: Gaichas
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+library(vitae)
+```
+
+# Educational History
+
+```{r}
+library(tibble)
+
+#rorcid::orcid_auth()
+
+orcid_data <- do.call("rbind",
+    rorcid::orcid_educations("0000-0002-5788-3073")$`0000-0002-5788-3073`$`affiliation-group`$summaries
+)
+
+orcid_data %>%
+  detailed_entries(
+    what = `education-summary.role-title`,
+    when = glue::glue("{`education-summary.start-date.year.value`} - {`education-summary.end-date.year.value`}"),
+    with = `education-summary.organization.name`,
+    where = glue::glue("{`education-summary.organization.address.city`},{`education-summary.organization.address.region`}"),
+  )
+
+# tribble(
+#   ~ Degree, ~ Year, ~ Institution, ~ Where,
+#   "Informal studies", "1889-91", "Flying University", "Warsaw, Poland",
+#   "Master of Physics", "1893", "Sorbonne Université", "Paris, France",
+#   "Master of Mathematics", "1894", "Sorbonne Université", "Paris, France"
+# ) %>% 
+#   detailed_entries(Degree, Year, Institution, Where)
+
+```
+
+
+# Professional History
+
+**Research Fishery Biologist**                   		*NOAA/NMFS Northeast Fisheries Sci. Center, Woods Hole, MA*
+
+	Ecosystem Assessment, MSE		September 2011 - present
+Contribute to integrated ecosystem assessments and management strategy evaluations (MSEs) for the Northeast U.S. continental shelf by analyzing research survey, fishery, oceanographic, and economic data, and by developing and testing multispecies assessment models and ecosystem indicators. Conduct research on ecosystem based management reference points balancing multiple objectives. Chair National and Northeast MSE working groups to build capacity and coordinate work plans. Lead editor, State of the Ecosystem reports. Provide results in peer-reviewed literature and to the New England and Mid-Atlantic Fishery Management Councils. 
+
+**Research Fishery Biologist**                   		*NOAA/NMFS Alaska Fisheries Science Center, Seattle, WA*
+
+	Ecosystem Modeling			June 2006 – September 2011
+Analyzed food web, fishery, and research survey data and developed ecosystem models to evaluate the cumulative effects of fishing, climate change, and other factors on the marine ecosystem. 
+
+	Stock Assessment			November 1998 – June 2006
+Assessed the condition of commercially exploited fish stocks through analysis of fishery and research survey data combined with population dynamics modeling. 
+
+	Observer Program			March 1997 – October 1999
+Conducted statistical analyses of fishery observer data, evaluated present and proposed data collection methods through directed research, and examined uses of observer data in multiple applications. 
+
+# Awards
+
+AFSC Employee of the Year 2010
+
+VIMS
+
+# Publications
+
+## Papers published in peer-reviewed journals
+
+```{r bib, warning=FALSE, results='asis'}
+
+if(!file.exists("gaichas.bib")){
+scholar::get_publications("C_gOAZ4AAAAJ&hl") %>% 
+  #filter(year > 2014) %>% 
+  arrange(desc(year)) %>%
+  distinct(title, .keep_all = TRUE) %>%
+  transmute(bibtype = "Article", author = as.character(author),
+            title = as.character(title),
+            journaltitle = as.character(journal), year, key = row_number()) %>% 
+  RefManageR::as.BibEntry() %>% 
+  RefManageR::WriteBib("gaichas.bib")
+}
+
+# this bib from zotero; google scholar brought in conference papers, etc
+bib <- RefManageR::ReadBib("gaichas.bib")
+#sort(bib, sorting = "ydnt")
+RefManageR::BibOptions(sorting = "ydnt", 
+                       bib.style = "authoryear", 
+                       max.names = 50,
+                       style = "markdown",
+                       no.print.fields = c("abstract", "copyright", "issn", "url", "language","urldate","month","file", "shorttitle", "note", "keywords"))
+RefManageR::NoCite(bib)
+
+newline <- list(rep("  \n", length(bib)))
+RefManageR::BibEntry()
+#bib <- mapply(append, RefManageR::BibEntry(bibtype = "doi"), newline, SIMPLIFY = FALSE)
+RefManageR::PrintBibliography(bib)
+
+#bibliography_entries("gaichas.bib")%>%
+#  select(author, year, title, journal, pages, url) %>%
+#  arrange(desc(year, author$family))
+```
+
+## Papers submitted to peer-reviewed journals
+
+## Other papers (non peer-reviewed journals, book chapters, symposium volumes)
+
+## Books
+
+## Reports
+
+State of the Ecosystem
+
+Risk assessments
+
+ICES WGSAM
+
+ICES WGNARS
+
+Ecosystem Considerations (AK)
+
+Stock assessments (AK)
+
+## Others
+ 
+ 
+# Presentations 
+
+Speaker, moderator, and symposium organizer at regional to international professional meetings (AFS, ASLO, Conservation Biology, ESA, GLOBEC, IMCC, World Fisheries Congress) 1995-present. Invited speaker for public lecture series, teacher workshops, and university courses and departmental seminars.
+
+## Talks presented at professional meetings
+
+Invited: 
+* 2021 AFS 
+    - connecting the dots climate informed management symposium
+    - ecological forecasting symposium
+
+OMG too many
+
+## Posters presented at professional meetings
+
+Fewer
+
+## Other seminars/presentations
+
+Fishery Management Councils: SOE
+
+Fishery Management Councils Management stategy evaluation stakeholder workshops
+
+Marine Resource Education Program
+
+OneNOAA EBFM series
+
+AFSC Groundfish series
+
+NEFSC seminar series
+
+UMass seminar series
+
+IMR/NOAA bilateral meetings
+
+Invited
+* Using ecosystem info in management for DFO Ecosystem WG
+* MSE and DMDU for Ecosystem WG NOAA SAB
+
+
+
+
+
+# Funded research
+
+Internal grants
+International fellowship
+COCA
+
+# Professional Affiliations/Activities/Service
+
+* Mid-Atlantic FMC Scientific and Statistical Committee, (2014-present); determining Allowable Biological Catch (ABC) advice for fishery management and other scientific support. 
+* Member and past co-chair of the ICES Working Group on North Atlantic Regional Seas; developing ecosystem indicators and integrated ecosystem assessments for Canadian and U.S. waters.
+* Co-Chair of the ICES Working Group on Multispecies Assessment Methods: reviewing and contributing to multispecies and ecosystem modeling progress across ICES regions. 
+* Advisory partner in the European Commission's PANDORA project (2018-2022), which is designing toolsets for new dynamic ocean resource assessments and exploitation.
+
+## Professional societies
+
+AFS
+AIFRB
+
+## Editorial positions
+
+## Membership on panels
+
+## Advisory services
+
+All the Council stuff
+
+ICES WKs
+
+## Workshops organized/chaired; sessions organized/chaired at professional meetings
+
+ICES/PICES 2022 Small Pelagics
+
+WFC 2021 Climate and Ecosystem section of Horn of Plenty
+
+AFS 2018 ecosystem emergent properties Atlantic City
+
+AFS 2017 MSE Tampa
+
+## Teaching and mentoring
+
+**Adjunct professor**  *University of Massachusetts, Dartmouth* 
+
+One current UMassD PhD student committee (April 2021 Exam)   
+One current College of William and Mary (Virginia Institute of Marine Science) PhD student committee  
+One current UNH PhD student committee
+
+2020  External examiner for a PhD student at University of Iceland  
+2019  (Exam) PhD student committee at the University of Massachusetts, Dartmouth   
+2019  External examiner for a PhD student at Dalhousie University  
+2016	External examiner for a PhD student at the University of Cape Town   
+2016	(Exam) PhD student committee at the University of Washington   
+2015	(Exam) PhD student committee at Oregon State University  
+
+WPI REU program
+Invited speaker for college courses
+
+
+# Agency Service
+
+## Committees
+
+National MSE WG Chair
+
+MAFMC SSC (here or advisory?)
+
+## Other
+
+# Other relevant information
+
+March 2020 - present: considerable time was needed for dependent care (elementary age kids and elder care). I often used the excused absence for dependent care.
+
+# References
