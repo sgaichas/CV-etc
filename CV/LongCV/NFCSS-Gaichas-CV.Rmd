@@ -73,9 +73,19 @@ Conducted statistical analyses of fishery observer data, evaluated present and p
 
 # Awards
 
-AFSC Employee of the Year 2010
-
-VIMS
+* End-year performance bonuses each year, 2006-2020.
+* Individual cash award for State of the Ecosystem reporting, August 2020.
+* Individual cash award for Acting Branch Chief performance, July 2017.
+* ICES/MYFISH symposium Targets and Limits for Long Term Fisheries Management Most Inspiring Paper, October 2015. 
+* Department of Commerce “Cash-In-A-Flash” award, December 2011.
+* Department of Commerce Special Act Award: Alaska Fisheries Science Center Employee of the Year, 2010.
+* Department of Commerce Special Act Award for service on North Pacific Council Gulf of Alaska Plan Team and for ecosystem research contributions, July 2005.
+* Department of Commerce Special Act Award for innovations in nontarget species management and ecosystem modeling, 2004.
+* National Association of Environmental Professionals Award for Environmental Excellence in NEPA for assistance with the Steller Seal Lion Protection Measures SEIS, June 2003.
+* Mote International Symposium on Confronting Trade-offs in the Ecosystem Approach to Fisheries Management Young Investigator Award, November 2002.
+* Department of Commerce Special Act Award for service as the Nontarget and Prohibited Species Team Leader in the development of the Draft Programmatic SEIS for groundfish fisheries in Alaska, September 2000. 
+* Department of Commerce “Cash-In-A-Flash” awards, March and June 1998. 
+* College of William and Mary William J. Hargis Jr. Fellowship Award and Dean's Fellowship. April, 1995.
 
 # Publications
 
@@ -117,7 +127,9 @@ RefManageR::PrintBibliography(bib)
 
 ## Papers submitted to peer-reviewed journals
 
-Isaac C. Kaplan, Sarah K Gaichas, Christine C Stawitz, Patrick D. Lynch, Kristin N Marshall, Jonathan J. Deroba, Michelle Masi, Jon KT Brodziak, Kerim Y. Aydin, Kirstin Holsman, Howard Townsend, Desiree Tommasi, James A. Smith, Stefan Koenigstein, Mariska Weijerman and Jason Link. Management Strategy Evaluation: Allowing the Light on the Hill to Illuminate More than One Species. Original Research, Front. Mar. Sci. - Marine Fisheries, Aquaculture and Living Resources. Received on: 31 Oct 2020, Edited by: Athanassios C. Tsikliras. Manuscript ID: 624355
+Staudinger, M., Lynch, A.,  Gaichas, S., Fox, M., Gibson-Reinemer, D., Langan, J., Teffer, A., Thackeray, S., and Winfield, I.  Accepted April 2021. How does climate change affect emergent properties of aquatic ecosystems? Fisheries.
+
+Kaplan, I.C., S.K. Gaichas, C.C. Stawitz, P.D. Lynch, K.N. Marshall, J.J. Deroba, M. Masi, J.K.T. Brodziak, K.Y. Aydin, K. Holsman, H. Townsend, D. Tommasi, J.A. Smith, S. Koenigstein, M. Weijerman and J. Link. Management Strategy Evaluation: Allowing the Light on the Hill to Illuminate More than One Species. Original Research, Front. Mar. Sci. - Marine Fisheries, Aquaculture and Living Resources. 
 
 ## Other papers (non peer-reviewed journals, book chapters, symposium volumes)
 
@@ -127,18 +139,34 @@ Gaichas, S.K., C. Reiss, and M. Koen-Alonso. 2014. Ecosystem Based Management in
 
 ## Reports
 
-State of the Ecosystem
+Northeast Fisheries Science Center State of the Ecosystem Reports; lead editor for Mid-Atlantic 2017-2021, lead editor for New England 2017-2020, supporting editor for New England 2021. 
 
-Risk assessments
+* 2021 State of the Ecosystem: Mid-Atlantic; https://apps-nefsc.fisheries.noaa.gov/rcb/publications/SOE-MAFMC-2021-508-Final.pdf
+* 2021 State of the Ecosystem: New England; https://apps-nefsc.fisheries.noaa.gov/rcb/publications/SOE-MAFMC-2021-508-Final.pdf
+* 2020 State of the Ecosystem: Mid-Atlantic; https://doi.org/10.25923/1f8j-d564
+* 2020 State of the Ecosystem: New England; https://doi.org/10.25923/4tdk-eg57
+* 2019 State of the Ecosystem: Mid-Atlantic; https://www.mafmc.org/s/Tab09_State-of-the-Ecosystem-Report_2019-04.pdf
+* 2019 State of the Ecosystem: New England; https://s3.amazonaws.com/nefmc.org/11_SOE-NEFMC-2019.pdf
+* 2018 State of the Ecosystem: Mid-Atlantic; https://www.mafmc.org/s/Tab04_State-of-the-Ecosystem-Apr2018.pdf
+* 2018 State of the Ecosystem: New England; https://s3.amazonaws.com/nefmc.org/2_Ecosystem-Status-Report.pdf
+* 2017 State of the Ecosystem: Mid-Atlantic; https://www.mafmc.org/s/Tab02_2017-04_State-of-the-Ecosystem-and-EAFM.pdf
+* 2017 State of the Ecosystem: New England; https://s3.amazonaws.com/nefmc.org/2_2016-State-of-the-Ecosystem-Report.pdf
 
-ICES WGSAM
+ICES. 2021. Working Group on Multispecies Assessment Methods (WGSAM; outputs from 2020 meeting). ICES Scientific Reports. 3:10. 231 pp. https://doi.org/10.17895/ices.pub.7695
+
+ICES. 2021. Workshop of Fisheries Management Reference Points in a Changing Environment(WKRPChange, outputs from 2020 meeting). ICES Scientific Reports. 3:6. 39 pp.https://doi.org/10.17895/ices.pub.7660
+
+ICES. 2019. Working Group on Multispecies Assessment Methods (WGSAM). ICES Scientific Reports.1:91. 320 pp. http://doi.org/10.17895/ices.pub.5758
+
+ICES. 2018. Report of the Working Group on Multispecies Assessment Methods (WGSAM), 15–19 October 2018, Paris, France. ICES CM 2018/HAPISG:20. 89 pp.
 
 ICES WGNARS
+
+1-2 other NEMoW reports
 
 Link, J.S., D. Mason, T. Lederhouse, S. Gaichas, T. Hartley, J. Ianelli, R. Methot, C. Stock, C. Stow, and H. Townsend. 2015. Report from the Joint OAR-NMFS Modeling Uncertainty Workshop. U.S. Dept. of Commer., NOAA. NOAA Technical Memorandum NMFS-F/SPO-153, 31 p.
 
 Lucey, S. and S. Gaichas. 2015. Fish Communities. Section in Fogarty, M. (ed.), Ecosystem Status Report for the Northeast Large Marine Ecosystem http://www.nefsc.noaa.gov/ecosys/ecosystem-status-report/fish-communities.html 
-
 Northeast Fisheries Science Center 2015. Figures for Ecosystem Status Report (Executive Summary). http://www.nefsc.noaa.gov/ecosys/ecosystem-status-report/ 
 
 Link, J. S., T.F. Ihde, H. Townsend, K. Osgood, M. Schirripa, D. Kobayashi, S. Gaichas, J. Field, P. Levin, K. Aydin, G. Watters, and C. Harvey (editors). 2010. Report of the 2nd National Ecosystem Modeling Workshop (NEMoW II):  Bridging The Credibility Gap – Dealing With Uncertainty In Ecosystem Models. U.S. Dep. Commerce, NOAA Tech. Memo. NMFS-F/SPO-102, 72 p.
@@ -151,6 +179,12 @@ Gaichas, S.K., and J.C. Field, 2003. Comparative modeling approaches for exploit
 
 
 ## Others (Fishery Management Council Documents)
+
+2020-2021: Lead author, State of the Ecosystem Request tracking memo for the Mid-Atlantic and New England Fishery Management Councils
+
+2017-2021: Lead author, Mid-Atlantic Fishery Management Council Ecosystem Approach to Fisheries Management Risk assessments
+
+December 2019: Mid-Atlantic Fishery Management Council Ecosystem Approach to Fisheries Management Conceptual model
  
 April 2016: Contributor to Mid-Atlantic Fishery Management Council Ecosystem Approach to Fisheries Management Guidance Document (1st Draft). http://www.mafmc.org/s/Tab05_EAFM.pdf 
 
@@ -198,6 +232,8 @@ Fishery Management Councils: SOE
 Fishery Management Councils Management stategy evaluation stakeholder workshops
 
 Marine Resource Education Program
+
+Maine Fishermen's Forum
 
 OneNOAA EBFM series
 
@@ -254,6 +290,14 @@ AIFRB
 
 ## Membership on panels
 
+Invited review panelist, Atlantic States Marine Fisheries Commission Atlantic Menhaden stock assessment and ecological reference points, November 2019.
+
+Chaired Baltic Sea multispecies model key run reviews for ICES WGSAM, October 2019.
+
+Invited review panelist, South African Assessment review, November 2018. MSE-based management procedures for 4 species were reviewed over the course of a week by an international panel. (Also invited for 2019 panel, but declined due to conflicts).
+
+
+
 ## Advisory services
 
 All the Council stuff
@@ -262,13 +306,18 @@ ICES WKs
 
 ## Workshops organized/chaired; sessions organized/chaired at professional meetings
 
-ICES/PICES 2022 Small Pelagics
+ICES/PICES 2022 Small Pelagics symposium co-convener
 
-WFC 2021 Climate and Ecosystem section of Horn of Plenty
+WFC 2021 Climate and Ecosystem section of Horn of Plenty symposium co-convener
 
-AFS 2018 ecosystem emergent properties Atlantic City
+2019 National Ecosystem Modeling Workshop (NEMoW) steering committee member; unable to attend due to conflict
+with MAFMC EAFM Conceptual Model presentation in December
+– Developed NEFSC overview presentation (presented by Scott Large)
+– Developed atlantisom tool demonstration (presented by Christine Stawitz)
 
-AFS 2017 MSE Tampa
+AFS 2018 ecosystem emergent properties symposium co-convener Atlantic City
+
+AFS 2017 MSE symposium co-convener Tampa
 
 *	Symposium Co-organizer: “Multispecies models (including humans!)—where have we been and where do we need to go?” 2015 American Fisheries Society annual meeting. 
 
