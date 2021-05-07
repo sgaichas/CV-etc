@@ -299,7 +299,43 @@ AFS
 
 *	Invited participant in Society for Conservation Biology symposium on ecosystem consequences of fishing in Port Elizabeth, South Africa (2007) and coauthor on a related review publication.
 
+FY11:
+-Presented three talks at the Lowell Wakefield Ecosystems Symposium in
+Anchorage, AK, November 8-11, 2010: "From the Aleutians to the Arctic: Integrating Ecosystem Approaches within the Alaska Fishery Management Process" (for Stephani Zador), "Assembly Rules for Aggregate-Species Production Models: Simulations In Support of Management Strategy Evaluation" (with Mike Fogarty et al.), and "What Drives Dynamics in the Gulf of Alaska? Integrating Hypotheses of Species, Fishing, and Climate Relationships Using Ecosystem Modeling"
+-Presented "Marine ecosystems science and management from Alaska to Puget Sound" with Chris Harvey (NWFSC) at the Science Cafe, an informal public lecture series in Seattle sponsored by Pacific Science Center, December 7, 2010
+-Presented Central GOA dynamic model simulations of whale restoration, jellyfish fluctuations, and no fishing at GLOBEC Pan-Regional Synthesis PI meeting, Feb 28-March 4, 2011
+-Presented "Diet data products for stock assessment" and co-organized the Stock-specific ecosystem indicators workshop hosted by AFSC, April 7, 2011
+-Invited to present "Uncertainty in Ecosystem Indicators: known knowns, known unknowns, and unknown unknowns" at the PICES FUTURE workshop on ecosystem indicators in Honolulu, HI, April 26-28, 2011
+FY10:
+-Invited presenter at UW SAFS “Young Investigator” departmental seminar on Dec 3, 2009: "Where does ecosystem modeling fit into fisheries management? Examples from the North Pacific”
+- Co-led UW-NMFS Fisheries Think Tank on Dec 8, 2009: “Combining single species and ecosystem modeling results in ecosystem assessments” with Kerim Aydin and Isaac Kaplan (NWFSC)
+- Co-presented with Kerim Aydin and Steph Zador a review of SSC comments and proposed analyses and processes to move forward NPFMC SSC Workshop on Ecological and Economic Indicators, February Council Meeting
+- Participated in CAMEO Predator-Prey Interactions workshop in Corvallis, OR, March 16-18, 2010: presented three slide “lightning talk” on GOA food web modeling and management applications. - Presented “Ecosystem Considerations in the North Pacific: Groundfish SAFE &Aleutian Islands FEP” at the Ecosystem Science and Management workshop in Silver Spring, MD March 24-25, 2010.
+- Presented “Fishing policy simulations in end-to-end models” at CAMEO end to end modeling workshop, Woods Hole MA, April 18-22 2010. Also, summarized discussions for two breakout groups and contributed meeting notes. - Presented GOA ecosystem overview and data summary, and examples of fitting our models to time series data at CAMEO stock production modeling workshop, Woods Hole MA, May 10-14
 
+- Presented “Arctic ecosystem knowledge, where do we stand and where do we go from here?” in the AFSC seminar series, 19 May 2010. - Organized Alaska group analyses and presented work completed to date for ecosystem comparisons for the GLOBEC Pan-Regional Synthesis PI meeting in Seattle, May 25-27, 2010 - Presented “From the Aleutians to the Arctic: integrating ecosystem approaches within the Alaska fishery management process” at the AFS meeting in Pittsburgh, PA, 12-16 September within the Ecosystem Approach to Fishery Management symposium organized by Mike Fogarty et al. (NEFSC).
+- Presented (for K. Aydin) “The use of models in ecosystem assessment processes in Alaska (experiences from the Alaskan Fisheries Council Process” at the AFS meeting in Pittsburgh, PA, 12-16 September within the Ecosystem Approach to Fishery Management symposium organized by Mike Fogarty et al. (NEFSC).
+- Presented Ecosystem Considerations SAFE to the joint Groundfish Plan Teams, 22 September 2010.
+FY09:
+- Presented “Complex systems models of trophic and fishing interactions with implications for research and management” at GLOBEC Open Science Meeting in Victoria BC, June 2009
+- Presented “Gulf of Alaska food web modeling and predation mortality estimates: information for single-species M” at the national workshop on Natural Mortality, August 2009
+- Presented analysis of comparisons of single species and ecosystem model results across NMFS Science Centers at NEMoW II meeting in Annapolis, August 2009
+- Presented work completed to date for ecosystem comparisons for the GLOBEC Pan-Regional Synthesis PI meeting in Seattle, September 2009 FY08:
+- Invited expert at Asia-Pacific Economic Cooperation (APEC) workshop on developing a network on deep sea resources and fisheries, October 3-5 2007 in Lima, Peru; presented talk on Alaskan fisheries and deep-sea resources including slope surveys in all three ecosystems.
+- Presented results of ecosystem threshold modeling at UW mini-workshop October 24, 2007
+- Presented ecosystem modeling talk at Pacific Science Center Teacher workshop October 26, 2007
+- PICES Annual meeting, Victoria, B.C., October 30, 2007; presented my own paper on ecosystem level thresholds as well as Ivonne Ortiz's paper on Aleutian Islands spatial food web modeling. - UW Career Week panelist for marine science careers January 29, 2008
+- Science on Tap May 6, 2008; informal evening outreach presentation on
+
+ecosystem modeling and fishery management, sponsored by Pacific Science Center
+- Marine Science Weekend at Pacific Science Center May 15-18, 2008; collaborated to develop and present a food-web/ecology related demonstration (did first presentation, May 15)
+- Presented ecosystem modeling results to Ray Hilborn's UW class, May 19, 2008
+- Advances in Marine Ecosystem Modelling Research (AMEMR) symposium in Plymouth, UK June 22-26, 2008; presented "Identifying critical interactions and thresholds in eastern north Pacific ecosystems through model simulations".
+FY07:
+-PICES meeting Yokohama Japan October 13-19, 2006. Presented ecosystem network comparison methods for EBS, GOA, and California Current during CFAME workshop.
+-Society for Conservation Biology meeting invited symposium speaker July 1-5, 2007 in South Africa. -AFS: presented a talk and a poster (for Grant Thompson) in the symposium “Ecosystem modeling applications in fishery management” for September 2-6, 2007 meeting in San Francisco -MENU workshop, Bergen Norway, March 6-9 presented GOA ecosystem description, demonstrated comparison methods used in Alaska.
+-Co-leader of UW Mini-workshop on fitting ecosystem models to data, February 20 2007.
+-NEMoW workshop, Santa Cruz CA August 29-31, 2007, gave presentation on Ecosim and contributed to presentation on Ecopath, co-leader of breakout group 1, and rapporteur. -Presented research on computation involved in ecosystem modeling to a group of visiting junior college teachers from Fresno City College and other schools touring the NOAA facility August 9, 2007. -Presenter at AFSC fish booth at the Seattle Fall Fisherman’s Festival, September 22, 2007.
 
 
 ## Posters presented at professional meetings
@@ -506,5 +542,30 @@ MAFMC SSC (here or advisory?)
 March 2020 - present: considerable time was needed for dependent care (elementary age kids and elder care). I often used the excused absence for dependent care.
 
 # References
+
+Vera Agostini
+FAO
+Deputy Director
+Fisheries and Aquaculture Policy and Resources Division
+Food and Agriculture Organization of the United Nations
+Viale delle Terme di Caracalla
+00153 Rome, Italy.
+Vera.Agostini@fao.org
+P. +39 06570 50183 ; F. +39 06570 53020
+Skype vera.agostini
+
+
+Jane DiCosimo
+
+
+Daniel Howell
+Institute of Marine Research
+P.O. Box 1870 Nordnes
+NO-5817 Bergen, Norway
+daniel.howell@hi.no
++47 92063885
+
+
+Jason Link
 
 
