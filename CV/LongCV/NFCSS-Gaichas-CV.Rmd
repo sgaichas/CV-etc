@@ -214,7 +214,7 @@ Speaker, moderator, and symposium organizer at regional to international profess
 
 ## Talks presented at professional meetings
 
-Selected first authored presentations
+Selected first authored presentations, past 15 years
 
 Invited: 
 * 2021 American Fisheries Society (AFS) 
@@ -225,33 +225,23 @@ Invited:
 SK Gaichas, GK DePiper, R Seagraves, B Muffley, S Lucey. There is no I in EAFM: adapting Integrated Ecosystem Assessment for Mid-Atlantic Fisheries Management. 2019 Coastal and Estuarine Research Foundation Biennial Conference. (Presented by Sean Lucey due to conflict with review panel)
 
 * 2018
-Gaichas et al herring control rules ICES ASC
+Gaichas et al herring control rules ICES ASC •	ICES ASC, September 2018 “Are any herring harvest control rules good for both fisheries and predators?”
 
 * 2017
-IMBER IMBIZO stakeholders MSE lessons
 
-•	IMBER IMBIZO, October 2017 (“Getting on the same page, or at least in the same library: lessons in communication from a stakeholder-driven MSE for Northeast US Atlantic herring”)
-•	ICES WGSAM, October 2017 (“Update on US modeling activities”, “Indicator based risk assessment”, “Herring MSE update”, “Linking mass balance models” for Sean Lucey, “GB multispecies management procedure” for Mike Fogarty, “Model structural comparisons” for Robert Wildermuth, “ICES update” for Amanda Hart, “Mulitple models for sardine” for Isaac Kaplan, “ACLIM project” for Kirstin Holsman)
-•	NSF Wind Energy Workshop, November 2017 (“IEAs”)
-•	QUEST webinar, December 2017 (“The Dream and the Reality: Meeting decision-making times frames while incorporating ecosystem and economic models into management strategy evaluation”)
-•	Poster presentations, National SSC meeting, January 2018 ("Which MSE should you do first? Prioritizing MSE investments using risk assessment under an Ecosystem Approach to Fishery Management", and “Getting on the same page, or at least in the same library: lessons in communication from a stakeholder-driven management strategy evaluation for northeast US Atlantic herring”)
-•	ICES WGNARS, March 2018 (“US Risk Assessment and Ecosystem Reporting Update”)
-•	International TAC workshop in Xiamen China, April 2018:“Can we integrate ecosystem and multispecies interactions into TACs and other fishery management?”
-•	ICES ASC, September 2018 “Are any herring harvest control rules good for both fisheries and predators?”
+AFS Tampa MAFMC EAFM • AFS 2017 on Mid-Atlantic IEA risk assessment progress, coauthor on herring MSE presentation and co-organizer of symposium, coauthor on ICES presentations
 
-
-AFS Tampa MAFMC EAFM
-
-•	ICES WGSAM, October 2016 (“Update on US MSE activities and Atlantis Poseidon Adventure project”, “The state of ecosystem indicator reference points for fishery management” for Jamie Tam, “Tradeoffs between commercial fishing fleets, marine mammals and finfish biomass” for Laurel Smith, and “Mid-Atlantic Ecosystem Approach to Fisheries Management”)
-•	ICES WGNARS, March 2017 (“US IEA Update”)
-•	Council presentations on herring MSE and EAFM reported under elements 3 and 4
-•	Scheduled to present at AFS 2017 on Mid-Atlantic IEA risk assessment progress, coauthor on herring MSE presentation and co-organizer of symposium, coauthor on ICES presentations
+IMBER IMBIZO stakeholders MSE lessons •	IMBER IMBIZO, October 2017 (“Getting on the same page, or at least in the same library: lessons in communication from a stakeholder-driven MSE for Northeast US Atlantic herring”)
 
 
 * 2016
 REDUS kickoff?
 
 * 2015
+
+•	NSAW, August 2015 (“Combining stock, multispecies, and ecosystem level status determination criteria: a worked example”); coauthor on ICES ASC abstract for Sept 2015 that used this material. 
+•	AFS, August 2015 (“Multispecies stock assessment for Georges Bank: model development, performance testing, and multimodel inference”); coauthor on ICES ASC poster using this info. Coauthor on 2 other AFS abstracts.
+
 AFS Portland
 
 NSAW Portland
@@ -263,13 +253,11 @@ examples and suggestions”)
 •	ICES WKRISCO, Nov2014 (“WGNARS: IEA progress, opportunities, and challenges”)
 •	NMFS-OAR Uncertainty Workshop, April 2015 (“Uncertainty in Ecosystem Models: Taxonomy and Treatment”)
 •	NOAA GFDL Application of Seasonal to Decadal Climate Predictions for Marine Resource Management Workshop, June 2014 (“Incorporating Climate into Ecosystem Based Fisheries Management”)
-•	NSAW, August 2015 (“Combining stock, multispecies, and ecosystem level status determination criteria: a worked example”); coauthor on ICES ASC abstract for Sept 2015 that used this material. 
-•	AFS, August 2015 (“Multispecies stock assessment for Georges Bank: model development, performance testing, and multimodel inference”); coauthor on ICES ASC poster using this info. Coauthor on 2 other AFS abstracts.
 
 
 * 2014
 ICES ASC
-•	ICES Gadoid Symposium, October 2013 (talk prepared, canceled due to govt shutdown)
+
 •	ICES Symposium Ecological Basis of Risk Analysis for Marine Ecosystems, June 2014 (Northeast US fish community climate risk assessment—presented by Wes Patrick)
 •	Ecological Forecasting Web-workshop, July 18 (Forecast use in multispecies assessments and ecosystem models, informal presentation with Rob Gamble and Tim Miller)
 •	AFS, Canada, August 2014 (coauthor on Sean Lucey's talk, not attending the meeting)
@@ -277,6 +265,7 @@ ICES ASC
 
 
 * 2013
+•	ICES Gadoid Symposium, October 2013 (talk prepared, canceled due to govt shutdown)
 •	ASLO Aquatic Sciences Meeting, New Orleans, LA, February 2013 (CAMEO Production modeling synthesis paper—presented by Tom Miller due to our travel restrictions) 
 •	Data Visualization Workshop, Portland ME, February 2013 (Visualizing complexity; invited)
 •	ICES WCSAM, Boston, MA, July 2013 (prepared abstract describing current multi-model, multispecies assessment project for Georges Bank, poster created and presented by Rob Gamble). 
@@ -292,20 +281,30 @@ ICES ASC
 
 
 * 2011
+
+-Presented three talks at the Lowell Wakefield Ecosystems Symposium in
+Anchorage, AK, November 8-11, 2010: "From the Aleutians to the Arctic: Integrating Ecosystem Approaches within the Alaska Fishery Management Process" (for Stephani Zador), "Assembly Rules for Aggregate-Species Production Models: Simulations In Support of Management Strategy Evaluation" (with Mike Fogarty et al.), and "What Drives Dynamics in the Gulf of Alaska? Integrating Hypotheses of Species, Fishing, and Climate Relationships Using Ecosystem Modeling"
+
 Invited keynote in PICES FUTURE workshop on Ecosystem Indicators, April 2011 in Honolulu, HI. 
 AFS
 
 * 2010
 
+* 2009
+
+* 2008
+
+* 2007
+
 *	Invited participant in Society for Conservation Biology symposium on ecosystem consequences of fishing in Port Elizabeth, South Africa (2007) and coauthor on a related review publication.
 
 FY11:
--Presented three talks at the Lowell Wakefield Ecosystems Symposium in
-Anchorage, AK, November 8-11, 2010: "From the Aleutians to the Arctic: Integrating Ecosystem Approaches within the Alaska Fishery Management Process" (for Stephani Zador), "Assembly Rules for Aggregate-Species Production Models: Simulations In Support of Management Strategy Evaluation" (with Mike Fogarty et al.), and "What Drives Dynamics in the Gulf of Alaska? Integrating Hypotheses of Species, Fishing, and Climate Relationships Using Ecosystem Modeling"
+
 -Presented "Marine ecosystems science and management from Alaska to Puget Sound" with Chris Harvey (NWFSC) at the Science Cafe, an informal public lecture series in Seattle sponsored by Pacific Science Center, December 7, 2010
 -Presented Central GOA dynamic model simulations of whale restoration, jellyfish fluctuations, and no fishing at GLOBEC Pan-Regional Synthesis PI meeting, Feb 28-March 4, 2011
 -Presented "Diet data products for stock assessment" and co-organized the Stock-specific ecosystem indicators workshop hosted by AFSC, April 7, 2011
 -Invited to present "Uncertainty in Ecosystem Indicators: known knowns, known unknowns, and unknown unknowns" at the PICES FUTURE workshop on ecosystem indicators in Honolulu, HI, April 26-28, 2011
+
 FY10:
 -Invited presenter at UW SAFS “Young Investigator” departmental seminar on Dec 3, 2009: "Where does ecosystem modeling fit into fisheries management? Examples from the North Pacific”
 - Co-led UW-NMFS Fisheries Think Tank on Dec 8, 2009: “Combining single species and ecosystem modeling results in ecosystem assessments” with Kerim Aydin and Isaac Kaplan (NWFSC)
@@ -320,17 +319,18 @@ FY09:
 - Presented “Complex systems models of trophic and fishing interactions with implications for research and management” at GLOBEC Open Science Meeting in Victoria BC, June 2009
 - Presented “Gulf of Alaska food web modeling and predation mortality estimates: information for single-species M” at the national workshop on Natural Mortality, August 2009
 - Presented analysis of comparisons of single species and ecosystem model results across NMFS Science Centers at NEMoW II meeting in Annapolis, August 2009
-- Presented work completed to date for ecosystem comparisons for the GLOBEC Pan-Regional Synthesis PI meeting in Seattle, September 2009 FY08:
+- Presented work completed to date for ecosystem comparisons for the GLOBEC Pan-Regional Synthesis PI meeting in Seattle, September 2009 
+
+FY08:
 - Invited expert at Asia-Pacific Economic Cooperation (APEC) workshop on developing a network on deep sea resources and fisheries, October 3-5 2007 in Lima, Peru; presented talk on Alaskan fisheries and deep-sea resources including slope surveys in all three ecosystems.
 - Presented results of ecosystem threshold modeling at UW mini-workshop October 24, 2007
 - Presented ecosystem modeling talk at Pacific Science Center Teacher workshop October 26, 2007
 - PICES Annual meeting, Victoria, B.C., October 30, 2007; presented my own paper on ecosystem level thresholds as well as Ivonne Ortiz's paper on Aleutian Islands spatial food web modeling. - UW Career Week panelist for marine science careers January 29, 2008
-- Science on Tap May 6, 2008; informal evening outreach presentation on
-
-ecosystem modeling and fishery management, sponsored by Pacific Science Center
+- Science on Tap May 6, 2008; informal evening outreach presentation on ecosystem modeling and fishery management, sponsored by Pacific Science Center
 - Marine Science Weekend at Pacific Science Center May 15-18, 2008; collaborated to develop and present a food-web/ecology related demonstration (did first presentation, May 15)
 - Presented ecosystem modeling results to Ray Hilborn's UW class, May 19, 2008
 - Advances in Marine Ecosystem Modelling Research (AMEMR) symposium in Plymouth, UK June 22-26, 2008; presented "Identifying critical interactions and thresholds in eastern north Pacific ecosystems through model simulations".
+
 FY07:
 -PICES meeting Yokohama Japan October 13-19, 2006. Presented ecosystem network comparison methods for EBS, GOA, and California Current during CFAME workshop.
 -Society for Conservation Biology meeting invited symposium speaker July 1-5, 2007 in South Africa. -AFS: presented a talk and a poster (for Grant Thompson) in the symposium “Ecosystem modeling applications in fishery management” for September 2-6, 2007 meeting in San Francisco -MENU workshop, Bergen Norway, March 6-9 presented GOA ecosystem description, demonstrated comparison methods used in Alaska.
@@ -340,7 +340,7 @@ FY07:
 
 ## Posters presented at professional meetings
 
-Fewer
+•	Poster presentations, National SSC meeting, January 2018 ("Which MSE should you do first? Prioritizing MSE investments using risk assessment under an Ecosystem Approach to Fishery Management", and “Getting on the same page, or at least in the same library: lessons in communication from a stakeholder-driven management strategy evaluation for northeast US Atlantic herring”)
 
 ## Other seminars/presentations
 
@@ -389,6 +389,25 @@ Invited
 
 “Deep Uncertainty and MSE” for NOAA Science Advisory Board’s Ecosystem Sciences and Management Working Group, July 16, 2020: https://noaa-edab.github.io/presentations/20200716_MSEUncertainty_Gaichas.html
 
+* 2018
+
+•	ICES WGNARS, March 2018 (“US Risk Assessment and Ecosystem Reporting Update”)
+
+•	International TAC workshop in Xiamen China, April 2018:“Can we integrate ecosystem and multispecies interactions into TACs and other fishery management?”
+
+
+*  2017
+
+•	ICES WGNARS, March 2017 (“US IEA Update”)
+•	ICES WGSAM, October 2017 (“Update on US modeling activities”, “Indicator based risk assessment”, “Herring MSE update”, “Linking mass balance models” for Sean Lucey, “GB multispecies management procedure” for Mike Fogarty, “Model structural comparisons” for Robert Wildermuth, “ICES update” for Amanda Hart, “Mulitple models for sardine” for Isaac Kaplan, “ACLIM project” for Kirstin Holsman)
+•	NSF Wind Energy Workshop, November 2017 (“IEAs”)
+•	QUEST webinar, December 2017 (“The Dream and the Reality: Meeting decision-making times frames while incorporating ecosystem and economic models into management strategy evaluation”)
+
+*  2016
+
+•	ICES WGSAM, October 2016 (“Update on US MSE activities and Atlantis Poseidon Adventure project”, “The state of ecosystem indicator reference points for fishery management” for Jamie Tam, “Tradeoffs between commercial fishing fleets, marine mammals and finfish biomass” for Laurel Smith, and “Mid-Atlantic Ecosystem Approach to Fisheries Management”)
+
+•	Council presentations on herring MSE and EAFM reported under elements 3 and 4
 
 
 # Funded research
