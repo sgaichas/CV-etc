@@ -220,6 +220,8 @@ Invited:
 * 2021 American Fisheries Society (AFS) 
     - connecting the dots climate informed management symposium
     - ecological forecasting symposium
+    
+* 2020 National SSC invited keynote speaker, meeting postponed
 
 * 2019
 SK Gaichas, GK DePiper, R Seagraves, B Muffley, S Lucey. There is no I in EAFM: adapting Integrated Ecosystem Assessment for Mid-Atlantic Fisheries Management. 2019 Coastal and Estuarine Research Foundation Biennial Conference. (Presented by Sean Lucey due to conflict with review panel)
@@ -365,6 +367,7 @@ IMR/NOAA bilateral meetings
 IMR departmental and institute seminars
 
 Invited
+* Keynote on multispecies modeling best practices for Multispecies Modeling Applications Workshop, June 2021
 * IEA and SOE for MACO Ocean forum May 2021
 * Using ecosystem info in management for DFO Ecosystem WG February 2021
 * ICES WKRPchange US reference points and herring HCR (2 presentations) Sept 2020
@@ -556,6 +559,12 @@ Invited course and lab guest lecturer for Rutgers 2020 summer course, postponed 
 National MSE WG Chair
 
 MAFMC SSC (here or advisory?)
+
+* Participated in National EBFM workshop, July 2020
+    +  Contributed NEFSC info to ESR presentation
+    +  Represented NEFSC in ESR and other discussions
+
+
 
 ## Other
 
