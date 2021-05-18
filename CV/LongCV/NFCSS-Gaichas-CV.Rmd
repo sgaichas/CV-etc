@@ -302,8 +302,7 @@ ICES ASC
 
 * 2011
 
--Presented three talks at the Lowell Wakefield Ecosystems Symposium in
-Anchorage, AK, November 8-11, 2010: "From the Aleutians to the Arctic: Integrating Ecosystem Approaches within the Alaska Fishery Management Process" (for Stephani Zador), "Assembly Rules for Aggregate-Species Production Models: Simulations In Support of Management Strategy Evaluation" (with Mike Fogarty et al.), and "What Drives Dynamics in the Gulf of Alaska? Integrating Hypotheses of Species, Fishing, and Climate Relationships Using Ecosystem Modeling"
+-Presented three talks at the Lowell Wakefield Ecosystems Symposium in Anchorage, AK, November 8-11, 2010: "From the Aleutians to the Arctic: Integrating Ecosystem Approaches within the Alaska Fishery Management Process" (for Stephani Zador), "Assembly Rules for Aggregate-Species Production Models: Simulations In Support of Management Strategy Evaluation" (with Mike Fogarty et al.), and "What Drives Dynamics in the Gulf of Alaska? Integrating Hypotheses of Species, Fishing, and Climate Relationships Using Ecosystem Modeling"
 
 Invited keynote in PICES FUTURE workshop on Ecosystem Indicators, April 2011 in Honolulu, HI. 
 AFS
@@ -332,7 +331,9 @@ FY10:
 - Participated in CAMEO Predator-Prey Interactions workshop in Corvallis, OR, March 16-18, 2010: presented three slide “lightning talk” on GOA food web modeling and management applications. - Presented “Ecosystem Considerations in the North Pacific: Groundfish SAFE &Aleutian Islands FEP” at the Ecosystem Science and Management workshop in Silver Spring, MD March 24-25, 2010.
 - Presented “Fishing policy simulations in end-to-end models” at CAMEO end to end modeling workshop, Woods Hole MA, April 18-22 2010. Also, summarized discussions for two breakout groups and contributed meeting notes. - Presented GOA ecosystem overview and data summary, and examples of fitting our models to time series data at CAMEO stock production modeling workshop, Woods Hole MA, May 10-14
 
-- Presented “Arctic ecosystem knowledge, where do we stand and where do we go from here?” in the AFSC seminar series, 19 May 2010. - Organized Alaska group analyses and presented work completed to date for ecosystem comparisons for the GLOBEC Pan-Regional Synthesis PI meeting in Seattle, May 25-27, 2010 - Presented “From the Aleutians to the Arctic: integrating ecosystem approaches within the Alaska fishery management process” at the AFS meeting in Pittsburgh, PA, 12-16 September within the Ecosystem Approach to Fishery Management symposium organized by Mike Fogarty et al. (NEFSC).
+- Presented “Arctic ecosystem knowledge, where do we stand and where do we go from here?” in the AFSC seminar series, 19 May 2010. 
+- Organized Alaska group analyses and presented work completed to date for ecosystem comparisons for the GLOBEC Pan-Regional Synthesis PI meeting in Seattle, May 25-27, 2010 
+- Presented “From the Aleutians to the Arctic: integrating ecosystem approaches within the Alaska fishery management process” at the AFS meeting in Pittsburgh, PA, 12-16 September within the Ecosystem Approach to Fishery Management symposium organized by Mike Fogarty et al. (NEFSC).
 - Presented (for K. Aydin) “The use of models in ecosystem assessment processes in Alaska (experiences from the Alaskan Fisheries Council Process” at the AFS meeting in Pittsburgh, PA, 12-16 September within the Ecosystem Approach to Fishery Management symposium organized by Mike Fogarty et al. (NEFSC).
 - Presented Ecosystem Considerations SAFE to the joint Groundfish Plan Teams, 22 September 2010.
 FY09:
@@ -353,7 +354,9 @@ FY08:
 
 FY07:
 -PICES meeting Yokohama Japan October 13-19, 2006. Presented ecosystem network comparison methods for EBS, GOA, and California Current during CFAME workshop.
--Society for Conservation Biology meeting invited symposium speaker July 1-5, 2007 in South Africa. -AFS: presented a talk and a poster (for Grant Thompson) in the symposium “Ecosystem modeling applications in fishery management” for September 2-6, 2007 meeting in San Francisco -MENU workshop, Bergen Norway, March 6-9 presented GOA ecosystem description, demonstrated comparison methods used in Alaska.
+-Society for Conservation Biology meeting invited symposium speaker July 1-5, 2007 in South Africa. 
+-AFS: presented a talk and a poster (for Grant Thompson) in the symposium “Ecosystem modeling applications in fishery management” for September 2-6, 2007 meeting in San Francisco 
+-MENU workshop, Bergen Norway, March 6-9 presented GOA ecosystem description, demonstrated comparison methods used in Alaska.
 -Co-leader of UW Mini-workshop on fitting ecosystem models to data, February 20 2007.
 -NEMoW workshop, Santa Cruz CA August 29-31, 2007, gave presentation on Ecosim and contributed to presentation on Ecopath, co-leader of breakout group 1, and rapporteur. -Presented research on computation involved in ecosystem modeling to a group of visiting junior college teachers from Fresno City College and other schools touring the NOAA facility August 9, 2007. -Presenter at AFSC fish booth at the Seattle Fall Fisherman’s Festival, September 22, 2007.
 
@@ -366,7 +369,7 @@ FY07:
 
 Fishery Management Councils: SOE
 
-Fishery Management Councils Management stategy evaluation stakeholder workshops
+Fishery Management Councils Management strategy evaluation stakeholder workshops
 
 Marine Resource Education Program
 
@@ -450,9 +453,9 @@ Past member: Ecological Society of America, The Society for Conservation Biology
 
 ## Editorial positions
 
-Guest editor, CJFAS special issue MSE 2018-2019
+Guest editor, 2018-2019. Canadian Journal of Fisheries and Aquatic Sciences virtual special issue "Under pressure: addressing fisheries challenges with management strategy evaluation." 
 
-Guest editor, MEPS special issue comparative system productivity 2011-2012
+Guest editor, 2011-2012. Marine Ecology Progress Series Theme Section "Comparative analysis of marine fisheries production." 
 
 ## Membership on panels
 
@@ -476,6 +479,7 @@ Invited review panelist:
 ## Advisory services
 
     Active
+    
 * Mid-Atlantic FMC Scientific and Statistical Committee, (2014-present); determining Allowable Biological Catch (ABC) advice for fishery management and other scientific support. 
 * Member and past co-chair of the ICES Working Group on North Atlantic Regional Seas; developing ecosystem indicators and integrated ecosystem assessments for Canadian and U.S. waters.
 * Co-Chair of the ICES Working Group on Multispecies Assessment Methods: reviewing and contributing to multispecies and ecosystem modeling progress across ICES regions. 
@@ -483,6 +487,7 @@ Invited review panelist:
 
 
     Past
+    
 All the Council stuff
 
 Herring assesment WG 2018
@@ -526,9 +531,11 @@ AFS 2017 Tampa; Under Pressure: Defining Harvest Strategies that Account for Bio
 
 AFS 2015 Portland, OR; Multispecies models (including humans!)—where have we been and where do we need to go? Organizers: Sarah K. Gaichas, Kirstin Holsman, Alan Haynie and Geret DePiper
 
-AFS 2011 ; What Influences Fisheries Production? Comparing the Effects of Environmental, Fishing, and Food Web Forcing Across Large Marine Ecosystems
+AFS 2011 Seattle; What Influences Fisheries Production? Comparing the Effects of Environmental, Fishing, and Food Web Forcing Across Large Marine Ecosystems. Organizers: Sarah Gaichas, William Stockhausen, Thomas J. Miller, Jason S. Link, Tim Essington, R. Ian Perry and Alida Bundy
 
-Comparative Analysis of Marine Ecosystem Organization (CAMEO) Stock Production Modeling Workshop II in Woods Hole, 2011. 
+AFS 2011 Seattle; Ecosystem Modeling: Joint Modeling of Human Behavior and Fish Populations; Ecosystem Models to Address Fishery Management Needs. Organizers: Eli Fenichel, Joshua Abbott, Thomas F. Ihde, Sarah K. Gaichas, Isaac C. Kaplan, Derek M. Orner, Yvonne L. deReynier and Howard M. Townsend
+
+Comparative Analysis of Marine Ecosystem Organization (CAMEO) Stock Production Modeling Workshop II Woods Hole, 2011. 
 
 Society for Conservation Biology's International Marine Conservation Conference (IMCC) 2009 Victoria, BC;	Bridging the gap between fisheries and marine conservation to advance ecosystem-based management 
 
