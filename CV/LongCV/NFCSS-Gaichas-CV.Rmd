@@ -129,45 +129,56 @@ RefManageR::PrintBibliography(bib)
 
 Staudinger, M., Lynch, A.,  Gaichas, S., Fox, M., Gibson-Reinemer, D., Langan, J., Teffer, A., Thackeray, S., and Winfield, I.  Accepted April 2021. How does climate change affect emergent properties of aquatic ecosystems? Fisheries.
 
-Kaplan, I.C., S.K. Gaichas, C.C. Stawitz, P.D. Lynch, K.N. Marshall, J.J. Deroba, M. Masi, J.K.T. Brodziak, K.Y. Aydin, K. Holsman, H. Townsend, D. Tommasi, J.A. Smith, S. Koenigstein, M. Weijerman and J. Link. Management Strategy Evaluation: Allowing the Light on the Hill to Illuminate More than One Species. Original Research, Front. Mar. Sci. - Marine Fisheries, Aquaculture and Living Resources. 
+Kaplan, I.C., S.K. Gaichas, C.C. Stawitz, P.D. Lynch, K.N. Marshall, J.J. Deroba, M. Masi, J.K.T. Brodziak, K.Y. Aydin, K. Holsman, H. Townsend, D. Tommasi, J.A. Smith, S. Koenigstein, M. Weijerman and J. Link. Accepted May 2021. Management Strategy Evaluation: Allowing the Light on the Hill to Illuminate More than One Species. Original Research, Front. Mar. Sci. - Marine Fisheries, Aquaculture and Living Resources. 
 
-## Other papers (non peer-reviewed journals, book chapters, symposium volumes)
+## Other papers (book chapters)
 
 Gaichas, S.K., C. Reiss, and M. Koen-Alonso. 2014. Ecosystem Based Management in high latitude ecosystems. Chapter 10, p. 277-324 in The Sea, Volume 16: Marine Ecosystem Based Management. Harvard U. Press.
 
-## Books
-
 ## Reports
 
-Northeast Fisheries Science Center State of the Ecosystem Reports; lead editor for Mid-Atlantic 2017-2021, lead editor for New England 2017-2020, supporting editor for New England 2021. 
+*Northeast Fisheries Science Center State of the Ecosystem Reports; lead editor for Mid-Atlantic 2017-2021, lead editor for New England 2017-2020, supporting editor for New England 2021* 
 
-* 2021 State of the Ecosystem: Mid-Atlantic; https://apps-nefsc.fisheries.noaa.gov/rcb/publications/SOE-MAFMC-2021-508-Final.pdf
-* 2021 State of the Ecosystem: New England; https://apps-nefsc.fisheries.noaa.gov/rcb/publications/SOE-MAFMC-2021-508-Final.pdf
-* 2020 State of the Ecosystem: Mid-Atlantic; https://doi.org/10.25923/1f8j-d564
-* 2020 State of the Ecosystem: New England; https://doi.org/10.25923/4tdk-eg57
-* 2019 State of the Ecosystem: Mid-Atlantic; https://www.mafmc.org/s/Tab09_State-of-the-Ecosystem-Report_2019-04.pdf
-* 2019 State of the Ecosystem: New England; https://s3.amazonaws.com/nefmc.org/11_SOE-NEFMC-2019.pdf
-* 2018 State of the Ecosystem: Mid-Atlantic; https://www.mafmc.org/s/Tab04_State-of-the-Ecosystem-Apr2018.pdf
-* 2018 State of the Ecosystem: New England; https://s3.amazonaws.com/nefmc.org/2_Ecosystem-Status-Report.pdf
-* 2017 State of the Ecosystem: Mid-Atlantic; https://www.mafmc.org/s/Tab02_2017-04_State-of-the-Ecosystem-and-EAFM.pdf
-* 2017 State of the Ecosystem: New England; https://s3.amazonaws.com/nefmc.org/2_2016-State-of-the-Ecosystem-Report.pdf
+2021 State of the Ecosystem: 
+
+*  Mid-Atlantic https://apps-nefsc.fisheries.noaa.gov/rcb/publications/SOE-MAFMC-2021-508-Final.pdf
+*  New England https://apps-nefsc.fisheries.noaa.gov/rcb/publications/SOE-MAFMC-2021-508-Final.pdf  
+
+2020 State of the Ecosystem: 
+
+*  Mid-Atlantic https://doi.org/10.25923/1f8j-d564
+*  New England https://doi.org/10.25923/4tdk-eg57  
+
+2019 State of the Ecosystem:  
+
+*  Mid-Atlantic https://www.mafmc.org/s/Tab09_State-of-the-Ecosystem-Report_2019-04.pdf
+*  New England https://s3.amazonaws.com/nefmc.org/11_SOE-NEFMC-2019.pdf  
+
+2018 State of the Ecosystem:  
+
+*  Mid-Atlantic https://www.mafmc.org/s/Tab04_State-of-the-Ecosystem-Apr2018.pdf
+*  New England https://s3.amazonaws.com/nefmc.org/2_Ecosystem-Status-Report.pdf  
+
+2017 State of the Ecosystem:  
+
+*  Mid-Atlantic https://www.mafmc.org/s/Tab02_2017-04_State-of-the-Ecosystem-and-EAFM.pdf
+*  New England: https://s3.amazonaws.com/nefmc.org/2_2016-State-of-the-Ecosystem-Report.pdf  
+
+*Recent International Council for the Exploration of the Seas (ICES) Expert Group reports*
 
 ICES. 2021. Working Group on Multispecies Assessment Methods (WGSAM; outputs from 2020 meeting). ICES Scientific Reports. 3:10. 231 pp. https://doi.org/10.17895/ices.pub.7695
 
-ICES. 2021. Workshop of Fisheries Management Reference Points in a Changing Environment(WKRPChange, outputs from 2020 meeting). ICES Scientific Reports. 3:6. 39 pp.https://doi.org/10.17895/ices.pub.7660
+ICES. 2021. Workshop of Fisheries Management Reference Points in a Changing Environment (WKRPChange, outputs from 2020 meeting). ICES Scientific Reports. 3:6. 39 pp.https://doi.org/10.17895/ices.pub.7660
 
 ICES. 2019. Working Group on Multispecies Assessment Methods (WGSAM). ICES Scientific Reports.1:91. 320 pp. http://doi.org/10.17895/ices.pub.5758
 
 ICES. 2018. Report of the Working Group on Multispecies Assessment Methods (WGSAM), 15–19 October 2018, Paris, France. ICES CM 2018/HAPISG:20. 89 pp.
 
-ICES WGNARS
+*Selectied NOAA Technical Memoranda*
 
-1-2 other NEMoW reports
+Townsend, H., K. Aydin, K. Holsman, C. Harvey, I. Kaplan, E. Hazen, P. Woodworth-Jefcoats, M. Weijerman, T. Kellison, S. Gaichas, K. Osgood, J. Link (editors). 2017. Report of the 4th National Ecosystem Modeling Workshop (NEMoW 4): Using Ecosystem Models to Evaluate Inevitable Trade-offs. U.S. Dept. of Commerce, NOAA Tech. Memo. NMFS-F/SPO-173, 77 p.
 
 Link, J.S., D. Mason, T. Lederhouse, S. Gaichas, T. Hartley, J. Ianelli, R. Methot, C. Stock, C. Stow, and H. Townsend. 2015. Report from the Joint OAR-NMFS Modeling Uncertainty Workshop. U.S. Dept. of Commer., NOAA. NOAA Technical Memorandum NMFS-F/SPO-153, 31 p.
-
-Lucey, S. and S. Gaichas. 2015. Fish Communities. Section in Fogarty, M. (ed.), Ecosystem Status Report for the Northeast Large Marine Ecosystem http://www.nefsc.noaa.gov/ecosys/ecosystem-status-report/fish-communities.html 
-Northeast Fisheries Science Center 2015. Figures for Ecosystem Status Report (Executive Summary). http://www.nefsc.noaa.gov/ecosys/ecosystem-status-report/ 
 
 Link, J. S., T.F. Ihde, H. Townsend, K. Osgood, M. Schirripa, D. Kobayashi, S. Gaichas, J. Field, P. Levin, K. Aydin, G. Watters, and C. Harvey (editors). 2010. Report of the 2nd National Ecosystem Modeling Workshop (NEMoW II):  Bridging The Credibility Gap – Dealing With Uncertainty In Ecosystem Models. U.S. Dep. Commerce, NOAA Tech. Memo. NMFS-F/SPO-102, 72 p.
 
@@ -180,11 +191,11 @@ Gaichas, S.K., and J.C. Field, 2003. Comparative modeling approaches for exploit
 
 ## Others (Fishery Management Council Documents)
 
-2020-2021: Lead author, State of the Ecosystem Request tracking memo for the Mid-Atlantic and New England Fishery Management Councils
+April 2020-2021: Lead author, State of the Ecosystem Request tracking memo for the Mid-Atlantic and New England Fishery Management Councils. https://www.mafmc.org/s/Tab01_2020-SOE-Report_2020-04.pdf (2020; pp 33-49 of combined pdf), https://www.mafmc.org/s/Tab06_SOE-Mid-Atlantic-Risk-Assessment__2021-04.pdf (2021; pp 44-60 of combined pdf)
 
-2017-2021: Lead author, Mid-Atlantic Fishery Management Council Ecosystem Approach to Fisheries Management Risk assessments
+October 2017-2021: Lead author, Mid-Atlantic Fishery Management Council Ecosystem Approach to Fisheries Management Risk Assessments. https://www.mafmc.org/s/Tab08_EAFM-Risk-Assessment.pdf (2017),  https://www.mafmc.org/s/MAB_RiskAssess_08_18.pdf (2018), https://www.mafmc.org/s/Tab10_EAFM_Updates_2019-04.pdf (2019), https://www.mafmc.org/s/Tab01_2020-SOE-Report_2020-04.pdf (2020; pp 50-62 of combined pdf), https://www.mafmc.org/s/Tab06_SOE-Mid-Atlantic-Risk-Assessment__2021-04.pdf (2021; pp 61-81 of combined pdf)
 
-December 2019: Mid-Atlantic Fishery Management Council Ecosystem Approach to Fisheries Management Conceptual model
+December 2019: Mid-Atlantic Fishery Management Council Ecosystem Approach to Fisheries Management Conceptual models and visualizations. https://nefsc.github.io/READ-SSB-DePiper_Summer_Flounder_Conceptual_Models/sfconsmod_riskfactors_subplots.html https://nefsc.github.io/READ-SSB-DePiper_Summer_Flounder_Conceptual_Models/sfconsmod_final_2col.html
  
 April 2016: Contributor to Mid-Atlantic Fishery Management Council Ecosystem Approach to Fisheries Management Guidance Document (1st Draft). http://www.mafmc.org/s/Tab05_EAFM.pdf 
 
@@ -214,14 +225,19 @@ Speaker, moderator, and symposium organizer at regional to international profess
 
 ## Talks presented at professional meetings
 
-Selected first authored presentations, past 15 years
+*Selected presentations, past 15 years*
 
-Invited: 
-* 2021 American Fisheries Society (AFS) 
+Invited:
+
+* 2021 
+
+American Fisheries Society (AFS) Annual meeting, November 2021
     - connecting the dots climate informed management symposium
     - ecological forecasting symposium
     
-* 2020 National SSC invited keynote speaker, meeting postponed
+
+    
+* 2020 National SSC invited keynote speaker, meeting postponed to 2022
 
 * 2019
 SK Gaichas, GK DePiper, R Seagraves, B Muffley, S Lucey. There is no I in EAFM: adapting Integrated Ecosystem Assessment for Mid-Atlantic Fisheries Management. 2019 Coastal and Estuarine Research Foundation Biennial Conference. (Presented by Sean Lucey due to conflict with review panel)
@@ -231,7 +247,9 @@ Gaichas et al herring control rules ICES ASC •	ICES ASC, September 2018 “Are
 
 * 2017
 
-AFS Tampa MAFMC EAFM • AFS 2017 on Mid-Atlantic IEA risk assessment progress, coauthor on herring MSE presentation and co-organizer of symposium, coauthor on ICES presentations
+Sarah K. Gaichas, Richard Seagraves, Jessica Coakley, Geret DePiper, Vincent G. Guida, Jonathan Hare, Paul Rago and Michael Wilberg. The Mid-Atlantic Fishery Management Council’s Framework for Incorporating Species, Fleet, Habitat, and Climate Interactions into Fishery Management: Initial Risk Assessment. 2017 AFS Annual Meeting, Tampa FL. Coauthor on 5 other presentations at this meeting, and presented one for a coauthor.
+
+coauthor on ICES presentations
 
 IMBER IMBIZO stakeholders MSE lessons •	IMBER IMBIZO, October 2017 (“Getting on the same page, or at least in the same library: lessons in communication from a stakeholder-driven MSE for Northeast US Atlantic herring”)
 
@@ -242,7 +260,7 @@ REDUS kickoff?
 * 2015
 
 •	NSAW, August 2015 (“Combining stock, multispecies, and ecosystem level status determination criteria: a worked example”); coauthor on ICES ASC abstract for Sept 2015 that used this material. 
-•	AFS, August 2015 (“Multispecies stock assessment for Georges Bank: model development, performance testing, and multimodel inference”); coauthor on ICES ASC poster using this info. Coauthor on 2 other AFS abstracts.
+•	AFS, August 2015 (“Multispecies stock assessment for Georges Bank: model development, performance testing, and multimodel inference”); Sarah K. Gaichas, Michael Fogarty, Robert J. Gamble, Sean M. Lucey, Laurel Smith, Charles Perretti, Gavin Fay coauthor on ICES ASC poster using this info. Coauthor on 2 other AFS abstracts.
 
 AFS Portland
 
@@ -488,35 +506,33 @@ CB Forage Fish 2014
 
 ## Workshops organized/chaired; sessions organized/chaired at professional meetings
 
-ICES/PICES 2022 Small Pelagics symposium co-convener
+    In Progress
 
-WFC 2021 Climate and Ecosystem section of Horn of Plenty symposium co-convener
+ICES/PICES 2022 Small Pelagics Symposium Lisbon, Portugal; S6 Reconciling Ecological Roles and Harvest Goals: Development and Testing Management Strategies to Enhance Marine Ecosystem Services. https://meetings.pices.int/meetings/international/2022/pelagic/program#S6 Convenors: Sarah Gaichas, Cecilie Hansen, Isaac Kaplan, Richard Nash
 
-2019 National Ecosystem Modeling Workshop (NEMoW) steering committee member and workshop planner; unable to attend due to conflict
-with MAFMC EAFM Conceptual Model presentation in December
+World Fisheries Congress 2021 (Adelaide, Australia/Virtual); The land of plenty: Advances and future directions in population dynamics modeling to support fishery management. Six consecutive, non-overlapping sub-sessions are planned, including (conveners in parentheses): general stock assessment methodology and statistics (André Punt, James Thorson); spatial models (Daniel Goethel, Aaron Berger); ecosystem dynamics and climate change (Éva Plagányi, Caleb Gardner, Sarah Gaichas); data-limited methods (Kristen Omori, Jason Cope, Natalie Dowling); management strategy evaluation and biological reference points (Carryn de Moor, Richard McGarvey, Ann Preece); and a summary discussion (Mark Maunder, Patrick Lynch).
+
+    Past
+
+National Ecosystem Modeling Workshop (NEMoW) 2019 St Petersburg; Steering committee member and workshop planner
 – Developed NEFSC overview presentation (presented by Scott Large)
 – Developed atlantisom tool demonstration (presented by Christine Stawitz)
 
-AFS 2018 ecosystem emergent properties symposium co-convener Atlantic City
+American Fisheries Society annual meeting (AFS) 2018 Atlantic City; Emergent Properties of Aquatic and Marine Ecosystems Due to Climate Change: An Overview of the Current State of Knowledge. Organizers: Michelle D. Staudinger Abigail J. Lynch, Sarah K. Gaichas
 
-AFS 2017 MSE symposium co-convener Tampa
+AFS 2017 Tampa; Closing the Loop: Stakeholder Involvement in the Management Strategy Evaluation (MSE) Process—Advancing Management Strategy Evaluation. Organizers: Sean M. Lucey, Sarah K. Gaichas, John F. Walter III, Daniel Goethel, Aaron Berger, and Patrick Lynch 
 
-*	Symposium Co-organizer: “Multispecies models (including humans!)—where have we been and where do we need to go?” 2015 American Fisheries Society annual meeting. 
+AFS 2017 Tampa; Under Pressure: Defining Harvest Strategies that Account for Biological, Environmental or Anthropogenic Spatiotemporal Complexity—Advancing Management Strategy Evaluation. Organizers: Daniel Goethel, Aaron Berger, Patrick Lynch, Sarah K. Gaichas, John F. Walter III, and Sean M. Lucey 
 
-*	Symposium Co-organizer: “What Influences Fisheries Production? Comparing the Effects of Environmental, Fishing, and Food Web Forcing Across Large Marine Ecosystems” 2011 American Fisheries Society annual meeting. 
+AFS 2015 Portland, OR; Multispecies models (including humans!)—where have we been and where do we need to go? Organizers: Sarah K. Gaichas, Kirstin Holsman, Alan Haynie and Geret DePiper
 
-*	Co-organizer of the Comparative Analysis of Marine Ecosystem Organization (CAMEO) Stock Production Modeling Workshop II in Woods Hole, MA, May 2011. Presented results at the International Marine Conservation Congress in Victoria BC (May 15, 2011) at the Ecosystem Studies of Subarctic Seas Open Science Meeting (May 24, 2011), and at the World Fisheries Congress in Edinburgh, Scotland (May 2012). 
+AFS 2011 ; What Influences Fisheries Production? Comparing the Effects of Environmental, Fishing, and Food Web Forcing Across Large Marine Ecosystems
 
-*	Symposium Co-organizer: "Bridging the gap between fisheries and marine conservation to advance ecosystem-based management", Society for Conservation Biology's International Marine Conservation Conference (IMCC) 2009. 
+Comparative Analysis of Marine Ecosystem Organization (CAMEO) Stock Production Modeling Workshop II in Woods Hole, 2011. 
 
-*	Symposium Co-organizer: "Ecosystem modeling applications in fishery management" 2007 American Fisheries Society annual meeting.
+Society for Conservation Biology's International Marine Conservation Conference (IMCC) 2009 Victoria, BC;	Bridging the gap between fisheries and marine conservation to advance ecosystem-based management 
 
-
-leave out?
-* Participant in three CAMEO workshops in 2010: Role of predator-prey interactions in marine ecosystem organization in Corvallis, OR, March 2010; End to end modeling workshop in Woods Hole, MA, April 2010; and Stock production model fitting workshop in Woods Hole MA, May 2010. 
-
-*	Participant in the Marine Ecosystems of Norway and the U.S. (MENU) workshop in Bergen, Norway (2007). Compared energy budget models and trophic network attributes for five high-latitude marine ecosystems, presented results at 2007 ICES and PICES meetings, and collaborated on three publications. 
-
+AFS 2007 San Francisco; Ecosystem modeling applications in fishery management
 
 ## Teaching and mentoring
 
