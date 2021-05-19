@@ -225,7 +225,11 @@ Speaker, moderator, and symposium organizer at regional to international profess
 
 ## Talks presented at professional meetings
 
-*Selected presentations, past 15 years*
+*Upcoming invited presentations*
+
+Invited keynote speaker on best practices in multispecies modeling, Multispecies modeling applications workshop, June 2021. 
+
+Invited keynote speaker on ecosystem indicators contextualizing stock assessments, U.S. Fishery Management Council 7th Scientific Coordination Subcommittee (formerly National SSC), August 2020 (meeting postponed to 2022)
 
 Invited symposium speaker, American Fisheries Society (AFS) Annual meeting, November 2021. Submitted abstracts:
 
@@ -233,74 +237,37 @@ Invited symposium speaker, American Fisheries Society (AFS) Annual meeting, Nove
 
 *  Gaichas, S., V. Saba, S. Lucey. Integrated Ecosystem Assessment and Ecological Forecasting: Let’s Do This. (Ecological Forecasting: Bridging fish, ecosystems, weather, water, climate and communities symposium)
 
-Invited keynote speaker on best practices in multispecies modeling, Multispecies modeling applications workshop, June 2021. 
+*Selected presentations*
 
-Invited keynote speaker on ecosystem indicators contextualizing stock assessments, U.S. Fishery Management Council 7th Scientific Coordination Subcommittee (formerly National SSC), August 2020 (meeting postponed to 2022)
+Gaichas, S.K., G. DePiper, R. Seagraves, B. Muffley, S. Lucey. There is no I in EAFM: adapting Integrated Ecosystem Assessment for Mid-Atlantic Fisheries Management. 2019 Coastal and Estuarine Research Foundation Biennial Conference, Mobile AL. (Presented by Sean Lucey due to conflict with review panel)
 
-Gaichas, SK, GK DePiper, R Seagraves, B Muffley, S Lucey. There is no I in EAFM: adapting Integrated Ecosystem Assessment for Mid-Atlantic Fisheries Management. 2019 Coastal and Estuarine Research Foundation Biennial Conference. (Presented by Sean Lucey due to conflict with review panel)
+Gaichas, S.K., J. Deroba, M-Y. Lee. Are any herring harvest control rules good for both fisheries and predators? 2018 ICES Annual Science Conference, Hamburg, Germany. 
 
-Gaichas et al herring control rules ICES ASC •	ICES ASC, September 2018 “Are any herring harvest control rules good for both fisheries and predators?”
+Deroba J.J., Gaichas S.K. (speaker), Lee M‐Y., Feeney R.G., Boelke D., Irwin B. Getting on the same page, or at least in the same library: lessons in communication from a stakeholder-driven MSE for Northeast US Atlantic herring. 2017 IMBER IMBIZO, Woods Hole MA. 
 
-* 2017
+Gaichas, S.K., R. Seagraves, J. Coakley, G. DePiper, V.G. Guida, J. Hare, P. Rago and M. Wilberg. The Mid-Atlantic Fishery Management Council’s Framework for Incorporating Species, Fleet, Habitat, and Climate Interactions into Fishery Management: Initial Risk Assessment. 2017 AFS Annual Meeting, Tampa FL. 
 
-Sarah K. Gaichas, Richard Seagraves, Jessica Coakley, Geret DePiper, Vincent G. Guida, Jonathan Hare, Paul Rago and Michael Wilberg. The Mid-Atlantic Fishery Management Council’s Framework for Incorporating Species, Fleet, Habitat, and Climate Interactions into Fishery Management: Initial Risk Assessment. 2017 AFS Annual Meeting, Tampa FL. Coauthor on 5 other presentations at this meeting, and presented one for a coauthor.
+(Invited) Gaichas, S., M. Fogarty, G. DePiper, G. Fay, R. Gamble, S. Lucey, and L. Smith. Combining stock, multispecies, and ecosystem level status determination criteria: what tradeoffs can we expect? 2015 ICES symposium “Targets and limits for long term fisheries management”, Athens, Greece. 
 
-coauthor on ICES presentations
+Gaichas, S.K., M. Fogarty, R.J. Gamble, S.M. Lucey, L. Smith, C. Perretti, G. Fay. Multispecies stock assessment for Georges Bank: model development, performance testing, and multimodel inference. 2015 AFS Annual Meeting, Portland, OR. 
 
-•	Invited presenter, and participant in IMBER IMBIZO MSE workshop, 2-5 October 2017IMBER IMBIZO stakeholders MSE lessons •	IMBER IMBIZO, October 2017 (“Getting on the same page, or at least in the same library: lessons in communication from a stakeholder-driven MSE for Northeast US Atlantic herring”)
+(Invited) Gaichas, S., J. Link. Incorporating Climate into Ecosystem Based Fisheries Management. 2015	NOAA GFDL Application of Seasonal to Decadal Climate Predictions for Marine Resource Management Workshop, Princeton, NJ.
 
-
-* 2016
-REDUS kickoff?
-
-* 2015
-
-•	NSAW, August 2015 (“Combining stock, multispecies, and ecosystem level status determination criteria: a worked example”); coauthor on ICES ASC abstract for Sept 2015 that used this material. 
-•	AFS, August 2015 (“Multispecies stock assessment for Georges Bank: model development, performance testing, and multimodel inference”); Sarah K. Gaichas, Michael Fogarty, Robert J. Gamble, Sean M. Lucey, Laurel Smith, Charles Perretti, Gavin Fay coauthor on ICES ASC poster using this info. Coauthor on 2 other AFS abstracts.
-
-AFS Portland
-
-NSAW Portland
-NOS NOAA modeling uncertainty workshop
-
-•	ICES WGSAM, October 2014 (“Mixed fisheries in multispecies and ecosystem models” presented remotely)
-•	Chesapeake Bay Forage Workshop, Nov 2014 (“Ecosystem metrics for fisheries management: 
-examples and suggestions”)
-•	ICES WKRISCO, Nov2014 (“WGNARS: IEA progress, opportunities, and challenges”)
-•	NMFS-OAR Uncertainty Workshop, April 2015 (“Uncertainty in Ecosystem Models: Taxonomy and Treatment”)
-•	NOAA GFDL Application of Seasonal to Decadal Climate Predictions for Marine Resource Management Workshop, June 2014 (“Incorporating Climate into Ecosystem Based Fisheries Management”)
+S.Gaichas, J. Link, J. Hare, M. Fogarty, P. Pinto da Silva, G. DePiper, J. Cournane, J. Manderson, S. Lucey, M. Lowe, S. Large, and G. Fay. Towards operational assessments: selection, vetting, and standardized analysis of ecosystem indicators for the Northeast US Large Marine Ecosystem. 2014 ICES Annual Science Conference, A Coruña, Spain.
 
 
-* 2014
-ICES ASC
+•	2012 World Fisheries Congress, May (CAMEO Production modeling synthesis paper)
+•	2012 AIFRB Symposium, June (Alaska “beer belly” paper)
+•	2012 Ecologial Society of America Annual meeting, Portland OR August (Multispecies size structured spatial assessment model development)
 
-•	ICES Symposium Ecological Basis of Risk Analysis for Marine Ecosystems, June 2014 (Northeast US fish community climate risk assessment—presented by Wes Patrick)
-•	Ecological Forecasting Web-workshop, July 18 (Forecast use in multispecies assessments and ecosystem models, informal presentation with Rob Gamble and Tim Miller)
-•	AFS, Canada, August 2014 (coauthor on Sean Lucey's talk, not attending the meeting)
-•	ICES ASC, Spain, September 2014 (Ecosystem indicator analysis for risk assessment and IEA)
+(Invited) Gaichas, S. Uncertainty in ecosystem indicators: known knowns, known unknowns, and unknown unknowns. 2011 PICES FUTURE workshop on Ecosystem Indicators, Honolulu HI. 
 
-
-* 2013
-•	ICES Gadoid Symposium, October 2013 (talk prepared, canceled due to govt shutdown)
-•	ASLO Aquatic Sciences Meeting, New Orleans, LA, February 2013 (CAMEO Production modeling synthesis paper—presented by Tom Miller due to our travel restrictions) 
-•	Data Visualization Workshop, Portland ME, February 2013 (Visualizing complexity; invited)
-•	ICES WCSAM, Boston, MA, July 2013 (prepared abstract describing current multi-model, multispecies assessment project for Georges Bank, poster created and presented by Rob Gamble). 
-•	Informal: Co-presented modeling work at EcoAP Research Retreat, December 2012 and drafted modeling report section with Rob Gamble
+2011 AFS
 
 
-* 2012
-
-•	World Fisheries Congress, May (CAMEO Production modeling synthesis paper)
-•	AIFRB Symposium, June (Alaska “beer belly” paper)
-•	ESA meeting, August (Multispecies size structured spatial assessment model development)
-•	Supporting author on oral presentations at AFS (2 talks) and ICES (1 talk)
+Gaichas, S.,  What Drives Dynamics in the Gulf of Alaska? Integrating Hypotheses of Species, Fishing, and Climate Relationships Using Ecosystem Modeling. 2010 Lowell Wakefield Ecosystems Symposium, Anchorage AK.
 
 
-* 2011
-
--Presented three talks at the Lowell Wakefield Ecosystems Symposium in Anchorage, AK, November 8-11, 2010: "From the Aleutians to the Arctic: Integrating Ecosystem Approaches within the Alaska Fishery Management Process" (for Stephani Zador), "Assembly Rules for Aggregate-Species Production Models: Simulations In Support of Management Strategy Evaluation" (with Mike Fogarty et al.), and "What Drives Dynamics in the Gulf of Alaska? Integrating Hypotheses of Species, Fishing, and Climate Relationships Using Ecosystem Modeling"
-
-Invited keynote in PICES FUTURE workshop on Ecosystem Indicators, April 2011 in Honolulu, HI. 
 AFS
 
 * 2010
@@ -432,6 +399,20 @@ Invited
 * 2015
 
 •	Participated in American Meteorological Society Capitol Hill Policy Briefing on Applications of Seasonal Forecasting, September 2015: “Seasonal forecasting and ecosystem based fishery management.” 
+
+
+•	NMFS-OAR Uncertainty Workshop, April 2015 (“Uncertainty in Ecosystem Models: Taxonomy and Treatment”)
+
+* 2014
+
+•	ICES WGSAM, October 2014 (“Mixed fisheries in multispecies and ecosystem models” presented remotely)
+•	Chesapeake Bay Forage Workshop, Nov 2014 (“Ecosystem metrics for fisheries management: 
+examples and suggestions”)
+•	ICES WKRISCO, Nov2014 (“WGNARS: IEA progress, opportunities, and challenges”)
+
+
+•	Data Visualization Workshop, Portland ME, February 2013 (Visualizing complexity; invited)
+
 
 # Funded research
 
