@@ -23,6 +23,8 @@ library(vitae)
 ```{r}
 library(tibble)
 
+#rorcid::orcid_auth()
+
 orcid_data <- do.call("rbind",
     rorcid::orcid_educations("0000-0002-5788-3073")$`0000-0002-5788-3073`$`affiliation-group`$summaries
 )
@@ -49,8 +51,9 @@ orcid_data %>%
 
 **Adjunct professor**  *University of Massachusetts, Dartmouth* 
 
-One current UMassD PhD. student committee.   
-One current Ph.D. student committee at the College of William and Mary (Virginia Institute of Marine Science). 
+One current UMassD PhD student committee (April 2021 Exam)   
+One current College of William and Mary (Virginia Institute of Marine Science) PhD student committee  
+One current UNH PhD student committee
 
 2020  External examiner for a PhD student at University of Iceland  
 2019  (Exam) PhD student committee at the University of Massachusetts, Dartmouth   
@@ -64,7 +67,7 @@ One current Ph.D. student committee at the College of William and Mary (Virginia
 **Research Fishery Biologist**                   		*NOAA/NMFS Northeast Fisheries Sci. Center, Woods Hole, MA*
 
 	Ecosystem Assessment, MSE		September 2011 - present
-Contribute to integrated ecosystem assessments and management strategy evaluations (MSEs) for the Northeast U.S. continental shelf by analyzing research survey, fishery, oceanographic, and economic data, and by developing and testing multispecies assessment models and ecosystem indicators. Conduct research on ecosystem based management reference points balancing multiple objectives. Chair National and Northeast MSE working groups to build capacity and coordinate work plans. Provide results in peer-reviewed literature and to the New England and Mid-Atlantic Fishery Management Councils. 
+Contribute to integrated ecosystem assessments and management strategy evaluations (MSEs) for the Northeast U.S. continental shelf by analyzing research survey, fishery, oceanographic, and economic data, and by developing and testing multispecies assessment models and ecosystem indicators. Conduct research on ecosystem based management reference points balancing multiple objectives. Chair National and Northeast MSE working groups to build capacity and coordinate work plans. Lead editor, State of the Ecosystem reports. Provide results in peer-reviewed literature and to the New England and Mid-Atlantic Fishery Management Councils. 
 
 **Research Fishery Biologist**                   		*NOAA/NMFS Alaska Fisheries Science Center, Seattle, WA*
 
