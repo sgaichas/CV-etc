@@ -76,7 +76,7 @@ Conducted statistical analyses of fishery observer data, evaluated present and p
 * End-year performance bonuses each year, 2006-2020.
 * Individual cash award for State of the Ecosystem reporting, August 2020.
 * Individual cash award for Acting Branch Chief performance, July 2017.
-* ICES/MYFISH symposium Targets and Limits for Long Term Fisheries Management Most Inspiring Paper, October 2015. 
+* ICES/MYFISH symposium Targets and Limits for Long Term Fisheries Management Most Inspiring Paper award, October 2015. 
 * Department of Commerce “Cash-In-A-Flash” award, December 2011.
 * Department of Commerce Special Act Award: Alaska Fisheries Science Center Employee of the Year, 2010.
 * Department of Commerce Special Act Award for service on North Pacific Council Gulf of Alaska Plan Team and for ecosystem research contributions, July 2005.
@@ -237,7 +237,7 @@ Invited speaker for two American Fisheries Society (AFS) Annual meeting symposia
 
 *  Gaichas, S., V. Saba, S. Lucey. Integrated Ecosystem Assessment and Ecological Forecasting: Let’s Do This. (Ecological Forecasting: Bridging fish, ecosystems, weather, water, climate and communities symposium)
 
-*Selected presentations*
+*Selected presentations, past 15 years*
 
 Gaichas, S.K., G. DePiper, R. Seagraves, B. Muffley, S. Lucey. There is no I in EAFM: adapting Integrated Ecosystem Assessment for Mid-Atlantic Fisheries Management. 2019 Coastal and Estuarine Research Foundation Biennial Conference, Mobile AL. (Presented by Sean Lucey due to conflict with review panel)
 
@@ -255,30 +255,19 @@ Gaichas, S.K., M. Fogarty, R.J. Gamble, S.M. Lucey, L. Smith, C. Perretti, G. Fa
 
 Gaichas, S., J. Link, J. Hare, M. Fogarty, P. Pinto da Silva, G. DePiper, J. Cournane, J. Manderson, S. Lucey, M. Lowe, S. Large, and G. Fay. Towards operational assessments: selection, vetting, and standardized analysis of ecosystem indicators for the Northeast US Large Marine Ecosystem. 2014 ICES Annual Science Conference, A Coruña, Spain.
 
+Gaichas, S., J. Link, T. Miller, T. Essington, A. Bundy, J. Boldt, K. Drinkwater, and E. Moksness. What drives marine fisheries production? Emergent features from comparisons across 13 northern hemisphere ecosystems. 2012 World Fisheries Congress, Edinburgh, Scotland
 
-•	2012 World Fisheries Congress, May (CAMEO Production modeling synthesis paper)
-•	2012 AIFRB Symposium, June (Alaska “beer belly” paper)
-•	2012 Ecologial Society of America Annual meeting, Portland OR August (Multispecies size structured spatial assessment model development)
+Gaichas, S., K. Aydin, S. Zador, and I. Ortiz. Wasp waist or beer belly? Modeling food web structure and energetic control in Alaskan marine ecosystems, with implications for fishing and environmental forcing.	2012 AIFRB Symposium, New Bedford, MA
+
+Gaichas, SK, MJ Fogarty, L Col, G Fay, R Gamble, S Large, JS Link, S Lucey and TJ Miller. Developing a multispecies model for ecosystem based management on the Northeast U.S. continental shelf. 2012 Ecologial Society of America Annual meeting, Portland OR 
 
 (Invited) Gaichas, S. Uncertainty in ecosystem indicators: known knowns, known unknowns, and unknown unknowns. 2011 PICES FUTURE workshop on Ecosystem Indicators, Honolulu HI. 
 
-2011 AFS Seattle CAMEO? other stuff?
+Fogarty, M., S. Gaichas (presenter), H. Benoit, T. Essington, C. Fu, R. Gambple, M. Koen-Alonso, J. Link. Assembly Rules for Aggregate-Species Production Models: Simulations in Support of Management Strategy Evaluation. 2011 AFS Annual Meeting, Seattle, WA.
 
-Assembly Rules for Aggregate-Species Production Models: Simulations in Support of Management Strategy Evaluation, Michael Fogarty , Northeast Fisheries Science Center, National Marine Fisheries Service, Woods Hole, MA
-Sarah K. Gaichas (presenter) , Northeast Fisheries Science Center, National Marine Fisheries Service, Woods Hole, MA
-Hugues Benoit , Gulf Fisheries Centre, Fisheries and Oceans Canada, Moncton, NB, Canada
-Tim Essington , School of Aquatic and Fisheries Sciences, University of Washington, Seattle, WA
-Caihong Fu , Pacific Biological Station, Fisheries and Oceans Canada, Nanaimo, BC, Canada
-Robert J. Gamble , Northeast Fisheries Science Center, National Marine Fisheries Service, Woods Hole, MA
-Mariano Koen-Alonso , Fisheries and Oceans Canada, Northwest Atlantic Fisheries Centre, St. John’s, NF, Canada
-Jason S. Link ,
+Gaichas, S., K. Aydin, and R. Francis. What Drives Dynamics in the Gulf of Alaska? Integrating Hypotheses of Species, Fishing, and Climate Relationships Using Ecosystem Modeling. 2010 Lowell Wakefield Ecosystems Symposium, Anchorage AK.
 
-
-Gaichas, S.,  What Drives Dynamics in the Gulf of Alaska? Integrating Hypotheses of Species, Fishing, and Climate Relationships Using Ecosystem Modeling. 2010 Lowell Wakefield Ecosystems Symposium, Anchorage AK.
-
-
-2010 AFS - Presented “From the Aleutians to the Arctic: integrating ecosystem approaches within the Alaska fishery management process” at the AFS meeting in Pittsburgh, PA, 12-16 September within the Ecosystem Approach to Fishery Management symposium organized by Mike Fogarty et al. (NEFSC).
-- Presented (for K. Aydin) “The use of models in ecosystem assessment processes in Alaska (experiences from the Alaskan Fisheries Council Process” at the AFS meeting in Pittsburgh, PA, 12-16 September within the Ecosystem Approach to Fishery Management symposium organized by Mike Fogarty et al. (NEFSC).
+Gaichas, S. From the Aleutians to the Arctic: integrating ecosystem approaches within the Alaska fishery management process. 201 AFS Annual Meeting,n Pittsburgh, PA.
 
 - Presented “Complex systems models of trophic and fishing interactions with implications for research and management” at GLOBEC Open Science Meeting in Victoria BC, June 2009
 
