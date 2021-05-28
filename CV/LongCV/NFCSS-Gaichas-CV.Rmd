@@ -57,6 +57,9 @@ orcid_data %>%
 	Ecosystem Assessment, MSE		September 2011 - present
 Contribute to integrated ecosystem assessments and management strategy evaluations (MSEs) for the Northeast U.S. continental shelf by analyzing research survey, fishery, oceanographic, and economic data, and by developing and testing multispecies assessment models and ecosystem indicators. Conduct research on ecosystem based management reference points balancing multiple objectives. Chair National and Northeast MSE working groups to build capacity and coordinate work plans. Lead editor, State of the Ecosystem reports. Provide results in peer-reviewed literature and to the New England and Mid-Atlantic Fishery Management Councils. 
 
+	Acting Branch Chief		January-April 2017  
+Managed Ecosystem Dynamics and Assessment Branch (EDAB) administrative duties during temporary rotation (simultaneous with regular duties). Led program meetings, responded to leadership requests, conducted employee mid-term reviews, coordinated with other Branch Chiefs within the Division, temporarily acted as Division Chief. Completed 2021 Labor planning for EDAB (developed plans with branch, participant in cross-center working group) and developed budget (SPERS) plans for EDAB.
+
 **Research Fishery Biologist**                   		*NOAA/NMFS Alaska Fisheries Science Center, Seattle, WA*
 
 	Ecosystem Modeling			June 2006 – September 2011
@@ -66,7 +69,6 @@ Established an ecosystem context for fishery management through analysis of food
 Assessed the condition of commercially exploited fish stocks through analysis of fishery and research survey data combined with population dynamics modeling. Evaluated the effects of fishing on non-target species and the marine ecosystem.  Conducted Ph.D. research. Attended 2001 Complex Systems Summer School, Santa Fe Institute, Santa Fe NM. Participated in research surveys at sea.
 
 Stock assessments:  1999 Gulf of Alaska (GOA) and 2000 – 2004 Bering Sea Aleutian Islands (BSAI) “Other species” (all species of skates, sharks, sculpins, octopi, and squids), 2000-2005 BSAI squids, 2005 BSAI skates, 2003-2005 GOA skates, 2000-2005 GOA Thornyheads, and 2006 GOA squids.  
-
 
 	Observer Program			March 1997 – October 1999
 Conducted statistical analyses of fishery observer data, evaluated present and proposed data collection methods through directed research, and examined uses of observer data in multiple applications. 
@@ -237,7 +239,7 @@ Invited speaker for two American Fisheries Society (AFS) Annual meeting symposia
 
 *  Gaichas, S., V. Saba, S. Lucey. Integrated Ecosystem Assessment and Ecological Forecasting: Let’s Do This. (Ecological Forecasting: Bridging fish, ecosystems, weather, water, climate and communities symposium)
 
-*Selected presentations, past 15 years*
+*Selected presentations (post PhD)*
 
 Gaichas, S.K., G. DePiper, R. Seagraves, B. Muffley, S. Lucey. There is no I in EAFM: adapting Integrated Ecosystem Assessment for Mid-Atlantic Fisheries Management. 2019 Coastal and Estuarine Research Foundation Biennial Conference, Mobile AL. (Presented by Sean Lucey due to conflict with review panel)
 
@@ -267,25 +269,21 @@ Fogarty, M., S. Gaichas (presenter), H. Benoit, T. Essington, C. Fu, R. Gambple,
 
 Gaichas, S., K. Aydin, and R. Francis. What Drives Dynamics in the Gulf of Alaska? Integrating Hypotheses of Species, Fishing, and Climate Relationships Using Ecosystem Modeling. 2010 Lowell Wakefield Ecosystems Symposium, Anchorage AK.
 
-Gaichas, S. From the Aleutians to the Arctic: integrating ecosystem approaches within the Alaska fishery management process. 201 AFS Annual Meeting,n Pittsburgh, PA.
+Gaichas, S. From the Aleutians to the Arctic: integrating ecosystem approaches within the Alaska fishery management process. 2010 AFS Annual Meeting,n Pittsburgh, PA.
 
-- Presented “Complex systems models of trophic and fishing interactions with implications for research and management” at GLOBEC Open Science Meeting in Victoria BC, June 2009
+Gaichas, S. COAUTHORS Complex systems models of trophic and fishing interactions with implications for research and management. 2009 GLOBEC Open Science Meeting, Victoria BC
 
-- PICES Annual meeting, Victoria, B.C., October 30, 2007; presented my own paper on ecosystem level thresholds as well as Ivonne Ortiz's paper on Aleutian Islands spatial food web modeling. - UW Career Week panelist for marine science careers January 29, 2008
+Gaichas, S. COAUTHORS, TITLE presented on ecosystem level thresholds 2007 PICES Annual meeting, Victoria, B.C. 
 
-- Advances in Marine Ecosystem Modelling Research (AMEMR) symposium in Plymouth, UK June 22-26, 2008; presented "Identifying critical interactions and thresholds in eastern north Pacific ecosystems through model simulations".
+Gaichas, S. COAUTHORS, Identifying critical interactions and thresholds in eastern north Pacific ecosystems through model simulations. 2008 Advances in Marine Ecosystem Modelling Research (AMEMR) symposium, Plymouth, UK 
 
-*	Invited participant in Society for Conservation Biology symposium on ecosystem consequences of fishing in Port Elizabeth, South Africa (2007) and coauthor on a related review publication.
+(Invited) Gaichas, S. COAUTHORS, TITLE 2007 Society for Conservation Biology Port Elizabeth, South Africa 
 
--PICES meeting Yokohama Japan October 13-19, 2006. Presented ecosystem network comparison methods for EBS, GOA, and California Current during CFAME workshop.
--Society for Conservation Biology meeting invited symposium speaker July 1-5, 2007 in South Africa. 
--AFS: presented a talk and a poster (for Grant Thompson) in the symposium “Ecosystem modeling applications in fishery management” for September 2-6, 2007 meeting in San Francisco 
+Gaichas, S. COAUTHORS, TITLE in the symposium “Ecosystem modeling applications in fishery management” for September 2-6, 2007 AFS Annual Meeting, San Francisco CA 
 
+Gaichas, S. COAUTHORS, TITLE Presented ecosystem network comparison methods for EBS, GOA, and California Current during CFAME workshop. 2006 PICES Annual meeting, Yokohama Japan 
 
-
-
-
-## Posters presented at professional meetings
+## Posters presented at professional meetings (recent)
 
 Gaichas, S., G. DePiper, R. Seagraves, L. Colburn, A. Loftus, M. Sabo, B. Muffley. Which MSE should you do first? Prioritizing MSE investments using risk assessment under an Ecosystem Approach to Fishery Management. National SSC meeting in San Diego, January 2018 
 
@@ -294,8 +292,6 @@ Deroba, J., S. Gaichas, Lee M‐Y., Feeney R.G., Boelke D., Irwin B.“Getting o
 ## Other seminars/presentations
 
 Summary: Regular presentations to managers and stakeholders at Fishery Management Council meetings and management strategy evaluation stakeholder workshops. Presenter for the Marine Resource Education Program and at the Maine Fishermen's Forum. Presenter in multiple agency and academic seminar series including OneNOAA, Alaska and Northeast Fishery Science Center, University of Washington, University of Massachusetts, Rutgers University. Invited speaker for public lecture series, teacher workshops, and university courses and departmental seminars. 
-
-
 
 Invited
 * Keynote on multispecies modeling best practices for Multispecies Modeling Applications Workshop, June 2021
@@ -394,6 +390,9 @@ examples and suggestions”)
 - Presented analysis of comparisons of single species and ecosystem model results across NMFS Science Centers at NEMoW II meeting in Annapolis, August 2009
 - Presented work completed to date for ecosystem comparisons for the GLOBEC Pan-Regional Synthesis PI meeting in Seattle, September 2009 
 
+- UW Career Week panelist for marine science careers January 29, 2008
+
+
 FY08:
 - Invited expert at Asia-Pacific Economic Cooperation (APEC) workshop on developing a network on deep sea resources and fisheries, October 3-5 2007 in Lima, Peru; presented talk on Alaskan fisheries and deep-sea resources including slope surveys in all three ecosystems.
 - Presented results of ecosystem threshold modeling at UW mini-workshop October 24, 2007
@@ -413,15 +412,24 @@ FY07:
 
 # Funded research
 
-Internal grants (multispecies modeling, MSE support, fish energy content indicator, squid fishery indicators, Atlantis)
-International fellowship 2019
-COCA
-•	COCA proposal with GMRI/SMAST on MSE for groundfish under climate change funded, August 2017
-o	Postdoc hiring committee member: reviewed resumes, participated in interviews, selected candidates
-o	Facilitating collaboration between COCA postdocs and NEFSC scientists (meeting April 2018), snared Min-Yang Lee (SSB) and Anna Birkenbach (U. Delaware) so far.
+PI and Co-PI on multiple Northeast Fisheries Science Center internal R&D proposals:
+* Evaluating environmental indicators of energy density of forage species in the Northeast U.S. (2020, 2021)
+* Building operational multispecies assessments: comparing performance of length- and age-based multi-species modeling approaches (2020)
+* Development of oceanographic indicators for Northern shortfin squid (2020)
+* Climate-driven Atlantis ecosystem model hindcasts and projections for the U.S. Northeast Shelf: Implications of future management strategies under climate change (2019)
 
+Co-PI on multiple Northeast Fisheries Science Center internal Groundfish/Climate proposals:
+* Evaluating annual variation and environmental regulation of fecundity in winter and yellowtail flounder with implications for stock reference points (2021)
+* Incorporating multivariate physical and biological data as covariates in state-space age-structured stock assessments (2020)
 
-* Co-PI on modeling portion of the North Pacific Research Board’s GOA Integrated Ecosystem Research Plan.
+PI and Co-PI on NMFS SF MSA proposals
+* MAFMC MSE support (2020, 2021)
+
+* Co-PI on NMFS SF International fellowship (2019): 
+
+*	Co-PI on COCA proposal with GMRI/SMAST on MSE for groundfish under climate change (2017-present), developing MSE framework and testing a range of standard and climate-informed harvest control rules for multiple groundfish species. Postdoc hiring committee member: reviewed resumes, participated in interviews, selected candidates. Facilitated collaboration between COCA postdocs and NEFSC scientists, adding economists.
+* Co-PI on NMFS Stock Assessment Methods R&D proposal: A comparison of length- and age-based multi- and single-species modeling approaches (2016)
+* Co-PI on modeling portion of the North Pacific Research Board’s GOA Integrated Ecosystem Research Plan (2010-2011).
 *	Investigator with 22 others on the interdisciplinary "Collaborative Research: GLOBEC Pan-Regional Synthesis: End-to-end Energy Budgets in US-GLOBEC Regions" project comparing four marine ecosystems in the Southern Ocean, in the Pacific off Alaska and the U.S. West Coast, and in the Atlantic off the U.S East Coast (2008-2011).
 
 # Professional Affiliations/Activities/Service
@@ -456,22 +464,22 @@ Invited review panelist:
 
 *  Woods Hole Oceanographic Institution CINAR Fellows review panel, December 2012
 
-*  Invited external reviewer for the Canada Maritimes Region Ecosystem Research Initiative (March 2012)
+*  External reviewer for the Canada Maritimes Region Ecosystem Research Initiative, March 2012
 
 
 ## Advisory services
 
     Active
     
-* Mid-Atlantic Fishery Management Council Scientific and Statistical Committee, (2014-present); determining Allowable Biological Catch (ABC) advice for fishery management and other scientific support. 
-* Mid-Atlantic Fishery Management Council Ecosystem Approach to Fisheries Management work group (2013-present); scientific support for ongoing EAFM efforts.
-* ICES Working Group on North Atlantic Regional Seas (WGNARS), 2012-present, co-chair 2013-2016: developing ecosystem indicators and integrated ecosystem assessments for Canadian and U.S. waters. Co-chaired working group meetings in January 2013, February 2014 (also local host), and February 2015:
+* Mid-Atlantic Fishery Management Council Scientific and Statistical Committee (SSC), (2014-present): determining Allowable Biological Catch (ABC) advice for fishery management and other scientific support. Lead for blueline tilefish and ecosystems. Member of OFL-CV working group (2017-2019), economics working group (2020-2021), and newly-formed ecosystem working group (2021-).
+* Mid-Atlantic Fishery Management Council Ecosystem Approach to Fisheries Management (EAFM) work group (2013-present): scientific support for ongoing EAFM efforts. Presented in Council EAFM development workshops (2013-2015), supported development of EAFM policy guidance (2016), EAFM risk assessment (2017-2018), EAFM conceptual model (2019), and ongping EAFM Management Strategy Evaluation (MSE; 2020-).
+* ICES Working Group on North Atlantic Regional Seas (WGNARS), (2012-present, co-chair 2013-2016): developing ecosystem indicators and integrated ecosystem assessments for Canadian and U.S. waters. Co-chaired working group meetings in January 2013, February 2014 (also local host), and February 2015:
     - Developed agendas, 3 year Terms of Reference for 2014-2016, co-authored and submitted reports 
     - Organized working sessions 
           - 2013: ecosystem indicator thresholds/performance testing and ecological risk assessment, led section on risk assessment
           - 2014: reviewing, selecting and operationalizing management objectives and large scale ecosystem drivers
           - 2015: conceptual model development for Gulf of Maine/Georges Bank connecting large scale ecosystem and social drivers, focal ecosystem components, human activities, and human social system components as well as selected management objectives drawn from US law and published work 
-* ICES Working Group on Multispecies Assessment Methods (WGSAM), 2013-present, co-chair 2017-present: reviewing and contributing to multispecies and ecosystem modeling progress across ICES regions. Co-chaired working group meetings in October 2017, October 2018, October 2019, October 2020:
+* ICES Working Group on Multispecies Assessment Methods (WGSAM), (2013-present, co-chair 2017-present): reviewing and contributing to multispecies and ecosystem modeling progress across ICES regions. Co-chaired working group meetings in October 2017, October 2018, October 2019, October 2020:
     - Developed agendas, 3 year Terms of Reference for 2019-2021, co-authored and submitted reports 
     - Developed review criteria and organized working sessions on multispecies model key-run reviews
     - Currently leading intersessional work on multispecies model skill assessment
@@ -479,14 +487,14 @@ Invited review panelist:
 
     Completed
     
-All the Council stuff
+* ICES Workshop on Reference Point Change (WKRPchange; 2020)  
+* Atlantic herring benchmark stock assesment working group (2018)
+* Herring MSE steering committee member, New England Fishery Managment Council (2016). 
+* Ecosystem Based Fishery Management Plan Development Team member, New England Fishery Management Council (2012-2016)
 
-* Atlantic herring benchmark stock assesment working group 2018
-* Member of the Ecosystem Based Fishery Management Plan Development Team for the New England Fishery Management Council (2012-2016), and Herring MSE steering committee (2016). 
-
-Invited speaker/participant, Multispecies Fisheries Management Workshop, Fujian, China 2018
-•	National Climate Assessment (NCA4) Ecosystem Chapter contributor—climate effects on trophic interactions
-•	National Integrating Climate Effects into Fisheries Management (ICE-FM) working group member
+* Invited speaker/participant, Multispecies Fisheries Management Workshop, Fujian, China 2018
+*	National Climate Assessment (NCA4; 2016-2018) Ecosystem Chapter author contributing to climate effects on trophic interactions and emergent properties
+*	National Integrating Climate Effects into Fisheries Management (ICE-FM) working group member
 ICES WKs
 WKRPchange 2020
 
@@ -495,15 +503,12 @@ WKRISCO 2014
 
 * Advisory partner in the European Commission's MYFISH project (2012-2015), which defined alternative approaches to Maximum Sustainable Yield including ecological, social, and economic dimensions.
 
-•	NEFSC Stock Assessment Program Review steering committee member. Participated in planning meetings in Dec 2013, Jan, Feb, March, April (including Directorate briefing) and full review meeting 19-23 May 2014. Developed background materials and presentation with Mike Fogarty and Jon Hare for TOR 6 on how well NEFSC integrates ecosystem and climate considerations into stock assessments. Contribute to follow up and Center response June-August. 
-•	Participant in National Stock Assessment Improvement Plan (SAIP) writing team for NEFSC; contributing to chapters on incorporating ecosystem effects into stock assessments and future of stock assessment (including IEAs, multimodel inference, etc.). Participated remotely in writing team meeting 21-23 January 2014. Developed outline for the "Why include ecosystem interactions" chapter with Michael Schirripa. Submitted first draft chapter August 2014. Met with SAIP leads and authors at ICES ASC to clarify further edits. 
-
-CB Forage Fish 2014
-
+*	NEFSC Stock Assessment Program Review steering committee member (2013-2014). Participated in planning meetings (including Directorate briefing) and full review meeting 19-23 May 2014. Developed background materials and presentation on how well NEFSC integrates ecosystem and climate considerations into stock assessments. Contributed to follow up and Center response. 
+*	National Stock Assessment Improvement Plan (SAIP) writing team member for NEFSC (2013-2014). Contributed to chapters on incorporating ecosystem effects into stock assessments and future of stock assessment (including IEAs, multimodel inference, etc.).  
+* CB Forage Fish 2014
 * Member of the Aleutian Islands Fishery Ecosystem Plan Team (2007-2011) and the Gulf of Alaska Fishery Management Plan Team (2000-2011) for North Pacific Fishery Management Council. Co-authored the Aleutian Islands Fishery Ecosystem Plan (2007) and regularly co-authored the Stock Assessment and Fishery Evaluation introduction and summary for the Gulf of Alaska. Authored Ecosystem Description and contributed analyses for management alternatives for the Arctic Fishery Management Plan (2009).
 * Co-organizer of the Bering Sea Ecosystem Synthesis Team (2010), a multi-disciplinary group charged with identifying important ecosystem indicators for fishery management and writing an eastern Bering Sea ecosystem assessment for the North Pacific Fishery Management Council. 
 *	Invited participant in Asia-Pacific Economic Cooperation International workshop on developing a network for deep sea research in Lima, Peru (2007). Presented information on North Pacific ecosystems, fisheries, and management, and helped develop a preliminary framework for an information-sharing network. 
-
 
 ## Workshops organized/chaired; sessions organized/chaired at professional meetings
 
@@ -592,7 +597,7 @@ Regional IEA Working Group
 
 # Other relevant information
 
-March 2020 - present: considerable time was needed for dependent care (elementary age kids and elder care). I often used the excused absence for dependent care.
+March 2020 - present: considerable time was needed for dependent care (elementary age kids and elder care), reducing available work hours. Regularly used the excused absence for dependent care.
 
 # References
 
