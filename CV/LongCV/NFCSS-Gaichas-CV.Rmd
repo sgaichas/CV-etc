@@ -291,7 +291,7 @@ Deroba, J., S. Gaichas, Lee M‐Y., Feeney R.G., Boelke D., Irwin B.“Getting o
 
 Summary: Regular presentations to managers and stakeholders at Fishery Management Council meetings and management strategy evaluation stakeholder workshops. Presenter for the Marine Resource Education Program and at the Maine Fishermen's Forum. Presenter in multiple agency and academic seminar series including OneNOAA, Alaska and Northeast Fishery Science Centers, University of Washington, University of Massachusetts, Rutgers University, and others. Invited speaker for public lecture series, teacher workshops, outreach events, and university courses. Links to representative presentations for the past 3 years are listed, as well as titles of selected older presentations.
 
-*2021*
+**2021**
 
 May: (Invited) "Integrated Ecosystem Assessment (IEA) and State of the Ecosystem Reporting", for the Mid-Atlantic Council on the Ocean Ocean Forum; https://noaa-edab.github.io/presentations/20210506_MACO_IEASOE_Gaichas.html
 
@@ -307,7 +307,7 @@ February: (Invited) "Developing and using ecosystem information in fishery manag
 
 January: (Invited) "Mid-Atlantic State of the Ecosystem Report", for Chesapeake Bay Program Goal Implementation Team Meeting; https://noaa-edab.github.io/presentations/20210114_ChesapeakeFishGIT_Gaichas.html 
 
-*2020*
+**2020**
 
 November: "Integrating Climate into SOE and Model Skill Assessment", for Northeast Fisheries-Climate PI workshop;  https://docs.google.com/presentation/d/184Af-afIIv-aGSRT6-Ed9SRmqf5n8YOO/edit#slide=id.p1 
 
@@ -345,7 +345,7 @@ February: MREP EBFM section February 2020
 
 January: (Invited) NOAA EBM/EBFM webinar series
 
-*2019*
+**2019**
 
 December: READ meeting
 
@@ -359,11 +359,11 @@ October: NEFSC seminar
 
 September: conceptual models MAFMC EOP
 
-August: MSE briefing for NOAA leadership
+August: "Management Strategy Evaluation, National Progress and Needs", briefing for NOAA leadership (online)
 
-July: (Invited) Shoals Marine Lab guest lecture
+July: (Invited) Shoals Marine Lab Integrated Ecosystem Assessment course guest lecture and lab
 
-July: (Invited) Shoals Marine Rock Talk
+July: (Invited) Shoals Marine Lab Rock Talk seminar series
 
 May: (Invited) IMR dept seminar
 
@@ -380,7 +380,9 @@ April: EAFM Risk Assessment: Mid-Atlantic 2019 Update, for the MAFMC
 March: SOE for the MAFMC SSC
 
 
-*2018* 
+**2018** 
+
+October: "The Dream and the Reality: challenges with modeling marine mammals for the New England Fishery Management Council's herring MSE", for Workshop on MSE applioed to Marine Mammal Conservation and Management, Providence, RI
 
 October: WGSAM
 
@@ -390,122 +392,121 @@ September: MAFMC EOP
 
 July: WPI REU
 
-May:	Invited presenter, workshop co-organized by European pelagics industry and MAFMC, May 2018. Many US fishing industry participants attended. Presented “Implications of Ecosystem Approaches to Fisheries Management  (EAFM) for Pelagic Fisheries”
+May: (Invited) presenter, “Implications of Ecosystem Approaches to Fisheries Management (EAFM) for Pelagic Fisheries”, for workshop co-organized by European pelagics fishing industry and MAFMC, Gloucester, MA.
 
-April:	International TAC workshop in Xiamen China, April 2018:“Can we integrate ecosystem and multispecies interactions into TACs and other fishery management?”
+April: (Invited) “Can we integrate ecosystem and multispecies interactions into TACs and other fishery management?”, for International TAC workshop in Xiamen China
 
 April: SOE for the MAFMC
 
-March: ICES WGNARS,  2018 (“US Risk Assessment and Ecosystem Reporting Update”)
+March: “US Risk Assessment and Ecosystem Reporting Update” for ICES WGNARS
 
 March: SOE for the MAFMC SSC
 
-February: 	Organizing committee member, invited speaker and participant in Marine Resources Education Program 200 course on EBFM, presented “Analytical approaches for Ecosystem Based Fishery Management: 
-Models and Indicators” Feb 2018 (Invited to West Coast MREP but unable to attend)
+February: (Invited) “Analytical approaches for Ecosystem Based Fishery Management: 
+Models and Indicators”, for Marine Resources Education Program (MREP) 200 course on EBFM; also organizing committee member. (Invited to parallel West Coast MREP but unable to attend)
 
-*  2017
+**2017**
 
-December: QUEST webinar, December 2017 (“The Dream and the Reality: Meeting decision-making times frames while incorporating ecosystem and economic models into management strategy evaluation”)
+December: “The Dream and the Reality: Meeting decision-making times frames while incorporating ecosystem and economic models into management strategy evaluation”, QUEST webinar
 
 November:	NSF Wind Energy Workshop in New Bedford, MA, November 2017 (“IEAs”)
 
-October:	ICES WGSAM, in San Sebastian, Spain (“Update on US modeling activities”, “Indicator based risk assessment”, “Herring MSE update”, “Linking mass balance models” for Sean Lucey, “GB multispecies management procedure” for Mike Fogarty, “Model structural comparisons” for Robert Wildermuth, “ICES update” for Amanda Hart, “Mulitple models for sardine” for Isaac Kaplan, “ACLIM project” for Kirstin Holsman)
+October:	“Update on US modeling activities”, “Indicator based risk assessment”, “Herring MSE update” and 6 presentations for other US scientists at ICES WGSAM in San Sebastian, Spain 
+
+October: "Mid-Atlantic Fishery Management Council EAFM Based Risk Assessment", for MAFMC in Riverhead, NY
+
+September: "Mid-Atlantic EAFM Risk Assessment: Review context, prior work, Expand to new elements", for MAFMC Ecosystem and Ocean Planning Committee (EOP)
 
 June: MAFMC EOP in Baltimore, MD
 
-May: Norway-US bilateral in Woods Hole, MA
+May: "State of the Ecosystem Report: Northeast US Shelf" and "Northeast Climate Vulnerability Assessment and Regional Action Plan", for US-Norway bilateral in Woods Hole, MA
 
-April: (Invited) for Fisheries Forum in Monterey, CA
+April: (Invited) "State of the Ecosystem Report: Mid-Atlantic", for Fisheries Leadership and Sustainability Forum in Monterey, CA
 
-April: SOE for the MAFMC in Avalon, NJ
+April: "State of the Ecosystem Report: Mid-Atlantic", for the MAFMC in Avalon, NJ
 
 March: MAFMC Habitat meeting in Sandy Hook, NJ
 
-March: SOE for the MAFMC SSC (online)
+March: "State of the Ecosystem Report: Mid-Atlantic" for the MAFMC SSC (online)
 
-March: for NEFMC Herring MSE peer review in Boston, MA
+March: "Predator models" for NEFMC Herring MSE peer review in Boston, MA
 
-March: ICES WGNARS, in Halifax, NS (“US IEA Update”)
+March: “US IEA Update” for ICES WGNARS in Halifax, NS
 
-February: NEMOW in St Petersburg, FL
+February: "Northeast Fisheries Science Center Ecosystem Modeling: Applications Investigating Tradeoffs" and "Management Strategy Evaluation (MSE)" for National Ecosystem Modeling Workshop in St Petersburg, FL.
 
-January: NEFMC Herring AP and Ctte?
+**2016**
 
-*  2016
+December: "Predator models" abd "Predator metrics and results" for Herring MSE stakeholder workshop in Portsmouth, NH
 
-December: Herring MSE stakeholder workshop
+October:	“Update on US MSE activities and Atlantis Poseidon Adventure project”, Mid-Atlantic Ecosystem Approach to Fisheries Management”, and two presentations for other US scientists. ICES WGSAM in Reykjavik, Iceland
 
+June: (Invited) "Management Strategy Evaluation in the US", kickoff meeting for the Norwegian Research Council project Reducing Uncertainty in Stock Assessment (REDUS), Bergen, Norway
 
+June: "Management Strategy Evaluation (MSE)" for NEFSC Ecosystem and Climate Science Program Review, Woods Hole, MA
 
-•	ICES WGSAM, October 2016 (“Update on US MSE activities and Atlantis Poseidon Adventure project”, “The state of ecosystem indicator reference points for fishery management” for Jamie Tam, “Tradeoffs between commercial fishing fleets, marine mammals and finfish biomass” for Laurel Smith, and “Mid-Atlantic Ecosystem Approach to Fisheries Management”)
+May: "What do we know about Atlantic herring's role as forage?", for NEFMC herring MSE stakeholder workshop in Portland, ME
 
-June: REDUS?
+**Selected presentations, 2015-2007**
 
-•	Council presentations on herring MSE and EAFM reported under elements 3 and 4
+September 2015: (Invited) “Seasonal forecasting and ecosystem based fishery management.” for American Meteorological Society Capitol Hill Policy Briefing on Applications of Seasonal Forecasting, Washington, DC  
+April 2015: (Invited) “Uncertainty in Ecosystem Models: Taxonomy and Treatment”, NMFS-OAR Uncertainty Workshop, 
 
-* 2015
+November 2014:	“WGNARS: IEA progress, opportunities, and challenges” ICES WKRISCO in Copenhagen, Denmark
 
-•	Presenter in American Meteorological Society Capitol Hill Policy Briefing on Applications of Seasonal Forecasting, September 2015: “Seasonal forecasting and ecosystem based fishery management.” 
+Novemver 2014: “Ecosystem metrics for fisheries management: examples and suggestions”, for Chesapeake Bay Forage Workshop in Solomons, MD
 
+October 2014:	“Mixed fisheries in multispecies and ecosystem models” for ICES WGSAM (presented remotely)
 
-•	NMFS-OAR Uncertainty Workshop, April 2015 (“Uncertainty in Ecosystem Models: Taxonomy and Treatment”)
+February 2013: (Invited) "Visualizing complexity"	Data Visualization Workshop, Portland ME
 
-* 2014
+April 2011: "Diet data products for stock assessment" for the Stock-specific ecosystem indicators workshop hosted by Alaska Fisheries Science Center, Seattle, WA
 
-•	ICES WGSAM, October 2014 (“Mixed fisheries in multispecies and ecosystem models” presented remotely)
-•	Chesapeake Bay Forage Workshop, Nov 2014 (“Ecosystem metrics for fisheries management: 
-examples and suggestions”)
-•	ICES WKRISCO, Nov2014 (“WGNARS: IEA progress, opportunities, and challenges”)
+March 2011: "Central GOA dynamic model simulations of whale restoration, jellyfish fluctuations, and no fishing" for GLOBEC Pan-Regional Synthesis PI meeting, Seattle, WA
 
+December 2010: "Marine ecosystems science and management from Alaska to Puget Sound" with Chris Harvey (NWFSC) at the Science Cafe, an informal public lecture series in Seattle, WA sponsored by Pacific Science Center
 
-•	Data Visualization Workshop, Portland ME, February 2013 (Visualizing complexity; invited)
+September 2010: "Ecosystem Considerations SAFE" to the joint Groundfish Plan Teams, Seattle, WA
 
+May 2010: “Arctic ecosystem knowledge, where do we stand and where do we go from here?” in the AFSC seminar series, Seattle, WA
 
--Presented "Diet data products for stock assessment" and co-organized the Stock-specific ecosystem indicators workshop hosted by AFSC, April 7, 2011
+May 2010: "GOA ecosystem overview and data summary", and examples of fitting our models to time series data at CAMEO stock production modeling workshop, Woods Hole MA, May 10-14
 
--Presented Central GOA dynamic model simulations of whale restoration, jellyfish fluctuations, and no fishing at GLOBEC Pan-Regional Synthesis PI meeting, Feb 28-March 4, 2011
+April 2010: “Fishing policy simulations in end-to-end models” at CAMEO end to end modeling workshop, Woods Hole MA
 
-- Presented “Fishing policy simulations in end-to-end models” at CAMEO end to end modeling workshop, Woods Hole MA, April 18-22 2010. Also, summarized discussions for two breakout groups and contributed meeting notes. - Presented GOA ecosystem overview and data summary, and examples of fitting our models to time series data at CAMEO stock production modeling workshop, Woods Hole MA, May 10-14
+March 2010: "GOA food web modeling and management applications" for CAMEO Predator-Prey Interactions workshop in Corvallis, OR 
 
-- Participated in CAMEO Predator-Prey Interactions workshop in Corvallis, OR, March 16-18, 2010: presented three slide “lightning talk” on GOA food web modeling and management applications. - Presented “Ecosystem Considerations in the North Pacific: Groundfish SAFE &Aleutian Islands FEP” at the Ecosystem Science and Management workshop in Silver Spring, MD March 24-25, 2010.
+March 2010: “Ecosystem Considerations in the North Pacific: Groundfish SAFE &Aleutian Islands FEP” for the Ecosystem Science and Management workshop in Silver Spring, MD
 
+December 2009: “Combining single species and ecosystem modeling results in ecosystem assessments” for UW-NMFS Fisheries Think Tank on Dec 8, 2009
 
--Presented "Marine ecosystems science and management from Alaska to Puget Sound" with Chris Harvey (NWFSC) at the Science Cafe, an informal public lecture series in Seattle sponsored by Pacific Science Center, December 7, 2010
+December 2009: (Invited) "Where does ecosystem modeling fit into fisheries management? Examples from the North Pacific” for UW SAFS “Young Investigator” departmental seminar, Seattle, WA. 
 
+August 2009: “Gulf of Alaska food web modeling and predation mortality estimates: information for single-species M” at the national workshop on Natural Mortality, Seattle, WA.
 
-- Presented “Arctic ecosystem knowledge, where do we stand and where do we go from here?” in the AFSC seminar series, 19 May 2010. 
+August 2009: "Analysis of comparisons of single species and ecosystem model results across NMFS Science Centers" at NEMoW II meeting in Annapolis, MD.
 
-- Organized Alaska group analyses and presented work completed to date for ecosystem comparisons for the GLOBEC Pan-Regional Synthesis PI meeting in Seattle, May 25-27, 2010 
+January 2008: Unversity of Washington Career Week panelist for marine science careers, Seattle, WA 
 
-- Presented Ecosystem Considerations SAFE to the joint Groundfish Plan Teams, 22 September 2010.
+May 2008: "Science on Tap" informal evening outreach presentation on ecosystem modeling and fishery management, sponsored by Pacific Science Center, Seattle, WA
 
-- Co-led UW-NMFS Fisheries Think Tank on Dec 8, 2009: “Combining single species and ecosystem modeling results in ecosystem assessments” with Kerim Aydin and Isaac Kaplan (NWFSC)
+May 2008: Food-web ecology demonstration, Marine Science Weekend at Pacific Science Center, Seattle WA
 
--Invited presenter at UW SAFS “Young Investigator” departmental seminar on Dec 3, 2009: "Where does ecosystem modeling fit into fisheries management? Examples from the North Pacific”
+May 2008: "Food web modeling and results", Guest lecture for Ray Hilborn's University of Washington course, Seattle, WA
 
-- Presented “Gulf of Alaska food web modeling and predation mortality estimates: information for single-species M” at the national workshop on Natural Mortality, August 2009
-- Presented analysis of comparisons of single species and ecosystem model results across NMFS Science Centers at NEMoW II meeting in Annapolis, August 2009
-- Presented work completed to date for ecosystem comparisons for the GLOBEC Pan-Regional Synthesis PI meeting in Seattle, September 2009 
+October 2007: (Invited) "Alaskan fisheries and deep-sea resources" for Asia-Pacific Economic Cooperation (APEC) workshop on developing a network on deep sea resources and fisheries,  in Lima, Peru
 
-- UW Career Week panelist for marine science careers January 29, 2008
+October 2007: "Ecosystem threshold modeling" at UW mini-workshop, Seattle WA
 
+October 2007: "Ecosystem modeling" for Pacific Science Center Teacher workshop, Seattle WA
 
-FY08:
-- Invited expert at Asia-Pacific Economic Cooperation (APEC) workshop on developing a network on deep sea resources and fisheries, October 3-5 2007 in Lima, Peru; presented talk on Alaskan fisheries and deep-sea resources including slope surveys in all three ecosystems.
-- Presented results of ecosystem threshold modeling at UW mini-workshop October 24, 2007
-- Presented ecosystem modeling talk at Pacific Science Center Teacher workshop October 26, 2007
+August 2007: "Ecosim model" for National Ecosystem Modeling workshop, Santa Cruz CA 
 
-- Science on Tap May 6, 2008; informal evening outreach presentation on ecosystem modeling and fishery management, sponsored by Pacific Science Center
-- Marine Science Weekend at Pacific Science Center May 15-18, 2008; collaborated to develop and present a food-web/ecology related demonstration (did first presentation, May 15)
-- Presented ecosystem modeling results to Ray Hilborn's UW class, May 19, 2008
+August 2007: "Computation involved in ecosystem modeling" for visiting junior college teachers from Fresno City College and other schools touring the NOAA facility, Seattle, WA 
 
+March 2007: "GOA ecosystem description and comparison methods used in Alaska" for Marine Ecosystems of Norway and the US (MENU) workshop, Bergen Norway
 
-FY07:
-
--MENU workshop, Bergen Norway, March 6-9 presented GOA ecosystem description, demonstrated comparison methods used in Alaska.
--Co-leader of UW Mini-workshop on fitting ecosystem models to data, February 20 2007.
--NEMoW workshop, Santa Cruz CA August 29-31, 2007, gave presentation on Ecosim and contributed to presentation on Ecopath, co-leader of breakout group 1, and rapporteur. -Presented research on computation involved in ecosystem modeling to a group of visiting junior college teachers from Fresno City College and other schools touring the NOAA facility August 9, 2007. -Presenter at AFSC fish booth at the Seattle Fall Fisherman’s Festival, September 22, 2007.
-
+February 2007: Co-leader of UW Mini-workshop on fitting ecosystem models to data, Seattle, WA
 
 # Funded research
 
