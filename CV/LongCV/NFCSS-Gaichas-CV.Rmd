@@ -297,7 +297,7 @@ May: (Invited) "Integrated Ecosystem Assessment (IEA) and State of the Ecosystem
 
 April: "State of the Ecosystem and EAFM Risk Assessment: Mid-Atlantic", for the MAFMC; https://noaa-edab.github.io/presentations/20210407_MAFMC_Gaichas.html 
 
-March-April: "Mid-Atlantic Ecosystem Approach", for Mid-Atlantic Fishery Management Council Summer Flounder MSE stakeholder workshops; https://noaa-edab.github.io/presentations/20210329_MAFMC_MSEwkshp_EAFM_Intro_Gaichas.html 
+March-April: "Mid-Atlantic Ecosystem Approach", for Mid-Atlantic Fishery Management Council Summer Flounder MSE stakeholder workshops (3); https://noaa-edab.github.io/presentations/20210329_MAFMC_MSEwkshp_EAFM_Intro_Gaichas.html 
 
 March: (Invited) "How is our ocean doing? Data, statistics, and modeling for management advice", guest lecture for Stockton University Survey of Marine Life course; https://noaa-edab.github.io/presentations/20210329_Stockton_ecotalk_Gaichas.html 
 
@@ -321,29 +321,32 @@ September: "Mid-Atlantic Ecosystem Approach, Overview and Progress", for MAFMC M
 
 September: (Invited) "US Reference Points Introduction", for ICES Workshop on Reference Point Changes;  https://noaa-edab.github.io/presentations/20200921_USrefpts_WKRPchange_Gaichas.html 
 
-August: FAIR data, for EDAB seaside chat series; 
+September: "State of the Ecosystem: Improving Synthesis and Management Applications" and "wind energy discussion", for MAFMC SSC; https://noaa-edab.github.io/presentations/20200909_MAFMC_SSC_Gaichas.html and https://noaa-edab.github.io/presentations/20200909_MAFMC_SSC_WindSOE_Gaichas.html
+
+August: "FAIR data: resources and details! Avoiding data problems, best practices for metadata and controlled vocabularies", for EDAB seaside chat series; https://noaa-edab.github.io/presentations/20200803_seasideFAIRdata_Gaichas.html
 
 July: (Invited) Deep Uncertainty and MSE, for NOAA Science Advisory Board’s Ecosystem Sciences and Management Working Group; https://noaa-edab.github.io/presentations/20200716_MSEUncertainty_Gaichas.html
 
-June: FAIR data and interoperability, for EDAB seaside chat series; 
+June: "Open Science, FAIR data, and the Fish Condition project", for EDAB seaside chat series; https://noaa-edab.github.io/presentations/20200601_seasideFAIRdata_Gaichas.html
 
 May: Climate and Fisheries, for National Academy of Sciences Ocean Studies Board panel; https://noaa- edab.github.io/presentations/20200522_NASOSB_Gaichas.html
 
-May: "State of the Ecosystem 2020", for ICES Working Grouo on the Northwest Atlantic Regional Sea, (pre-recorded in April); https://noaa-edab.github.io/pre sentations/20200508_US_SOEUpdate_Gaichas.html
+May: "State of the Ecosystem 2020", for ICES Working Grouo on the Northwest Atlantic Regional Sea, (pre-recorded in April); https://noaa-edab.github.io/presentations/20200508_US_SOEUpdate_Gaichas.html
 
-May: "US Council update (EAFM/EBFM)", for ICES Working Grouo on the Northwest Atlantic Regional Sea, (pre-recorded in April); https://noaa-edab.github. io/presentations/20200508_USCouncilUpdate_Gaichas.html
+May: "US Council update (EAFM/EBFM)", for ICES Working Grouo on the Northwest Atlantic Regional Sea, (pre-recorded in April); https://noaa-edab.github.io/presentations/20200508_USCouncilUpdate_Gaichas.html
 
-April: (Invited) Worchester Polytechnic Institute SIAM seminar; 
+April: (Invited) "What does math have to do with fish? Data, statistics, and modeling for management advice", Worchester Polytechnic Institute SIAM seminar; https://noaa-edab.github.io/presentations/20200428_WPI_SIAMtalk_Gaichas.html
 
-April: SOE for MAFMC
+April: "State of the Ecosystem: Mid-Atlantic 2020 with updates to EAFM Risk Assessment" for MAFMC; https://noaa-edab.github.io/presentations/20200407_MAFMC_Gaichas.html
 
-March: SOE for the NEFMC SSC
+March: State of the Ecosystem: New England" for the NEFMC SSC; https://noaa-edab.github.io/presentations/20200331_NEFMC_SSC_Gaichas.html
 
-March: SOE for the MAFMC SSC
+March: "State of the Ecosystem: Mid-Atlantic 2020 with updates to EAFM Risk Assessment" for the MAFMC SSC; https://noaa-edab.github.io/presentations/20200310_MAFMC_SSC_Gaichas.html
 
-February: MREP EBFM section February 2020
+February: "What is Ecosystem Based Fishery Management?", for Marine Resource Education Program
+Science Workshop; https://noaa-edab.github.io/presentations/20200226_EBFM_MREP_Gaichas.html
 
-January: (Invited) NOAA EBM/EBFM webinar series
+January: (Invited) "There is no I in EAFM: Adapting Integrated Ecosystem Assessment for Mid-Atlantic Fisheries Management", for NOAA EBM/EBFM webinar series; https://noaa-edab.github.io/presentations/20200108_EBFM_Gaichas.html recording: https://youtu.be/VnI3XMRw3FI
 
 **2019**
 
@@ -353,9 +356,9 @@ December: conceptual model MAFMC
 
 November: (Invited) CAUSES
 
-October: SMAST seminar
+November: (Invited) OneNOAA AFSC seminar
 
-October: NEFSC seminar
+October: NEFSC seminar, Woods Hole and SMAST seminar, New Bedford
 
 September: conceptual models MAFMC EOP
 
