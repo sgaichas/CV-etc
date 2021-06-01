@@ -372,12 +372,11 @@ May: "Integrated Ecosystem Assessment: Mid-Atlantic Fishery Management’s Succe
 
 May: "Scientist Exchange (2019): A collaborative U.S.- IMR research project" for NOAA-IMR bilateral meeting, Bergen, Norway; https://noaa-edab.github.io/presentations/20190507_REDUS_Gaichas.html
 
-April: SOE for the MAFMC
+April: "State of the Ecosystem: Mid-Atlantic 2019" for the MAFMC; https://noaa-edab.github.io/presentations/20190410_MAFMC_Gaichas.html
 
-April: EAFM Risk Assessment: Mid-Atlantic 2019 Update, for the MAFMC
+April: "EAFM Risk Assessment: Mid-Atlantic 2019 Update", for the MAFMC;  https://noaa-edab.github.io/presentations/20190410_MAFMC_risk_Gaichas.html
 
-March: SOE for the MAFMC SSC
-
+March: "State of the Ecosystem: Mid-Atlantic 2019 with updates to EAFM Risk Assessment" for the MAFMC SSC; https://noaa-edab.github.io/presentations/20190320_MAFMC_SSC_Gaichas.html
 
 **2018** 
 
@@ -408,7 +407,7 @@ Models and Indicators”, for Marine Resources Education Program (MREP) 200 cour
 
 December: “The Dream and the Reality: Meeting decision-making times frames while incorporating ecosystem and economic models into management strategy evaluation”, QUEST webinar
 
-November:	NSF Wind Energy Workshop in New Bedford, MA, November 2017 (“IEAs”)
+November:	(Invited) "IEAs" for NSF Wind Energy Workshop in New Bedford, MA
 
 October:	“Update on US modeling activities”, “Indicator based risk assessment”, “Herring MSE update” and 6 presentations for other US scientists at ICES WGSAM in San Sebastian, Spain 
 
@@ -436,7 +435,7 @@ February: "Northeast Fisheries Science Center Ecosystem Modeling: Applications I
 
 **2016**
 
-December: "Predator models" abd "Predator metrics and results" for Herring MSE stakeholder workshop in Portsmouth, NH
+December: "Predator models" and "Predator metrics and results" for Herring MSE stakeholder workshop in Portsmouth, NH
 
 October:	“Update on US MSE activities and Atlantis Poseidon Adventure project”, Mid-Atlantic Ecosystem Approach to Fisheries Management”, and two presentations for other US scientists. ICES WGSAM in Reykjavik, Iceland
 
@@ -449,11 +448,11 @@ May: "What do we know about Atlantic herring's role as forage?", for NEFMC herri
 **Selected presentations, 2015-2007**
 
 September 2015: (Invited) “Seasonal forecasting and ecosystem based fishery management.” for American Meteorological Society Capitol Hill Policy Briefing on Applications of Seasonal Forecasting, Washington, DC  
-April 2015: (Invited) “Uncertainty in Ecosystem Models: Taxonomy and Treatment”, NMFS-OAR Uncertainty Workshop, 
+April 2015: (Invited) “Uncertainty in Ecosystem Models: Taxonomy and Treatment”, NMFS-OAR Uncertainty Workshop, Ann Arbor, MI
 
 November 2014:	“WGNARS: IEA progress, opportunities, and challenges” ICES WKRISCO in Copenhagen, Denmark
 
-Novemver 2014: “Ecosystem metrics for fisheries management: examples and suggestions”, for Chesapeake Bay Forage Workshop in Solomons, MD
+November 2014: “Ecosystem metrics for fisheries management: examples and suggestions”, for Chesapeake Bay Forage Workshop in Solomons, MD
 
 October 2014:	“Mixed fisheries in multispecies and ecosystem models” for ICES WGSAM (presented remotely)
 
@@ -509,25 +508,37 @@ February 2007: Co-leader of UW Mini-workshop on fitting ecosystem models to data
 
 # Funded research
 
-PI and Co-PI on multiple Northeast Fisheries Science Center internal R&D proposals:  
+PI and Co-PI on multiple Northeast Fisheries Science Center internal R&D proposals:
+
 *  Evaluating environmental indicators of energy density of forage species in the Northeast U.S. (2020, 2021)
+
 *  Building operational multispecies assessments: comparing performance of length- and age-based multi-species modeling approaches (2020)
+
 *  Development of oceanographic indicators for Northern shortfin squid (2020)
+
 *  Climate-driven Atlantis ecosystem model hindcasts and projections for the U.S. Northeast Shelf: Implications of future management strategies under climate change (2019)
 
 Co-PI on multiple Northeast Fisheries Science Center internal Groundfish/Climate proposals:
+
 *  Evaluating annual variation and environmental regulation of fecundity in winter and yellowtail flounder with implications for stock reference points (2021)
-*  Incorporating multivariate physical and biological data as covariates in state-space age-structured stock assessments (2020)
 
-PI and Co-PI on NMFS SF MSA proposals
-*  MAFMC MSE support (2020, 2021)
+* Incorporating multivariate physical and biological data as covariates in state-space age-structured stock assessments (2020)
 
-* Co-PI on NMFS SF International fellowship (2019): 
+PI and Co-PI on NMFS SF MSA proposals for MAFMC MSE support:
 
-*	Co-PI on COCA proposal with GMRI/SMAST on MSE for groundfish under climate change (2017-present), developing MSE framework and testing a range of standard and climate-informed harvest control rules for multiple groundfish species. Postdoc hiring committee member: reviewed resumes, participated in interviews, selected candidates. Facilitated collaboration between COCA postdocs and NEFSC scientists, adding economists.
-* Co-PI on NMFS Stock Assessment Methods R&D proposal: A comparison of length- and age-based multi- and single-species modeling approaches (2016)
-* Co-PI on modeling portion of the North Pacific Research Board’s GOA Integrated Ecosystem Research Plan (2010-2011).
-*	Investigator with 22 others on the interdisciplinary "Collaborative Research: GLOBEC Pan-Regional Synthesis: End-to-end Energy Budgets in US-GLOBEC Regions" project comparing four marine ecosystems in the Southern Ocean, in the Pacific off Alaska and the U.S. West Coast, and in the Atlantic off the U.S East Coast (2008-2011).
+* (2020)
+
+* MAFMC MSE support (2021)
+
+Co-PI on NMFS SF International fellowship (2019): 
+
+Co-PI on COCA proposal with GMRI/SMAST on MSE for groundfish under climate change (2017-present), developing MSE framework and testing a range of standard and climate-informed harvest control rules for multiple groundfish species. Postdoc hiring committee member: reviewed resumes, participated in interviews, selected candidates. Facilitated collaboration between COCA postdocs and NEFSC scientists, adding economists.
+
+Co-PI on NMFS Stock Assessment Methods R&D proposal: A comparison of length- and age-based multi- and single-species modeling approaches (2016)
+
+Co-PI on modeling portion of the North Pacific Research Board’s GOA Integrated Ecosystem Research Plan (2010-2011).
+
+Investigator with 22 others on the interdisciplinary "Collaborative Research: GLOBEC Pan-Regional Synthesis: End-to-end Energy Budgets in US-GLOBEC Regions" project comparing four marine ecosystems in the Southern Ocean, in the Pacific off Alaska and the U.S. West Coast, and in the Atlantic off the U.S East Coast (2008-2011).
 
 # Professional Affiliations/Activities/Service
 
@@ -588,21 +599,14 @@ Invited review panelist:
 * Atlantic herring benchmark stock assesment working group (2018)
 * Herring MSE steering committee member, New England Fishery Managment Council (2016). 
 * Ecosystem Based Fishery Management Plan Development Team member, New England Fishery Management Council (2012-2016)
-
 * Invited speaker/participant, Multispecies Fisheries Management Workshop, Fujian, China 2018
 *	National Climate Assessment (NCA4; 2016-2018) Ecosystem Chapter author contributing to climate effects on trophic interactions and emergent properties
 *	National Integrating Climate Effects into Fisheries Management (ICE-FM) working group member
-ICES WKs
-WKRPchange 2020
-
-facilitated a Stellwagen Bank NMS conceptual modeling workshop (March 2017) 
-WKRISCO 2014
-
-* Advisory partner in the European Commission's MYFISH project (2012-2015), which defined alternative approaches to Maximum Sustainable Yield including ecological, social, and economic dimensions.
-
+* Stellwagen Bank NMS conceptual modeling workshop facilitator(March 2017) 
+* ICES Workshop on Regional Seas Commissions and Integrated Ecosystem Assessment Scoping (WKRISCO; 2014)
+* Advisory partner in the European Commission's MYFISH project (2012-2015), which defined alternative approaches to Maximum Sustainable Yield including ecological, social, and economic dimensions.  
 *	NEFSC Stock Assessment Program Review steering committee member (2013-2014). Participated in planning meetings (including Directorate briefing) and full review meeting 19-23 May 2014. Developed background materials and presentation on how well NEFSC integrates ecosystem and climate considerations into stock assessments. Contributed to follow up and Center response. 
 *	National Stock Assessment Improvement Plan (SAIP) writing team member for NEFSC (2013-2014). Contributed to chapters on incorporating ecosystem effects into stock assessments and future of stock assessment (including IEAs, multimodel inference, etc.).  
-* CB Forage Fish 2014
 * Member of the Aleutian Islands Fishery Ecosystem Plan Team (2007-2011) and the Gulf of Alaska Fishery Management Plan Team (2000-2011) for North Pacific Fishery Management Council. Co-authored the Aleutian Islands Fishery Ecosystem Plan (2007) and regularly co-authored the Stock Assessment and Fishery Evaluation introduction and summary for the Gulf of Alaska. Authored Ecosystem Description and contributed analyses for management alternatives for the Arctic Fishery Management Plan (2009).
 * Co-organizer of the Bering Sea Ecosystem Synthesis Team (2010), a multi-disciplinary group charged with identifying important ecosystem indicators for fishery management and writing an eastern Bering Sea ecosystem assessment for the North Pacific Fishery Management Council. 
 *	Invited participant in Asia-Pacific Economic Cooperation International workshop on developing a network for deep sea research in Lima, Peru (2007). Presented information on North Pacific ecosystems, fisheries, and management, and helped develop a preliminary framework for an information-sharing network. 
@@ -661,16 +665,15 @@ One current UNH PhD student committee
 
 IN FISH program 2021 Internship mentor: diet data analysis and development of ecosystem indicators
 
-Shoals Marine Lab summer course and lab guest lecturer 2021, 2019
-
-WPI REU program (twice), organized lab visits and provided guidance, background, and data for student projects
+Shoals Marine Lab Integrated Ecosystem Research and Management summer course and lab guest lecturer 2021, 2019: provided ecosystem modeling background and interactive R shiny app for lab
 
 Invited course and lab guest lecturer for Rutgers 2020 summer course (postponed due to COVID)
 
+Worcester Polytechnic Institute Research Experience for Undergraduates in Applied Mathematics, 2018, 2014: organized NEFSC lab visits, R/V Albatross tour, and provided guidance, background, and data for student projects
 
-*	Guest lecturer: Woods Hole Partnership in Education Program (PEP), June 2015; Worcester Polytechnic Institute Research Experience for Undergraduates in Applied Mathematics, June 2014; WHOI Fisheries Oceanography Course, April 2014, Rutgers Ecology and Evolution Dept. Seminar, March 2013, SMAST Fisheries Oceanography Dept. Seminar, February 2012.
+Guest lecturer: Woods Hole Partnership in Education Program (PEP), June 2015; WHOI Fisheries Oceanography Course, April 2014, Rutgers Ecology and Evolution Dept. Seminar, March 2013, SMAST Fisheries Oceanography Dept. Seminar, February 2012.
 
-*	Regular participant in Alaska Fisheries Science Center scientific education and outreach activities, including Pacific Science Center programs, Minorities in Marine Science Undergraduate Program presentations, elementary, secondary, and college educator workshops, internship application review and placement.  
+Regular participant in Alaska Fisheries Science Center scientific education and outreach activities, including Pacific Science Center programs, Minorities in Marine Science Undergraduate Program presentations, elementary, secondary, and college educator workshops, internship application review and placement (2006-2011).  
 
 
 # Agency Service
@@ -678,7 +681,6 @@ Invited course and lab guest lecturer for Rutgers 2020 summer course (postponed 
 ## Committees
 
 National Management Strategy Evaluation Working Group co-Chair (2016-present)
-
 
 National EBFM workshop participant, July 2020
 *  Contributed NEFSC info to ESR presentation
@@ -688,31 +690,31 @@ IMR/NOAA bilateral meetings 2019, 2017
     
 Regional IEA Working Group
 
-
-
-## Other
-
 # Other relevant information
 
 March 2020 - present: considerable time was needed for dependent care (elementary age kids and elder care), reducing available work hours. Regularly used the excused absence for dependent care.
 
 # References
 
-Dr. Vera Agostini, Deputy Director
-Fisheries and Aquaculture Policy and Resources Division
-Food and Agriculture Organization of the United Nations
-Viale delle Terme di Caracalla
-00153 Rome, Italy.
-Vera.Agostini@fao.org
-P. +39 06570 50183 ; F. +39 06570 53020
-Skype vera.agostini
+Dr. Vera Agostini   
+Deputy Director  
+Fisheries and Aquaculture Policy and Resources Division  
+Food and Agriculture Organization of the United Nations  
+Viale delle Terme di Caracalla  
+00153 Rome, Italy  
+<Vera.Agostini@fao.org>  
+Work: +39 06570 50183; 
+Fax: +39 06570 53020
+Skype vera.agostini 
 
 
 Jane DiCosimo
-Retired, formerly 
+Independent Consultant
+(Retired: Supervisory Fisheries Biologist) 
 13411 Norden Dr, Silver Spring, MD 20906
 Or if it would help more
 34198 Eaglet Way Soldotna AK 99669
+<janedicosimo@gmail.com>
 
 
 
@@ -720,10 +722,18 @@ Dr. Daniel Howell
 Institute of Marine Research
 P.O. Box 1870 Nordnes
 NO-5817 Bergen, Norway
-daniel.howell@hi.no
-+47 92063885
+<daniel.howell@hi.no>
+Work: +47 92063885
 
 
 Dr. Jason Link
-
+Senior Scientist for Ecosystem Management
+National Oceanic and Atmospheric Administration 
+National Marine Fisheries Service 
+166 Water St. 
+Woods Hole, MA 02543 USA 
+<jason.link@noaa.gov> 
+Work: 508 495-2340
+Fax: 508 495-2258
+Cell: 774-392-1330
 
