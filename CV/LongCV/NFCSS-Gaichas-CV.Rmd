@@ -289,7 +289,7 @@ Deroba, J., S. Gaichas, Lee M‐Y., Feeney R.G., Boelke D., Irwin B.“Getting o
 
 ## Other seminars/presentations
 
-Summary: Regular presentations to managers and stakeholders at Fishery Management Council meetings and management strategy evaluation stakeholder workshops. Presenter for the Marine Resource Education Program and at the Maine Fishermen's Forum. Presenter in multiple agency and academic seminar series including OneNOAA, Alaska and Northeast Fishery Science Centers, University of Washington, University of Massachusetts, Rutgers University, and others. Invited speaker for public lecture series, teacher workshops, outreach events, and university courses. Links to representative presentations for the past 3 years are listed, as well as titles of selected older presentations.
+Summary: Regular presentations to managers and stakeholders at Fishery Management Council meetings and management strategy evaluation stakeholder workshops. Presenter for the Marine Resource Education Program and at the Maine Fishermen's Forum. Presenter in multiple agency and academic seminar series including OneNOAA, Alaska and Northeast Fishery Science Centers, University of Washington, University of Massachusetts, Rutgers University, and others. Invited speaker for public lecture series, teacher workshops, outreach events, and university courses. Links to representative presentations within the past 3 years are listed, as well as titles of selected older presentations.
 
 **2021**
 
@@ -341,40 +341,36 @@ April: "State of the Ecosystem: Mid-Atlantic 2020 with updates to EAFM Risk Asse
 
 March: State of the Ecosystem: New England" for the NEFMC SSC; https://noaa-edab.github.io/presentations/20200331_NEFMC_SSC_Gaichas.html
 
-March: "State of the Ecosystem: Mid-Atlantic 2020 with updates to EAFM Risk Assessment" for the MAFMC SSC; https://noaa-edab.github.io/presentations/20200310_MAFMC_SSC_Gaichas.html
+March: "State of the Ecosystem: Mid-Atlantic 2020 with updates to EAFM Risk Assessment" for the MAFMC SSC in Baltimore MD; https://noaa-edab.github.io/presentations/20200310_MAFMC_SSC_Gaichas.html
 
 February: "What is Ecosystem Based Fishery Management?", for Marine Resource Education Program
-Science Workshop; https://noaa-edab.github.io/presentations/20200226_EBFM_MREP_Gaichas.html
+Science Workshop in Falmouth MA; https://noaa-edab.github.io/presentations/20200226_EBFM_MREP_Gaichas.html
 
-January: (Invited) "There is no I in EAFM: Adapting Integrated Ecosystem Assessment for Mid-Atlantic Fisheries Management", for NOAA EBM/EBFM webinar series; https://noaa-edab.github.io/presentations/20200108_EBFM_Gaichas.html recording: https://youtu.be/VnI3XMRw3FI
+January: (Invited) "There is no I in EAFM: Adapting Integrated Ecosystem Assessment for Mid-Atlantic Fisheries Management", for NOAA EBM/EBFM webinar series (online); https://noaa-edab.github.io/presentations/20200108_EBFM_Gaichas.html recording: https://youtu.be/VnI3XMRw3FI
 
 **2019**
 
-December: READ meeting
+December: "summer Flounder Conceptual Model and Questions", interactive webpage presentations for MAFMC, Annapolis MD; https://nefsc.github.io/READ-SSB-DePiper_Summer_Flounder_Conceptual_Models/sfconsmod_final_2col.html
 
-December: conceptual model MAFMC
+November: (Invited) "Progress on Implementing Ecosystem-Based Fisheries Management in the United States Through the Use of Ecosystem Models and Analysis", for CAUSES workshop, Woods Hole MA; https://noaa-edab.github.io/presentations/20191120_CAUSES_Gaichas.html
 
-November: (Invited) CAUSES
+November: (Invited) "Fragile ecosystems, robust assessments? (What I did with my summer vacation)",  OneNOAA AFSC seminar (online). Also given as UMass School of Marine Science and Technology in New Bedford MA, and NEFSC seminar in Woods Hole MA in October; https://noaa-edab.github.io/presentations/20191009_SMAST_Gaichas.html
 
-November: (Invited) OneNOAA AFSC seminar
-
-October: NEFSC seminar, Woods Hole and SMAST seminar, New Bedford
-
-September: conceptual models MAFMC EOP
+September: "Conceptual models: What are they? How can we use them?" for MAFMC Ecosystem and Ocean Planning Committee (EOP), Baltimore MD; https://noaa-edab.github.io/presentations/20190918_MAFMC_EOP_Gaichas.html
 
 August: "Management Strategy Evaluation, National Progress and Needs", briefing for NOAA leadership (online)
 
-July: (Invited) Shoals Marine Lab Integrated Ecosystem Assessment course guest lecture and lab
+July: (Invited) "Ecosystem modelling approaches: What questions can we address?", Shoals Marine Lab Integrated Ecosystem Assessment course guest lecture and lab, Appledore Island ME; https://noaa-edab.github.io/presentations/20190723_SMLlab_Gaichas.html
 
-July: (Invited) Shoals Marine Lab Rock Talk seminar series
+July: (Invited) "Fishing within food webs: Modeling for management advice", Shoals Marine Lab Rock Talk evening seminar series, Appledore Island ME; https://noaa-edab.github.io/presentations/20190723_SMLrocktalk_Gaichas.html
 
-May: (Invited) IMR dept seminar
+May: (Invited) "Generating datasets for model performance testing: How challenging can it be?", Institute for Marine Research (IMR) Departmental seminar, Bergen, Norway; https://noaa-edab.github.io/presentations/20190528_deptIMR_Gaichas.html
 
-May: (Invited) IMR inst seminar
+May: (Invited) "Implementing an Ecosystem Approach to Fishery Management: A Risk Assessment Example", IMR Institute seminar series, Bergen, Norway
 
-May: NOAA-IMR bilateral
+May: "Integrated Ecosystem Assessment: Mid-Atlantic Fishery Management’s Success Story" for NOAA-IMR bilateral meeting, Bergen, Norway; https://noaa-edab.github.io/presentations/20190506_IEA_Gaichas.html
 
-May: NOAA-IMR bilateral
+May: "Scientist Exchange (2019): A collaborative U.S.- IMR research project" for NOAA-IMR bilateral meeting, Bergen, Norway; https://noaa-edab.github.io/presentations/20190507_REDUS_Gaichas.html
 
 April: SOE for the MAFMC
 
@@ -513,18 +509,18 @@ February 2007: Co-leader of UW Mini-workshop on fitting ecosystem models to data
 
 # Funded research
 
-PI and Co-PI on multiple Northeast Fisheries Science Center internal R&D proposals:
-* Evaluating environmental indicators of energy density of forage species in the Northeast U.S. (2020, 2021)
-* Building operational multispecies assessments: comparing performance of length- and age-based multi-species modeling approaches (2020)
-* Development of oceanographic indicators for Northern shortfin squid (2020)
-* Climate-driven Atlantis ecosystem model hindcasts and projections for the U.S. Northeast Shelf: Implications of future management strategies under climate change (2019)
+PI and Co-PI on multiple Northeast Fisheries Science Center internal R&D proposals:  
+*  Evaluating environmental indicators of energy density of forage species in the Northeast U.S. (2020, 2021)
+*  Building operational multispecies assessments: comparing performance of length- and age-based multi-species modeling approaches (2020)
+*  Development of oceanographic indicators for Northern shortfin squid (2020)
+*  Climate-driven Atlantis ecosystem model hindcasts and projections for the U.S. Northeast Shelf: Implications of future management strategies under climate change (2019)
 
 Co-PI on multiple Northeast Fisheries Science Center internal Groundfish/Climate proposals:
-* Evaluating annual variation and environmental regulation of fecundity in winter and yellowtail flounder with implications for stock reference points (2021)
-* Incorporating multivariate physical and biological data as covariates in state-space age-structured stock assessments (2020)
+*  Evaluating annual variation and environmental regulation of fecundity in winter and yellowtail flounder with implications for stock reference points (2021)
+*  Incorporating multivariate physical and biological data as covariates in state-space age-structured stock assessments (2020)
 
 PI and Co-PI on NMFS SF MSA proposals
-* MAFMC MSE support (2020, 2021)
+*  MAFMC MSE support (2020, 2021)
 
 * Co-PI on NMFS SF International fellowship (2019): 
 
@@ -702,9 +698,7 @@ March 2020 - present: considerable time was needed for dependent care (elementar
 
 # References
 
-Vera Agostini
-FAO
-Deputy Director
+Dr. Vera Agostini, Deputy Director
 Fisheries and Aquaculture Policy and Resources Division
 Food and Agriculture Organization of the United Nations
 Viale delle Terme di Caracalla
@@ -722,7 +716,7 @@ Or if it would help more
 
 
 
-Daniel Howell
+Dr. Daniel Howell
 Institute of Marine Research
 P.O. Box 1870 Nordnes
 NO-5817 Bergen, Norway
@@ -730,6 +724,6 @@ daniel.howell@hi.no
 +47 92063885
 
 
-Jason Link
+Dr. Jason Link
 
 
