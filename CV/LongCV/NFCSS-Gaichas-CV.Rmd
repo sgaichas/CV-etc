@@ -231,6 +231,8 @@ Summary: Speaker, moderator, and symposium organizer at regional to internationa
 
 *Upcoming invited presentations*
 
+Invited keynote speaker on linking Atlantis operating models with fishery stock assessments, Second Atlantis Summit May 2-6 2022, in Bergen, Norway
+
 Invited keynote speaker on best practices in multispecies modeling, Multispecies modeling applications workshop (online), June 2021. 
 
 Invited keynote speaker on ecosystem indicators contextualizing stock assessments, U.S. Fishery Management Council 7th Scientific Coordination Subcommittee (formerly National SSC), August 2020 (meeting postponed to 2022)
@@ -698,8 +700,7 @@ March 2020 - present: considerable time was needed for dependent care (elementar
 # References
 
 Dr. Vera Agostini   
-Deputy Director  
-Fisheries and Aquaculture Policy and Resources Division  
+Deputy Director, Fisheries and Aquaculture Policy and Resources Division  
 Food and Agriculture Organization of the United Nations  
 Viale delle Terme di Caracalla  
 00153 Rome, Italy  
@@ -712,11 +713,9 @@ Skype vera.agostini
 Jane DiCosimo  
 Independent Consultant  
 (Retired Chief, NOAA Fisheries Office of Science and Technology Assessment and Monitoring Division)  
-13411 Norden Dr,   
-Silver Spring, MD 20906 (and)  
-34198 Eaglet Way,   
-Soldotna AK 99669  
-<janedicosimo@gmail.com> 
+13411 Norden Dr, Silver Spring, MD 20906 (and)  
+34198 Eaglet Way, Soldotna AK 99669  
+<janedicosimo@gmail.com>  
 Work: +1 907 830-1222
 
 
@@ -729,9 +728,7 @@ Work: +47 92063885
 
 
 Dr. Jason Link  
-Senior Scientist for Ecosystem Management  
-National Oceanic and Atmospheric Administration  
-National Marine Fisheries Service  
+Senior Scientist for Ecosystem Management, NOAA National Marine Fisheries Service  
 166 Water St.  
 Woods Hole, MA 02543 USA  
 <jason.link@noaa.gov>  
